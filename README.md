@@ -40,3 +40,7 @@
 **3. Trích câu trả lời từ ngữ cảnh và gán giá trị vị trí bắt đầu cho câu trả lời**
 
 ![](pic/answer.png)
+
+**4. Trường hợp thêm câu hỏi**
+
+![](pic/more-ques.png)
