@@ -11,7 +11,7 @@
 
 ![](pic/clone-code.png)
 
-**3. Chọn những files đã chỉnh sửa để commit **
+**3. Chọn những files đã chỉnh sửa để commit**
 
 **4. Chọn đúng nhánh của mình để commit, KHÔNG CHỌN NHÁNH MASTER**
 
@@ -21,7 +21,7 @@
 
 **7. Mở trình duyệt và đăng nhập vào [Git](https://github.com/NhanNguyen1403/QA-vi-data) và tạo Pull Request**
 
-![](pic/create-pr/png)
+![](pic/create-pr.png)
 
 **8. Đặt tên Pull Request, điền mô tả, chọn người review, chọn người liên quan**
 
@@ -40,3 +40,7 @@
 **3. Trích câu trả lời từ ngữ cảnh và gán giá trị vị trí bắt đầu cho câu trả lời**
 
 ![](pic/answer.png)
+
+**4. Trường hợp thêm câu hỏi**
+
+![](pic/more-ques.png)
