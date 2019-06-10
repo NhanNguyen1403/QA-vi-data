@@ -21,7 +21,11 @@
 
 **7. Mở trình duyệt và đăng nhập vào [Git](https://github.com/NhanNguyen1403/QA-vi-data) và tạo Pull Request**
 
+![](pic/create-pr/png)
+
 **8. Đặt tên Pull Request, điền mô tả, chọn người review, chọn người liên quan**
+
+![](pic/pr-info.png)
 
 # Hướng dẫn thao tác:
 
