@@ -1,0 +1,55 @@
+{
+    "context": "Đây là các đối tượng đang chấp hành án, đợi xét xử về tội giết người và mua bán trái phép chất ma túy trốn khỏi trại giam. Lực lượng bắt giữ Quân khi đang lẩn trốn tại TP Cần Thơ. Trước đó, lực lượng trinh sát đã bắt giữ 2 phạm nhân Nguyễn Văn Hân và Nguyễn Duy Minh.3 đối tượng khai nhận đã bàn với nhau đào chân tường, vượt rào bỏ trốn. Cả 3 đối tượng đã thoát ra ngoài, thuê taxi đi về hướng TP Long Xuyên, sau đó chia 3 hướng lẩn trốn.VTV.vn - Theo kết quả phiên xét xử sơ thẩm sáng nay (8/5) của Tòa án nhân dân TP Hà Nội, 2 tử tù từng trốn khỏi trại giam T16 của Bộ Công an năm 2017 đã phải nhận thêm án.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0b638c91a59a2c59c1feb292f41280be98460fc91"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0b638c91a59a2c59c1feb292f41280be98460fc92"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0b638c91a59a2c59c1feb292f41280be98460fc93"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0b638c91a59a2c59c1feb292f41280be98460fc94"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0b638c91a59a2c59c1feb292f41280be98460fc5"
+        }
+    ]
+}

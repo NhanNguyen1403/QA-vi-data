@@ -1,0 +1,55 @@
+{
+    "context": "Lượng mưa từ 7h - 15h trong khoảng từ 95 - 181mm. Hiện lúc này lũ trên các sông đang xuống nhưng vẫn cần đề phòng lũ lên lại vì dự báo mưa lớn vẫn còn tiếp diễn. Trong đêm 10/12 và sáng 11/12, vùng mưa vừa, mưa to sẽ tập trung ở Quảng Trị đến Quảng Ngãi với lượng 70 - 120mm, có nơi trên 150mm. Từ buổi trưa, chiều 11/12 đến ngày 13/12, vùng mưa lớn sẽ mở rộng ra khu vực Nghệ An - Phú Yên khi có không khí lạnh tăng cường xuống.Giữa các vùng sẽ có sự phân hóa lớn về nhiệt độ. Tại các thành phố ở phía Bắc như: Thanh Hóa, Vinh, Đồng Hới, trời khá rét với mức nhiệt vào buổi trưa 11/12 đạt từ 18 - 23oC. Tại các thành phố Huế và Đà Nẵng, mức nhiệt ổn định 25oC. Trong khi đó, tại các thành phố Quy Nhơn, Nha Trang, Phan Thiết nhiệt độ cao hơn hẳn, dao động trong khoảng 30 - 31oC.Tại khu vực Tây Nguyên, thời tiết ít có sự thay đổi. Đêm 10/12 trời không mưa, ngày 11/12 nắng diễn ra cả ngày nhưng không nóng. Nhiệt độ cao nhất tại thành phố Kon Tum, Pleiku, Buôn Ma Thuột là 28 - 30oC, thành phố Đà Lạt không quá 23oC.Về thời tiết biển, từ ngày 11/12, ở vịnh Bắc Bộ gió mạnh dần lên cấp 6 - 7, giật cấp 8, trời mưa dông kèm nguy cơ lốc xoáy, biển động. Vùng biển từ Quảng Trị - Ninh Thuận cũng có mưa dông rải rác kèm nguy cơ lốc xoáy, gió giật mạnh. Gió cấp 4 - 5, vào chiều 11/12 ở vùng biển Quảng Trị - Quảng Ngãi gió mạnh lên cấp 6, giật cấp 8, biển động. Ở huyện đảo Hoàng Sa vào ngày 11/12 cũng có gió cấp 6 - 7, giật cấp 8, biển động. Đối với huyện đảo Trường Sa gió không quá cấp 5 nhưng đề phòng có lốc xoáy, gió giật mạnh trong cơn mưa dông.VTV.vn - Miền Trung đang trong một đợt mưa lớn gây ngập nhiều tỉnh thành, ngày 10/12, mặc dù cường độ mưa có thể giảm nhẹ hơn nhưng vẫn có điểm mưa vừa, mưa to.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "b7ae971aaff631fa5810785d7110bbee94cd7d8a1"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "b7ae971aaff631fa5810785d7110bbee94cd7d8a2"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "b7ae971aaff631fa5810785d7110bbee94cd7d8a3"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "b7ae971aaff631fa5810785d7110bbee94cd7d8a4"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "b7ae971aaff631fa5810785d7110bbee94cd7d85"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "context": "Kết thúc ngày thi đấu cuối cùng của đại hội, đoàn Hà Nội giành ngôi đầu với 176 HCV, đoàn TP Hồ Chí Minh giành 118 HCV xếp thứ hai, thứ ba là đoàn Quân đội với 59 HCV.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "14fd13711ae458881ba20ff0f2d789d161f2de851"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "14fd13711ae458881ba20ff0f2d789d161f2de852"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "14fd13711ae458881ba20ff0f2d789d161f2de853"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "14fd13711ae458881ba20ff0f2d789d161f2de854"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "14fd13711ae458881ba20ff0f2d789d161f2de85"
+        }
+    ]
+}

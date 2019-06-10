@@ -1,0 +1,55 @@
+{
+    "context": "Theo cơ quan Cạnh tranh Italy, Facebook đã vi phạm Điều 21 và 22 của Luật Quyền lợi người tiêu dùng khi khuyến khích người dùng đăng ký tài khoản nhưng không thông báo đầy đủ cho họ ngay từ thời điểm đăng ký rằng những thông tin cá nhân của họ sẽ được thu thập để phục vụ mục đích thương mại. Tiếp đó, hãng công nghệ này lại chuyển dữ liệu cá nhân của người dùng cho bên thứ ba mà không có sự cho phép của họ. Ngoài số tiền phạt, hãng công nghệ này cũng bị buộc phải đưa ra thông báo với người dùng để khắc phục những thiếu sót trên.Trong những tháng gần đây, Facebook liên tiếp trở thành tâm điểm chú ý do một loạt vụ bê bối liên quan tới dữ liệu cá nhân người dùng. Tuy nhiên, gã khổng lồ công nghệ Mỹ vẫn một mực phủ nhận việc bán dữ liệu cá nhân người dùng cho bên thứ ba.Facebook bị phạt 10 triệu Euro vì khai thác trái phép dữ liệu người dùng.Theo Vnexpress, Facebook đang đối mặt cuộc khủng hoảng mà CNBC gọi là một phép thử lớn chưa từng có liên quan tới dữ liệu người dùng.Facebook đã để công ty truyền thông Cambridge Analytica tiếp cận trái phép dữ liệu của 50 triệu người dùng Mỹ trong chiến dịch bầu cử Tổng thống năm 2016.Điều đáng báo động nhất trong vụ bê bối liên quan đến Cambridge Analytica là hãng truyền thông này không vi phạm quy định nào cả. Mọi việc xảy ra đều phù hợp với chính sách của Facebook.Vụ bê bối này làm nổi lên một vấn đề trong cách kinh doanh khai thác dữ liệu người dùng của Facebook. Doanh nghiệp này kiếm tiền bằng cách thu thập dữ liệu của người dùng và bán chúng lại cho các nhà phát triển ứng dụng, quảng cáo. Vì vậy, người dùng hầu như không thể ngăn chặn dữ liệu cá nhân được mua bán cho bên thứ ba và cũng không xác định được mục đích sử dụng của họ là gì.Facebook cũng thừa nhận với CNN rằng không thể giám sát các nhà phát triển và quảng cáo sử dụng dữ liệu người dùng. Điều này giống như việc bạn bán thuốc lá cho ai đó và nói không được đưa nó cho bạn của họ. Sự giới hạn trong khả năng giám sát dữ liệu của Facebook càng được thể hiện rõ.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8cf8d194a1845513a7903a33118000f17355896f1"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8cf8d194a1845513a7903a33118000f17355896f2"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8cf8d194a1845513a7903a33118000f17355896f3"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8cf8d194a1845513a7903a33118000f17355896f4"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8cf8d194a1845513a7903a33118000f173558965"
+        }
+    ]
+}

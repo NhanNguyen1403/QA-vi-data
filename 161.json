@@ -1,0 +1,55 @@
+{
+    "context": "Vụ việc được ghi lại bằng camera hành trình ngày 3/12 vừa qua tại Thái Nguyên. Đang đi trên tuyến đường này, chiếc xe đã ghi lại được cảnh một xe bán tải đang vượt xe máy đi cùng chiều. Điều đáng nói, vào thời điểm này, một chiếc xe đang đi ngược chiều với xe bán tải. Đây là tuyến đường nhỏ, hẹp chỉ có 2 chiều đường, bởi vậy để tránh xe bán tải đang di chuyển tốc độ cao, chiếc xe đi ngược chiều đã phải lao ra phía bụi rậm ở lề đường nhằm tránh tai nạn xảy ra. Vụ việc không gây thương vong, tuy nhiên clip cho thấy sự nguy hiểm của việc vượt ẩu, đặc biệt tại những tuyến đường nhỏ hẹp, vì không phải lúc nào lái xe đi ngược chiều cũng tỉnh táo để lao ra phía bụi rậm, tránh va chạm như trong clip này.VTV.vn - Một chiếc xe con đã vượt ẩu và bất ngờ cắt qua đầu xe container đã gây ra một tình huống rất nguy hiểm.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b616601"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b616602"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b616603"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b616604"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b61665"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "context": "Khi rút USB đột ngột khỏi máy tính thay vì ngắt kết nối đúng cách, máy tính sẽ hiển thị cảnh báo. Tuy nhiên, USB vẫn hoạt động bình thường vào lần sử dụng tiếp theo. Điều này khiến nhiều người dùng băn khoăn rằng liệu có thực sự cần ngắt kết nối trước khi rút USB?Một nghiên cứu nhỏ đã được thực hiện để làm sáng tỏ điều này.Thực tế, chờ đợi thêm 30 giây để ngắt kết nối an toàn cho USB giúp kéo dài tuổi thọ của USB và hơn hết, giúp lưu giữ dữ liệu đúng cách. Tuy nhiên, rủi ro thực sự phụ thuộc vào hệ điều hành máy tính cũng như những hoạt động chúng ta làm trên bộ nhớ ngoài hay USB của mình.Theo giải thích của Phillip Remarker trên trang, hệ điều hành máy tính được lập trình để thao tác với các bộ nhớ ngoài, bao gồm cả USB, theo cách các tập tin có thể được truy cập vô thời hạn.Nếu một chương trình trên máy tính chỉ cần truy cập bộ nhớ ngoài để đọc các tập tin, việc đột ngột rút USB sẽ không gây ra quá nhiều ảnh hưởng. Tuy nhiên, chúng ta có thể khiến máy tính gặp lỗi nếu rút USB khi đang chạy chương trình trên bộ nhớ ngoài và hậu quả có thể bao gồm: mất dữ liệu, hệ thống tệp bị hỏng, chương trình bị lỗi hoặc máy tính bị treo và yêu cầu khởi động lại.Mặt khác, nếu chúng ta đã thay đổi hay ghi đè thông tin mới lên bộ nhớ ngoài, hậu quả có thể tồi tệ hơn. Khi đó, hệ điều hành không chỉ đơn giản dừng các chương trình đang hoạt động và lưu lại thông tin khi chúng ta yêu cầu mà còn thực hiện ghi bộ nhớ đệm.Rachel Z. Arndt giải thích: Để đạt hiệu quả cao nhất, thông thường hệ điều sẽ không thực hiện ngay yêu cầu di chuyển hay ghi đè một tập tin mà đợi tổng hợp một số yêu cầu mới thực hiện. Việc ngắt kết nối giống như một thông báo với máy tính rằng đã đến lúc thực hiện lệnh ghi, bất kể máy tính có thấy hiệu quả hay không. Khi chúng ta rút USB mà không cảnh báo trước, quá trình ghi có thể chưa hoàn tất, do đó, dữ liệu có thể bị mất hoặc tập tin có thể bị hỏng.Nói cách khác, tập tin vừa lưu có thể bị mất vĩnh viễn ngay cả khi chúng ta đã thực hiện lệnh lưu trước đó. Vậy lệnh Safely Remove Hardware giúp giải quyết vấn đề này như thế nào?Thực tế, lệnh này thực hiện tất cả các hoạt động ghi vào đĩa, cảnh báo tất cả các chương trình rằng bộ nhớ ngoài sẽ biến mất và thực hiện lệnh thích hợp, cảnh báo người dùng khi các chương trình không thực hiện được lệnh và vẫn đang giữ các tập tin mở.Tất nhiên, đối với các hệ điều hành hiện đại như hiện nay, người dùng thường không phải lo gặp phải vấn đề này. Hệ điều hành Windows thậm chí đã giới thiệu một tính năng được gọi là Optimize for Quick Removal cho phép người dùng lựa chọn để đảm bảo các tập tin được ghi nhanh chóng mà không thông qua bộ nhớ đệm.Tuy vậy, chúng ta vẫn không bao giờ có thể chắc chắn chính xác khi máy tính đang hoạt động trên bộ nhớ ngoài hay không. Vì vậy, thay vì tiết kiệm 30 giây và đánh cược dữ liệu quý giá của mình, hãy thực hiện thao tác ngắt kết nối an toàn.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "725f7876a842312e81f0458aff58ce911bb80f951"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "725f7876a842312e81f0458aff58ce911bb80f952"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "725f7876a842312e81f0458aff58ce911bb80f953"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "725f7876a842312e81f0458aff58ce911bb80f954"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "725f7876a842312e81f0458aff58ce911bb80f95"
+        }
+    ]
+}

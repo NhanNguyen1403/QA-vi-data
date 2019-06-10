@@ -1,0 +1,55 @@
+{
+    "context": "Là bệnh nhiễm trùng, điển hình gây tổn thương da và các dây thần kinh ngoại biên (nhất là các chi) nhưng bệnh phong rất khó lây. Vì đường lây chủ yếu qua da bị trầy xước mà trực khuẩn phong sinh sản chậm, không có vật chủ trung gian truyền bệnh và dễ mất hoạt tính với xà phòng và ánh nắng. Vì thế, khi vùng da bị trầy xước tiếp xúc với vùng da bị trầy xước của bệnh nhân phong thì cần rửa tay bằng xà phòng trong vòng 2 phút, trực khuẩn sẽ chết hoặc để ngoài nắng cũng khoảng 2 phút, trực khuẩn sẽ chết. Ngoài ra, tắm hàng ngày cũng là cách để ngăn ngừa bệnh phong.Bệnh phong hiện đã được chữa khỏi hoàn toàn. Người mắc bệnh phong được điều trị miễn phí, tại nhà, theo nguyên tắc phối hợp thuốc (gọi là đa hóa trị liệu). Chỉ đến bệnh viện khi có phản ứng quá phát, điều trị để chống tàn tật do phong.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "f2a057a49083416d580b15303b23751a45ca242d1"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "f2a057a49083416d580b15303b23751a45ca242d2"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "f2a057a49083416d580b15303b23751a45ca242d3"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "f2a057a49083416d580b15303b23751a45ca242d4"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "f2a057a49083416d580b15303b23751a45ca2425"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "context": "Đây là thông tin vừa được công bố trong khuôn khổ chương trình tập huấn triển khai chương trình Sữa học đường của Sở Giáo dục và Đào tạo Hà Nội phối hợp với công ty Vinamilk.Sản phẩm này ngoài đáp ứng đầy đủ các quy chuẩn kỹ thuật đối với sữa tươi phục vụ sữa học đường còn có logo nhận diện riêng và không bán thương mại ngoài thị trường. Đại diện nhà cung cấp cũng cam kết sẽ không có sữa cận date trong chương trình Sữa học đường.Tại các buổi tập huấn, các thắc mắc liên quan đến công tác tổ chức thực hiện từ khâu giao nhận cho tới triển khai uống sữa, xử lý bao bì cũng được tổ chuyên gia giải đáp chi tiết, cụ thể.Dự kiến chương trình tập huấn sẽ được thực hiện cho 1.747 trường học và hơn 2.500 nhóm lớp với gần 10.000 đại biểu tham gia.Trước đó, sau hai vòng mở thầu kỹ thuật và tài chính, Vinamilk đã là đơn vị trúng thầu với mức hỗ trợ 23%, cao hơn mức mời thầu của Sở Giáo dục và Đào tạo Hà Nội là 3%.VTV.vn - Quỹ Khuyến học Sữa đậu nành Việt Nam chính thức khởi động Chương trình Sữa đậu nành học đường 2018 “Gieo hạt lành - gieo thói quen dinh dưỡng lành cho trẻ lớn khôn”.VTV.vn - Bộ Y tế vừa có công văn gửi UBND các tỉnh/thành phố trực thuộc TW về việc triển khai chương trình Sữa học đường và nhấn mạnh, sữa dùng trong chương trình phải là sữa tươi.VTV.vn - Sữa không chỉ là thực phẩm bổ dưỡng, nó còn là chất dẫn dễ dàng bổ sung các vi chất còn thiếu cho trẻ, giúp trẻ dễ dàng hấp thụ và phát triển khỏe mạnh,",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd5b565f90ae612fb68a6060e6831053e3a35d351"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd5b565f90ae612fb68a6060e6831053e3a35d352"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd5b565f90ae612fb68a6060e6831053e3a35d353"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd5b565f90ae612fb68a6060e6831053e3a35d354"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd5b565f90ae612fb68a6060e6831053e3a35d35"
+        }
+    ]
+}

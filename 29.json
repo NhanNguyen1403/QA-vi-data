@@ -1,0 +1,55 @@
+{
+    "context": "Từ ngày 3/8 đến chiều 5/8, các trường đại học đã chia nhóm tiến hành chạy phần mềm lọc ảo để xác định điểm chuẩn và mỗi ngày đều gửi dữ liệu về Bộ GD&ĐT để chạy lọc ảo chung cho cả nước. Sau khi Bộ GD&ĐT lọc ảo lần cuối cùng, dự kiến 17h chiều nay, các trường đại học bắt đầu công bố điểm chuẩn năm 2018. Danh sách thí sinh trúng tuyển cũng sẽ được cập nhật nhanh trên trang web của các trường. Thời gian công bố tùy thuộc các trường, nhưng phải đảm bảo trước 17h ngày mai (6/8).VTV.vn - Từ ngày 1/8 đến trước 17h ngày 6/8 các trường công bố kết quả xét tuyển đại học đợt 1.VTV.vn - Theo thông tin từ Bộ GD-ĐT, cho đến thời điểm này, tất cả các trường đại học đều đã công bố mức điểm tối thiểu nhận hồ sơ để thí sinh tham khảo, điều chỉnh nguyện vọng.VTV.vn - Nhiều trường Đại học trên cả nước đã công bố điểm sàn nhận hồ sơ xét tuyển. Tuy nhiên, một số trường Đại học lấy điểm sàn chỉ ở mức 11 điểm.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd9f7f486df4da23b870a5d56bccaf9cf127277a1"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd9f7f486df4da23b870a5d56bccaf9cf127277a2"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd9f7f486df4da23b870a5d56bccaf9cf127277a3"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd9f7f486df4da23b870a5d56bccaf9cf127277a4"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "bd9f7f486df4da23b870a5d56bccaf9cf1272775"
+        }
+    ]
+}

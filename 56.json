@@ -1,0 +1,55 @@
+{
+    "context": "Sau đây là đoạn clip tái hiện cảnh giải cứu ngoạn mục trong đêm được thực hiện qua điện thoại của một cư dân tòa nhà này.  ",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "131d215cdf641a6fefca8fc7115a197e21e7d85f1"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "131d215cdf641a6fefca8fc7115a197e21e7d85f2"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "131d215cdf641a6fefca8fc7115a197e21e7d85f3"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "131d215cdf641a6fefca8fc7115a197e21e7d85f4"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "131d215cdf641a6fefca8fc7115a197e21e7d855"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "context": "Các chuyên gia thời trang và nhà thiết kế đều cho rằng áo khoác jean nam là một trong những trang phục không bao giờ lỗi mốt. Tuy nhiên, làm thế nào để lựa chọn một chiếc áo khoác jean hợp mốt mà vẫn phù hợp?Slylist Nguyễn Trọng Lân đã đưa ra những lưu ý sau đây khi chọn áo jean:- Lưu ý về cân nặng và chiều cao. Lựa chọn size áo thật vừa vặn, đừng chọn chiếc áo quá dài hoặc quá ngắn, trông bạn sẽ lôi thôi.- Màu sắc áo khoác jeans nam khá phong phú: Bạn có thể chọn áo khoác jean màu xanh truyền thống hoặc màu đen, nâu cùng những thiết kế phá cách.- Dù chọn bất cứ chiếc áo nào, bạn cũng phải quan tâm đến việc mình sẽ mặc nó để đi đâu, làm gì?Nếu chọn một chiếc áo jean đến công sở, bạn nên chọn chiếc áo đơn giản, tinh tế và sang trọng, lịch sự.Nếu bạn đi chơi, đi mua sắm, bạn có thể chọn bất kỳ chiếc áo nào bạn thích.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "aee453eb600f4d1477ddc0b69771d3cc8d4557521"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "aee453eb600f4d1477ddc0b69771d3cc8d4557522"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "aee453eb600f4d1477ddc0b69771d3cc8d4557523"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "aee453eb600f4d1477ddc0b69771d3cc8d4557524"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "aee453eb600f4d1477ddc0b69771d3cc8d455755"
+        }
+    ]
+}

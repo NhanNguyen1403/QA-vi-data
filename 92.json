@@ -1,0 +1,55 @@
+{
+    "context": "Mới đây, một nghiên cứu của Đại học Khoa học và Đời sống Warszava (Ba Lan) phát hiện: táo có thể ngăn ngừa nguy cơ mắc bệnh phổi tắc nghẽn mạn tính, một căn bệnh rất khó chữa, nguyên nhân do sự suy giảm thông khí mãn tính, dẫn đến một số vấn đề như viêm phế quản mãn tính, khí phế thũng.Theo People, các nhà nghiên cứu đã tiến hành khảo sát suốt 13 năm trên hơn 4.000 nam giới từ 45-79 tuổi. Trong số này, 2/3 từng hút thuốc lá, 1/4 vẫn đang hút. Bên cạnh đó, khoảng 1.900 người ở giai đoạn đầu của bệnh phổi tắc nghẽn mạn tính. Kết quả cho thấy: dù hút thuốc hay không, người ăn từ 5 loại rau quả trở lên mỗi ngày giảm được 35% nguy cơ mắc bệnh phổi so với những người ăn ít hơn 2 loại rau quả.Như vậy, thói quen ăn uống tác động không nhỏ đến sức khỏe lá phổi. Nhóm tác giả của nghiên cứu trên khuyến cáo người khó bỏ thuốc lá nên tăng cường lượng rau quả mỗi ngày. Đặc biệt, táo chứa nhiều chất chống oxy hóa có khả năng ngăn ngừa bệnh phổi tắc nghẽn mãn tính nên những đối tượng thuộc nhóm nguy cơ cao nên ăn mỗi ngày.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "76e5ebebb7f19b0266c04be11b97db7606e3dc821"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "76e5ebebb7f19b0266c04be11b97db7606e3dc822"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "76e5ebebb7f19b0266c04be11b97db7606e3dc823"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "76e5ebebb7f19b0266c04be11b97db7606e3dc824"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "76e5ebebb7f19b0266c04be11b97db7606e3dc85"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "context": "Hàng chục cây dừa nằm sâu trong bờ biển bị sóng lớn đánh và trôi ra biển. Khu vực 2 nhà hàng, quán bar nằm cạnh cống xả Mỹ An hiện đang bị sạt lở nặng phần móng. Nhiều đồ đạc, bàn ghế, phần mái cùng hệ thống bậc tam cấp dẫn ra bờ biển cũng bị cuốn trôi ra biển. Các cống xả nằm dọc bãi biển Mỹ Khê (quận Sơn Trà) đang trong tình trạng bị xé toạc, gây sạt lở nhiều đoạn kéo dài gần 100m.Những ngày này, các cơ quan chức năng đang túc trực và khắc phục bằng những giải pháp tạm thời như gia cố để ngăn chặn sạt lở tiếp diễn. Tuy nhiên, với thời tiết như hiện nay, việc khắc phục hoàn toàn sẽ gặp nhiều khó khăn.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0d689f0565e449d7c0b467cb72ccea260750bf691"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0d689f0565e449d7c0b467cb72ccea260750bf692"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0d689f0565e449d7c0b467cb72ccea260750bf693"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0d689f0565e449d7c0b467cb72ccea260750bf694"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "0d689f0565e449d7c0b467cb72ccea260750bf65"
+        }
+    ]
+}

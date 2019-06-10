@@ -1,0 +1,55 @@
+{
+    "context": "Thông báo này ngay lập tức đã tác động tích cực tới cổ phiếu các hãng xe lớn của Mỹ như: General Motors, Ford, Tesla, dù phía Chính phủ Trung Quốc vẫn chưa đưa ra bình luận gì về vấn đề này.Tuyên bố này của Tổng thống Trump khiến nhiều người không khỏi bất ngờ. Tuy nhiên Mỹ không xuất khẩu nhiều xe ô tô sản xuất trong nước sang thị trường Trung Quốc. Trên thực tế, hầu hết các nhà sản xuất ô tô Mỹ đều có nhà máy đặt tại Trung Quốc. Ví dụ điển hình là hãng General Motors - phóng viên Ben Blanchard (Reuters) cho biết.Việc sản xuất ngay tại nơi bán giúp các hãng xe tiết kiệm đáng kể chi phí vận chuyển và phục vụ khách hàng bản địa tốt hơn. Hiện trong các hãng xe Mỹ, chỉ duy nhất Tesla chưa có nhà máy sản xuất tại Trung Quốc. Tuy nhiên, hãng xe điện Mỹ cũng đang tìm cách tiến sâu vào thị trường giàu tiềm năng này, bằng việc công bố kế hoạch đầu tư ít nhất 2 tỷ USD cho nhà máy lắp ráp tại Trung Quốc trong thời gian tới.Do đó, khi Trung Quốc giảm hoặc loại bỏ thuế nhập khẩu ô tô, lợi ích các nhà sản xuất ô tô Mỹ đạt được cũng không đáng kể và khó có thể cứu được các nhà máy đang sắp bị đóng cửa của GM hay thúc đẩy hoạt động sản xuất tại các nhà máy khác.Theo các chuyên gia, đối tượng được hưởng lợi nhiều nhất rất có thể lại là những hãng xe lớn của châu Âu đang có nhà máy đặt tại Mỹ và xuất khẩu xe đi khắp thế giới, như Daimler hay BMW. Nhà máy lớn nhất của BMW trên thế giới hiện được đặt tại South Carolina, Mỹ. Trong năm 2017, nhà máy này xuất xưởng khoảng 81 nghìn chiếc SUV sang Trung Quốc, chiếm hơn 20% sản lượng của hãng.VTV.vn - Ngày 3/12, trên tài khoản Twitter, Tổng thống Mỹ Donald Trump đã khẳng định, Trung Quốc nhất trí giảm bớt và dỡ bỏ thuế quan đối với mặt hàng ô tô nhập khẩu từ Mỹ.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8a94a38b68477d46837c47d4d00528e8a7e232fc1"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8a94a38b68477d46837c47d4d00528e8a7e232fc2"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8a94a38b68477d46837c47d4d00528e8a7e232fc3"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8a94a38b68477d46837c47d4d00528e8a7e232fc4"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "8a94a38b68477d46837c47d4d00528e8a7e232f5"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "context": "Sự kiện này nhằm khuyến khích người dân tập thể dục. Nhà vua Thái Lan, 66 tuổi, cùng hai con gái đã đạp xe quanh những địa điểm nổi tiếng ở Bangkok. Quãng đường đua xe dài 39km.Đây là lần thứ ba hoạt động này được tổ chức theo sáng kiến của nhà vua Thái Lan. Theo Ban tổ chức, có hơn 630.000 người đã đăng ký tham gia sự kiện này.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "58807782b856635c74d7d68a5b03960c9d5798571"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "58807782b856635c74d7d68a5b03960c9d5798572"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "58807782b856635c74d7d68a5b03960c9d5798573"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "58807782b856635c74d7d68a5b03960c9d5798574"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "58807782b856635c74d7d68a5b03960c9d579855"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "context": "Theo hình ảnh do người dân cung cấp, chiếc ghe khai thác cát đã đâm vào cầu và mắc kẹt dưới cầu phao dân sinh Phú Lộc. Lãnh đạo huyện Đại Lộc điều lực lượng và phương tiện đến giải cứu, nhưng cây cầu này đã bị hư hỏng. Đây là cầu rất quan trọng giải quyết nhu cầu đi lại của hàng trăm hộ dân thôn 8, xã Đại An và xã Đại Cường.Nguyên nhân dẫn đến vụ ghe đâm cầu được cho là khi có mưa lớn, nước dâng cao, người điều khiển phương tiện vẫn cố tình cho ghe chạy dưới cầu. Hiện, công an huyện Đại Lộc đang xác minh, ghe bị mắc kẹt có phải ghe đi khai thác cát trộm hay không? Đồng thời cơ quan chức năng đánh giá mức độ thiệt hại, độ an toàn của cây cầu này.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "37f3432701d4e0426dc506732af8cbef931678331"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "37f3432701d4e0426dc506732af8cbef931678332"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "37f3432701d4e0426dc506732af8cbef931678333"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "37f3432701d4e0426dc506732af8cbef931678334"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "37f3432701d4e0426dc506732af8cbef93167835"
+        }
+    ]
+}

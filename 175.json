@@ -1,0 +1,55 @@
+{
+    "context": "Các dạng bài nghị luận văn học được thầy Vũ Thanh Hòa hướng dẫn gồm:Dạng 1: Phân tích- Phân tích nhân vật- Phân tích một đoạn thơ, đoạn văn- Phân tích ý nghĩa một tác phẩm- Phân tích dụng ý nghệ thuậtDạng 2: Nêu cảm nhậnDạng 3: so sánh hai tác phẩmDạng 4: Lựa chọn, đánh giá",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "d9ce0f87ff16a2c1aef41ddf26f9336fd61ce65e1"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "d9ce0f87ff16a2c1aef41ddf26f9336fd61ce65e2"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "d9ce0f87ff16a2c1aef41ddf26f9336fd61ce65e3"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "d9ce0f87ff16a2c1aef41ddf26f9336fd61ce65e4"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "d9ce0f87ff16a2c1aef41ddf26f9336fd61ce655"
+        }
+    ]
+}

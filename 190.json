@@ -1,0 +1,55 @@
+{
+    "context": "Giới chức địa phương cho biết, vụ tai nạn xảy ra trên đường cao tốc nối giữa thủ đô Harare và thị trấn miền Đông Rusape. Hiện giới chức Zimbabwe đang tiến hành điều tra nguyên nhân vụ việc.Sau đây là một số hình ảnh sau vụ tai nạn:",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "415176cf6c3c576c3ce9689a20770a4be696af361"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "415176cf6c3c576c3ce9689a20770a4be696af362"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "415176cf6c3c576c3ce9689a20770a4be696af363"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "415176cf6c3c576c3ce9689a20770a4be696af364"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "415176cf6c3c576c3ce9689a20770a4be696af35"
+        }
+    ]
+}

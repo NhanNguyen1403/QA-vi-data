@@ -1,0 +1,55 @@
+{
+    "context": "Trong chương trình Đẹp 24/7 trên đây, chuyên gia Diệp Lâm đã hướng dẫn các bước và lưu ý khi trang điểm theo phong cách năng động.Bước 1: Đánh nềnLần lượt dùng kem lót, kem nền, kem che khuyết điểm và phấn phủ.Bước 2: Đánh mắtBạn sử dụng tone màu hồng hay cam để đánh mắt.Bước 3 : Kẻ eyeline và dùng chổi vuốt nhẹ phần lông màyDặm nhẹ lại phấn ở vùng cuối đuôi mắt.Bước 4: Đánh phấn máBước 5: Tô son",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed1"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed2"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed3"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed4"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "7bd5da151049274a5b2df0b2e95a779ebc4964e5"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "context": "Sự việc được vỡ lẽ khi bé đi học về tỏ ra đau đớn, sợ hãi. Gia đình bé đã kiểm tra và phát hiện trên người bé có nhiều vết bầm tím. Qua trao đổi, gia đình bé cho biết bé Khang bị khuyết tật một phần ở chân nên việc đi lại khó khăn. Trước đó, bé bị ngã và có bị bầm nhẹ. Tuy nhiên vào thứ Năm (6/12), sau khi mẹ bé đón bé đi học về thì phát hiện vết bầm ở lưng nặng thêm rất nhiều. Khi cố gượng hỏi, bé nói do bị cô giáo đánh. Sau đó gia đình đã phản ánh vụ việc tới nhà trường. Nhà trường cùng giáo viên đã đến thăm hỏi và nhận lỗi với gia đình.Theo mẹ cháu bé, nguyên nhân cô giáo đánh bé là vì bé học yếu. Nhà trường cũng cho biết sẽ chấn chỉnh và không để tái diễn sự việc tương tự với cháu bé.VTV.vn - Báo cáo về vụ việc giáo viên trường Tiểu học Quang Trung để học sinh tát bạn của UBND quận Đống Đa, Hà Nội có rất nhiều chi tiết đáng chú ý.",
+    "qas": [
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "c938ff0c0876a31b60236ba89542cd9fd46fa70b1"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "c938ff0c0876a31b60236ba89542cd9fd46fa70b2"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "c938ff0c0876a31b60236ba89542cd9fd46fa70b3"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "c938ff0c0876a31b60236ba89542cd9fd46fa70b4"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 0,
+                    "text": "a"
+                }
+            ],
+            "question": "",
+            "id": "c938ff0c0876a31b60236ba89542cd9fd46fa705"
+        }
+    ]
+}
