@@ -41,6 +41,6 @@
 
 ![](pic/answer.png)
 
-**4. Trường hợp thêm câu hỏi**
+**4. Trường hợp thêm câu hỏi và câu trả lời**
 
 ![](pic/more-ques.png)
