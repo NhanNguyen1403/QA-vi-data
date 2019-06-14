@@ -5,51 +5,71 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": "Mùa đông"
                 }
             ],
-            "question": "",
+            "question": "Thời tiết nào khiến da bị khô và dễ tổn thương ?",
             "id": "41b533f9e3facc216c1399a6ba0fc3bba77f02171"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 264,
+                    "text": "Loại mặt nạ này sẽ giúp dưỡng ẩm cho da nhanh chóng cũng như làm sáng da."
                 }
             ],
-            "question": "",
+            "question": "Tác dụng của mặt mạ mật ong là gì?",
             "id": "41b533f9e3facc216c1399a6ba0fc3bba77f02172"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 338,
+                    "text": "Bạn chỉ cần cho 2 muỗng mật ong với 5 - 6 muỗng sữa tươi vào tô trộn đều."
                 }
             ],
-            "question": "",
+            "question": "Công thức tạo nên mặt nạ mật ong là gì?",
             "id": "41b533f9e3facc216c1399a6ba0fc3bba77f02173"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 420,
+                    "text": "thoa hỗn hợp này lên mặt, mát xa nhẹ nhàng theo chuyển động tròn trong khoảng từ 3 - 5 phút. Giữ khoảng 20 phút và sau đó rửa mặt với nước sạch."
                 }
             ],
-            "question": "",
+            "question": "Làm sao để sử dụng mặt nạ mật ong",
             "id": "41b533f9e3facc216c1399a6ba0fc3bba77f02174"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 685,
+                    "text": "Mặt nạ này bao gồm chuối chín kết hợp với sữa chua và mật ong."
                 }
             ],
-            "question": "",
-            "id": "41b533f9e3facc216c1399a6ba0fc3bba77f0215"
+            "question": "Thành phần của mặt nạ chuối gồm những gì?",
+            "id": "41b533f9e3facc216c1399a6ba0fc3bba77f02175"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 748,
+                    "text": "Bạn chỉ cần nghiền 1/2 quả chuối chín với 1 muỗng sữa chua và 1 muỗng mật ong, sau đó rửa mặt sạch với nước và thoa hỗn hợp này lên, để trong vòng 20 phút rồi rửa bằng nước sạch. Bạn có thể sử dụng mặt nạ này ít nhất 2 - 3 lần một tháng để nhận rõ hiệu quả."
+                }
+            ],
+            "question": "Làm sao để sử dụng mặt nạ chuối?",
+            "id": "41b533f9e3facc216c1399a6ba0fc3bba77f02176"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1148,
+                    "text": "Lấy 2 muỗng canh bột yến mạch tán thành bột mịn. Thêm 1 muỗng sữa chua nguyên chất và 1 muỗng mật ong. Thoa hỗn hợp lên mặt và để vài phút cho đến khi mặt nạ khô. Sau đó bạn có thể rửa sạch bằng nước bình thường. Bạn có thể làm điều đó hai lần một tuần để có kết quả tốt nhất."
+                }
+            ],
+            "question": "Làm sao để sử dụng mặt nạ bột yến mạch?",
+            "id": "41b533f9e3facc216c1399a6ba0fc3bba77f02177"
         }
     ]
 }
