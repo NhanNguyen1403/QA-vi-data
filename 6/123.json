@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 22,
+                    "text": "ĐT Bồ Đào Nha"
                 }
             ],
-            "question": "",
+            "question": "Đội tuyển nào vô địch EURO 2016 ?",
             "id": "d83110443de0b8600dfb29da1e44879161a75d8f1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 263,
+                    "text": "HLV Fernando Santos"
                 }
             ],
-            "question": "",
+            "question": "Ai được coi là “kiến trúc sư trưởng” trong thành công của Selecao ?",
             "id": "d83110443de0b8600dfb29da1e44879161a75d8f2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 545,
+                    "text": "bản hợp đồng mới có thời hạn 4 năm"
                 }
             ],
-            "question": "",
+            "question": "bản hợp đồng mới có thời hạn mấy năm ?",
             "id": "d83110443de0b8600dfb29da1e44879161a75d8f3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 933,
+                    "text": "Paulo Bento"
                 }
             ],
-            "question": "",
+            "question": "người tiền nhiệm là ai ?",
             "id": "d83110443de0b8600dfb29da1e44879161a75d8f4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 182,
+                    "text": "Công đầu trong chiến tích lẫy lừng đó nằm ở khả năng “điều binh khiển tướng”"
                 }
             ],
-            "question": "",
+            "question": "Công đầu trong chiến tích lẫy lừng đó nằm ở khả năng nào ?,
             "id": "d83110443de0b8600dfb29da1e44879161a75d85"
         }
     ]
