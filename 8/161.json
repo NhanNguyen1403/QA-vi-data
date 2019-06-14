@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 26,
+                    "text": "camera hành trình"
                 }
             ],
-            "question": "",
+            "question": "Vụ việc ngày 3/12 vừa qua xảy ra tại Thái Nguyên được ghi lại bằng gì?",
             "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b616601"
         },
         {
-            "answers": [
+            "answers": [ 
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 66,
+                    "text": "Thái Nguyên"
                 }
             ],
-            "question": "",
+            "question": "Vụ việc xảy ra ngày 3/12 vừa qua tại đâu?",
             "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b616602"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 143,
+                    "text": "xe bán tải"
                 }
             ],
-            "question": "",
+            "question": "Một chiếc xe đang đi ngược chiều với xe nào?",
             "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b616603"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 536,
+                    "text": "việc vượt ẩu"
                 }
             ],
-            "question": "",
+            "question": "Clip cho thấy sự nguy hiểm của việc gì?",
             "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b616604"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 398,
+                    "text": "đã phải lao ra phía bụi rậm ở lề đường"
                 }
             ],
-            "question": "",
+            "question": "Để tránh xảy ra tai nạn chiếc xe đi ngược chiều đã làm gì?",
             "id": "7f1a278ddfa0d16d527edc5fe4fb0a2f76b61665"
         }
     ]
