@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 33,
+                    "text": "Đại học Montreal"
                 }
             ],
-            "question": "",
+            "question": "Nghiên cứu được thực hiện bởi ai?",
             "id": "25cac4d65f6a04472542979139255f7a5fb6211a1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 65,
+                    "text": "xem một trận khúc quân cầu trên băng làm tăng đáng kể nhịp tim của người xem"
                 }
             ],
-            "question": "",
+            "question": "Kết quả của cuộc nghiên cứu này là gì?",
             "id": "25cac4d65f6a04472542979139255f7a5fb6211a2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 354,
+                    "text": "Nhịp tim đo được của các khán giả đạt mức cao nhất trong các hiệp phụ của trận đấu và khi các cầu thủ có cơ hội ghi bàn."
                 }
             ],
-            "question": "",
+            "question": "Nhịp tim đo được đạt mức cao nhất khi nào",
             "id": "25cac4d65f6a04472542979139255f7a5fb6211a3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 587,
+                    "text": "Trong trường hợp này, có lẽ là không bởi không phải ai cũng thấy khúc côn cầu trên băng là môn thể thao thú vị."
                 }
             ],
-            "question": "",
+            "question": "Liệu kết quả có áp dụng với những người còn lại không?",
             "id": "25cac4d65f6a04472542979139255f7a5fb6211a4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 698,
+                    "text": "Giáo sư Paul Khairy"
                 }
             ],
-            "question": "",
+            "question": "Trưởng nhóm của cuộc thí nghiệm này là ai?",
             "id": "25cac4d65f6a04472542979139255f7a5fb62115"
         }
     ]
