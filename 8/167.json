@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 75,
+                    "text": "khoảng 8,5 tỷ m3 nước"
                 }
             ],
-            "question": "",
+            "question": "Tổng lượng nước trong các hồ thủy điện ở miền Nam và miền Trung lúc này là bao nhiêu?",
             "id": "fc1eed04f25324e6165b0df1f9fb70a17656c9291"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 112,
+                    "text": "1/3 so với cùng kỳ"
                 }
             ],
-            "question": "",
+            "question": "So với các kỳ rồi thì thiếu hụt bao nhiêu?",
             "id": "fc1eed04f25324e6165b0df1f9fb70a17656c9292"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 150,
+                    "text": "miền Nam đã kết thúc mùa lũ; còn ở miền Trung, mưa lũ những ngày này vẫn chưa đủ"
                 }
             ],
-            "question": "",
+            "question": "Nguyên nhân là do đâu?",
             "id": "fc1eed04f25324e6165b0df1f9fb70a17656c9293"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 261,
+                    "text": "ảnh hưởng đến sản xuất nông nghiệp mà còn tác động xấu đến hoạt động của các nhà máy thủy điện"
                 }
             ],
-            "question": "",
+            "question": "Ảnh hưởng của việc thủy điện thiếu nước là gì?",
             "id": "fc1eed04f25324e6165b0df1f9fb70a17656c9294"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 366,
+                    "text": "Điều kiện sống tại khu tái định cư mới gặp khó, người dân chọn trở lại sinh sống, làm ăn trong khu vực lòng hồ thủy điện Bản Vẽ"
                 }
             ],
-            "question": "",
+            "question": "Điều kiện sống khu tái định cư tại khu vực lòng hồ thủy điện Bản Vẽ như thế nào?",
             "id": "fc1eed04f25324e6165b0df1f9fb70a17656c925"
         }
     ]
