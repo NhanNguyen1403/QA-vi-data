@@ -1,11 +1,11 @@
 {
-    "context": "Theo thông tin từ Tỉnh đoàn Nghệ An, ngày 10/12, ông Lê Minh Thông, phó chủ tịch UBND tỉnh Nghệ An, đã ký văn bản đồng ý về việc xin chủ trương tổ chức xem trận thi đấu chung kết bóng đá AFF Suzuki Cup 2018.Theo đó, BTC sẽ bố trí một màn hình 70m² tại Quảng tường Hồ Chí Minh, thành phố Vinh để người hâm mộ cổ vũ cho đội tuyển quốc gia. Dự kiến sự kiện này sẽ thu hút hơn 10.000 cổ động viên đến cổ vũ, tạo nên không khí sôi động dõi theo ĐT Việt Nam thi đấu.Trận chung kết lượt đi AFF Cup 2018 diễn ra vào 19h45 phút ngày 11/12/ tại Sân vận động Bukit Jalil (Malaysia), trận chung kết lượt về diễn ra vào 19h30 phút ngày 15/12/2018 trên Sân vận động Quốc gia Mỹ Đình.",
+    "context": "Theo thông tin từ Tỉnh đoàn Nghệ An, ngày 10/12, ông Lê Minh Thông, phó chủ tịch UBND tỉnh Nghệ An, đã ký văn bản đồng ý về việc xin chủ trương tổ chức xem trận thi đấu chung kết bóng đá AFF Suzuki Cup 2018. Theo đó, BTC sẽ bố trí một màn hình 70m² tại Quảng tường Hồ Chí Minh, thành phố Vinh để người hâm mộ cổ vũ cho đội tuyển quốc gia. Dự kiến sự kiện này sẽ thu hút hơn 10.000 cổ động viên đến cổ vũ, tạo nên không khí sôi động dõi theo ĐT Việt Nam thi đấu. Trận chung kết lượt đi AFF Cup 2018 diễn ra vào 19h45 phút ngày 11/12/ tại Sân vận động Bukit Jalil (Malaysia), trận chung kết lượt về diễn ra vào 19h30 phút ngày 15/12/2018 trên Sân vận động Quốc gia Mỹ Đình.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "cd44c183de576df9dcb230515ffa382736602945"
+            "id": "cd44c183de576df9dcb230515ffa3827366029425"
         }
     ]
 }

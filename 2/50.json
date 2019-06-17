@@ -1,11 +1,11 @@
 {
-    "context": "Trong đó, cặp đôi Lady Gaga - Bradley Cooper được xướng tên ở hai hạng mục quan trọng là Nữ diễn viên chính xuất sắc nhất và Đạo diễn xuất sắc nhất.",
+    "context": "Trong đó, cặp đôi Lady Gaga - Bradley Cooper được xướng tên ở hai hạng mục quan trọng là  Nữ diễn viên chính xuất sắc nhất  và  Đạo diễn xuất sắc nhất .",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "4d5ef483cde2b74ea967f6141eabd6ca2137e605"
+            "id": "4d5ef483cde2b74ea967f6141eabd6ca2137e60c5"
         }
     ]
 }

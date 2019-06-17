@@ -1,11 +1,11 @@
 {
-    "context": "5 vòng vàng kỳ ảo là hình thức trò chơi kết hợp giữa bổ sung kiến thức và giải trí thông qua việc trả lời các câu hỏi. Tuy nhiên, thay vì việc lựa chọn các đáp án A, B, C, D như thường thấy, người chơi phải vận dụng kiến thức, sự hiểu biết, sự nhanh nhạy và phán đoán dựa trên tình hình thực tế ngay tại hiện trường để đưa ra câu trả lời trong thời gian quy định. Với 5 câu hỏi, người chơi có 5 chiếc vòng vàng, kích thước ngày càng nhỏ dần tương ứng với số tiền thưởng ngày càng tăng dần.Mỗi đội chơi gồm 2 người: 1 người có nhiệm vụ quan sát, chỉ dẫn và người còn lại sẽ tìm vị trí đặt vòng vàng vào đúng vị trí câu trả lời đúng trên màn hình led tại sân khấu. Nếu trả lời sai, đội đối thủ có quyền trả lời và sẽ giành toàn bộ số tiền nếu tìm ra được đáp án.5 vòng vàng kỳ ảo là chương trình được mua bản quyền từ Talpa (Hà Lan) - một trong những tập đoàn sản xuất và phân phối format chương trình truyền hình hàng đầu trên thế giới và hiện chỉ một số quốc gia mới đủ điều kiện đưa vào sản xuất. Việt Nam là quốc gia châu Á đầu tiên hiện thực hóa giấc mơ đó.5 vòng vàng kỳ ảo là gameshow sử dụng công nghệ tương tác thông minh giữa những chiếc vòng và hệ thống phần mềm điều khiển, kết nối thông qua một thiết bị camera cảm biến thông minh (được gắn ở vị trí topshot). Camera này sẽ định vị vị trí của chiếc vòng để gửi thông tin về cho hệ thống phần mềm điều khiển dựa trên công nghệ trí tuệ nhân tạo AI. Phần mềm này giúp nhận diện hình ảnh, tọa độ của chiếc vòng và so sánh vị trí đúng của câu trả lời, cho ra kết quả đúng/sai của vị trí chiếc vòng. Tuy nhiên, thay vì việc phải nhập khẩu hoàn toàn phần mềm, phần cứng từ nhà cung cấp ở Anh quốc, ekip Việt Nam đã tự nghiên cứu, thiết kế từ những chiếc vòng vàng để chương trình có thể vận hành sớm và tiết kiệm nhất. Sau quá trình chạy thử nghiệm, kết quả đạt độ chính xác lên đến 98%, vượt xa sự mong đợi của cả ekip. Trong buổi ra mắt chương trình ngày 26-11, ông Hoa Thanh Tùng, đại diện VTV nhận định 5 vòng vàng kỳ ảo có tính đột phá về công nghệ sản xuất gameshow.Được biết, trong quá trình thử nghiệm, vận hành các chuyên gia nước ngoài luôn theo sát mọi công đoạn cũng như thời gian ghi hình. Kết quả, họ đã vô cùng bất ngờ trước sự sáng tạo, thông minh của ekip Việt Nam bởi tính chính xác rất cao, tương đương phiên bản gốc trong khi chi phí rẻ hơn rất nhiều. Đặc biệt, nước bạn Thái Lan – quốc gia đầu tiên tại Đông Nam Á đã mua bản quyền chương trình trước Việt Nam nhưng chưa thể đưa vào sản xuất vì chi phí quá cao đã cử chuyên gia sang Việt Nam theo dõi quá trình thực hiện và tỏ ra nể phục với thành quả từ ekip. Họ cho rằng, ekip Việt Nam đã làm được điều không tưởng và thành tựu này xứng đáng để học hỏi. Thái Lan hy vọng, với những bài học từ Việt Nam, họ cũng sẽ sớm đưa chương trình này vào quá trình sản xuất để phục vụ khán giả.5 vòng vàng kỳ ảo với sự tham gia của nhiều nghệ sĩ nổi tiếng: Chí Tài, Minh Nhí, Minh Tiệp, Việt Anh, Minh Khang, Thúy Hạnh, Hoàng Bách, Xuân Nghị, Vinh râu… phát sóng lúc 20h00 tối thứ Bảy hàng tuần trên VTV3, bắt đầu từ 1/12/ 2018.",
+    "context": "5 vòng vàng kỳ ảo là hình thức trò chơi kết hợp giữa bổ sung kiến thức và giải trí thông qua việc trả lời các câu hỏi. Tuy nhiên, thay vì việc lựa chọn các đáp án A, B, C, D như thường thấy, người chơi phải vận dụng kiến thức, sự hiểu biết, sự nhanh nhạy và phán đoán dựa trên tình hình thực tế ngay tại hiện trường để đưa ra câu trả lời trong thời gian quy định. Với 5 câu hỏi, người chơi có 5 chiếc vòng vàng, kích thước ngày càng nhỏ dần tương ứng với số tiền thưởng ngày càng tăng dần. Mỗi đội chơi gồm 2 người: 1 người có nhiệm vụ quan sát, chỉ dẫn và người còn lại sẽ tìm vị trí đặt vòng vàng vào đúng vị trí câu trả lời đúng trên màn hình led tại sân khấu. Nếu trả lời sai, đội đối thủ có quyền trả lời và sẽ giành toàn bộ số tiền nếu tìm ra được đáp án. 5 vòng vàng kỳ ảo là chương trình được mua bản quyền từ Talpa (Hà Lan) - một trong những tập đoàn sản xuất và phân phối format chương trình truyền hình hàng đầu trên thế giới và hiện chỉ một số quốc gia mới đủ điều kiện đưa vào sản xuất. Việt Nam là quốc gia châu Á đầu tiên hiện thực hóa giấc mơ đó. 5 vòng vàng kỳ ảo là gameshow sử dụng công nghệ tương tác thông minh giữa những chiếc vòng và hệ thống phần mềm điều khiển, kết nối thông qua một thiết bị camera cảm biến thông minh (được gắn ở vị trí topshot). Camera này sẽ định vị vị trí của chiếc vòng để gửi thông tin về cho hệ thống phần mềm điều khiển dựa trên công nghệ trí tuệ nhân tạo AI. Phần mềm này giúp nhận diện hình ảnh, tọa độ của chiếc vòng và so sánh vị trí đúng của câu trả lời, cho ra kết quả đúng/sai của vị trí chiếc vòng.  Tuy nhiên, thay vì việc phải nhập khẩu hoàn toàn phần mềm, phần cứng từ nhà cung cấp ở Anh quốc, ekip Việt Nam đã tự nghiên cứu, thiết kế từ những chiếc vòng vàng để chương trình có thể vận hành sớm và tiết kiệm nhất. Sau quá trình chạy thử nghiệm, kết quả đạt độ chính xác lên đến 98%, vượt xa sự mong đợi của cả ekip. Trong buổi ra mắt chương trình ngày 26-11, ông Hoa Thanh Tùng, đại diện VTV nhận định 5 vòng vàng kỳ ảo có tính đột phá về công nghệ sản xuất gameshow. Được biết, trong quá trình thử nghiệm, vận hành các chuyên gia nước ngoài luôn theo sát mọi công đoạn cũng như thời gian ghi hình. Kết quả, họ đã vô cùng bất ngờ trước sự sáng tạo, thông minh của ekip Việt Nam bởi tính chính xác rất cao, tương đương phiên bản gốc trong khi chi phí rẻ hơn rất nhiều.  Đặc biệt, nước bạn Thái Lan – quốc gia đầu tiên tại Đông Nam Á đã mua bản quyền chương trình trước Việt Nam nhưng chưa thể đưa vào sản xuất vì chi phí quá cao đã cử chuyên gia sang Việt Nam theo dõi quá trình thực hiện và tỏ ra nể phục với thành quả từ ekip. Họ cho rằng, ekip Việt Nam đã làm được điều không tưởng và thành tựu này xứng đáng để học hỏi. Thái Lan hy vọng, với những bài học từ Việt Nam, họ cũng sẽ sớm đưa chương trình này vào quá trình sản xuất để phục vụ khán giả. 5 vòng vàng kỳ ảo với sự tham gia của nhiều nghệ sĩ nổi tiếng: Chí Tài, Minh Nhí, Minh Tiệp, Việt Anh, Minh Khang, Thúy Hạnh, Hoàng Bách, Xuân Nghị, Vinh râu… phát sóng lúc 20h00 tối thứ Bảy hàng tuần trên VTV3, bắt đầu từ 1/12/ 2018.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "44a93cc066aca2c1b37258fa05413ae7c4c4e855"
+            "id": "44a93cc066aca2c1b37258fa05413ae7c4c4e85a5"
         }
     ]
 }

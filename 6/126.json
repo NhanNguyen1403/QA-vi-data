@@ -1,11 +1,11 @@
 {
-    "context": "Hệ thống đào tạo lập trình Xschool và Học viện công nghệ TineX là 2 mô hình đào tạo mang tính ứng dụng thực tiễn cao với những ưu điểm giúp các bạn sinh viên rút ngắn thời gian học tập, có công việc ngay. Đây cũng là chương trình được xây dựng trọng tâm sát với thực tế.Theo đó, sinh viên sẽ chỉ học một năm theo hình thức online (trực tuyến) với sự trợ giúp của các Mentor (chuyên gia hướng dẫn) và hàng tuần sẽ offline 2 buổi với nhà tuyển dụng. Mô hình học này rất linh hoạt, hiện đại, tiết kiệm thời gian mà vẫn đảm bảo lượng kiến thức hành nghề thực tế. Mục tiêu của hệ thống là đào tạo cho mọi đối tượng có nhu cầu học CNTT (chuyên nghiệp hoặc bán chuyên nghiệp) có đủ năng lực làm việc trong các môi trường chuyên nghiệp với thời gian ngắn nhất.Tốt nghiệp khóa học, sinh viên đạt tiêu chuẩn sẽ được cấp chứng chỉ nghề của FUNiX và Đại học FPT, đồng thời sẽ có cơ hội tuyển dụng tại các công ty đối tác như Tinh Vân, CMC, Fsoft, …Ngoài kiến thức chuyên ngành, TineX Academy sẽ hỗ trợ các bạn sinh viên khóa học ngoại ngữ và kỹ năng làm việc trong các môi trường CNTT chuyên nghiệp.Bà Nguyễn Trần Thị Mỹ Nga - Giám đốc Học viện TineX.Khi nhu cầu xã hội biến đổi, cuộc Cách mạng công nghiệp 4.0 phủ màu khiến nhân sự ngành nghề nào cũng cần biết về công nghệ và cần học công nghệ để đáp ứng công việc.Nắm bắt được điểm cần từ chính thị trường nguồn nhân lực ngành CNTT, chúng tôi hiểu rằng sự ra đời của những đơn vị đào tạo như TineX Academy không hoàn toàn là mới nhưng sẽ tạo sự khác biệt, vì tại đây chúng tôi sẽ mang tới một mô hình đào tạo gọn nhẹ, linh hoạt, hướng đến người học, giải mã chính những gì các bạn cần để sẵn sàng đáp ứng được những yêu cầu khắt khe của các nhà tuyển dụng, bà Nguyễn Trần Thị Mỹ Nga - Giám đốc Học viện TineX cho biết.",
+    "context": "Hệ thống đào tạo lập trình Xschool và Học viện công nghệ TineX là 2 mô hình đào tạo mang tính ứng dụng thực tiễn cao với những ưu điểm giúp các bạn sinh viên rút ngắn thời gian học tập, có công việc ngay. Đây cũng là chương trình được xây dựng trọng tâm sát với thực tế. Theo đó, sinh viên sẽ chỉ học một năm theo hình thức online (trực tuyến) với sự trợ giúp của các Mentor (chuyên gia hướng dẫn) và hàng tuần sẽ offline 2 buổi với nhà tuyển dụng. Mô hình học này rất linh hoạt, hiện đại, tiết kiệm thời gian mà vẫn đảm bảo lượng kiến thức hành nghề thực tế. Mục tiêu của hệ thống là đào tạo cho mọi đối tượng có nhu cầu học CNTT (chuyên nghiệp hoặc bán chuyên nghiệp) có đủ năng lực làm việc trong các môi trường chuyên nghiệp với thời gian ngắn nhất.  Tốt nghiệp khóa học, sinh viên đạt tiêu chuẩn sẽ được cấp chứng chỉ nghề của FUNiX và Đại học FPT, đồng thời sẽ có cơ hội tuyển dụng tại các công ty đối tác như Tinh Vân, CMC, Fsoft, …Ngoài kiến thức chuyên ngành, TineX Academy sẽ hỗ trợ các bạn sinh viên khóa học ngoại ngữ và kỹ năng làm việc trong các môi trường CNTT chuyên nghiệp. Bà Nguyễn Trần Thị Mỹ Nga - Giám đốc Học viện TineX. Khi nhu cầu xã hội biến đổi, cuộc Cách mạng công nghiệp 4.0 phủ màu khiến nhân sự ngành nghề nào cũng cần biết về công nghệ và cần học công nghệ để đáp ứng công việc.  Nắm bắt được điểm cần từ chính thị trường nguồn nhân lực ngành CNTT, chúng tôi hiểu rằng sự ra đời của những đơn vị đào tạo như TineX Academy không hoàn toàn là mới nhưng sẽ tạo sự khác biệt, vì tại đây chúng tôi sẽ mang tới một mô hình đào tạo gọn nhẹ, linh hoạt, hướng đến người học, giải mã chính những gì các bạn cần để sẵn sàng đáp ứng được những yêu cầu khắt khe của các nhà tuyển dụng , bà Nguyễn Trần Thị Mỹ Nga - Giám đốc Học viện TineX cho biết.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "856f5f629f969810cbb003735f28e98442238005"
+            "id": "856f5f629f969810cbb003735f28e984422380095"
         }
     ]
 }

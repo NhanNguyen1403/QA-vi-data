@@ -1,11 +1,11 @@
 {
-    "context": "Đêm qua (9/12), khu vực Đà Nẵng đến Bình Định tiếp tục có mưa to đến rất to với lượng hơn 200 mm trong vòng 6 tiếng khiến lũ trên các sông tiếp tục ở mức cao.Dự báo trong ngày và đêm nay (10/12), khu vực từ Quảng Bình trở vào Bình Định sẽ tiếp tục có mưa to đến rất to với lượng từ 100 - 200 mm, riêng Thừa Thiên - Huế, Đà Nẵng, Quảng Nam, Quảng Ngãi với lượng từ 200 - 300mm, có nơi trên 400 mm.Mực nước trên sông Lại Giang - Bình Định tiếp tục lên trên báo động 2 trong trưa chiều nay; các sông khác ở Quảng Ngãi, Bình Định tiếp tục xuống báo động 1 - 2.Khả năng đợt mưa này sẽ kéo dài đến hết ngày 12/12 và vùng mưa có khả năng mở rộng ra tỉnh Nghệ An.Cảnh báo mưa lớn gây ngập úng vùng trũng thấp, lũ quét, sạt lở đất tại vùng núi khu vực Quảng Bình - Bình Định.VTV.vn - Ban Chỉ đạo Trung ương về phòng, chống thiên tai yêu cầu theo dõi chặt chẽ diễn biến mưa, lũ; thông tin kịp thời, đầy đủ đến các cấp chính quyền và người dân.",
+    "context": "Đêm qua (9/12), khu vực Đà Nẵng đến Bình Định tiếp tục có mưa to đến rất to với lượng hơn 200 mm trong vòng 6 tiếng khiến lũ trên các sông tiếp tục ở mức cao. Dự báo trong ngày và đêm nay (10/12), khu vực từ Quảng Bình trở vào Bình Định sẽ tiếp tục có mưa to đến rất to với lượng từ 100 - 200 mm, riêng Thừa Thiên - Huế, Đà Nẵng, Quảng Nam, Quảng Ngãi với lượng từ 200 - 300mm, có nơi trên 400 mm. Mực nước trên sông Lại Giang - Bình Định tiếp tục lên trên báo động 2 trong trưa chiều nay; các sông khác ở Quảng Ngãi, Bình Định tiếp tục xuống báo động 1 - 2. Khả năng đợt mưa này sẽ kéo dài đến hết ngày 12/12 và vùng mưa có khả năng mở rộng ra tỉnh Nghệ An. Cảnh báo mưa lớn gây ngập úng vùng trũng thấp, lũ quét, sạt lở đất tại vùng núi khu vực Quảng Bình - Bình Định. VTV.vn - Ban Chỉ đạo Trung ương về phòng, chống thiên tai yêu cầu theo dõi chặt chẽ diễn biến mưa, lũ; thông tin kịp thời, đầy đủ đến các cấp chính quyền và người dân.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "1460f3aad4490acf266c6bbcad43e040052fff05"
+            "id": "1460f3aad4490acf266c6bbcad43e040052fff015"
         }
     ]
 }

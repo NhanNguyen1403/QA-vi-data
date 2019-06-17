@@ -1,11 +1,11 @@
 {
-    "context": "Theo thống kê của Cục An toàn thông tin, Bộ Thông tin và Truyền thông: Thời gian qua đã có hơn 4,77 triệu lượt địa chỉ IP Việt Nam nằm trong các mạng máy tính nhiễm virus (botnet). Đáng lo ngại là có đến 1020 trang web nhiễm virus đang thu thập thông tin cá nhân người dùng Việt Nam. Bên cạnh đó, địa chỉ IP của Việt Nam phát tán thư rác đi các nước lên tới 12.685 địa chỉ.Thống kê của Cục An toàn thông tin cũng chỉ ra rằng: Các thiết bị di động đang là mục tiêu lớn nhất của xu hướng tấn công mới hiện nay nhằm các mục đích như nghe lén thông tin, giả mạo thông tin, tấn công tài chính, đánh cắp dữ liệu, tấn công thiết bị khác.Hãng bảo mật Trend Micro gần đây công bố: Việt Nam đang dẫn đầu Đông Nam Á về tấn công mạng với hơn 86 triệu email có nội dung đe dọa được phát hiện trong nửa đầu năm 2018. Việt Nam nằm trong số 20 nước bị nhiễm mã độc tống tiền nhiều nhất.Qua theo dõi, Cục An toàn thông tin cho biết: Ở Việt Nam, cứ 1 giây xảy ra khoảng 170 cuộc tấn công mạng thì có 3 cuộc tấn công mạng có chủ đích, 4 mã độc được phát tán. Tỷ lệ nhiễm mã độc của máy tính và các thiết bị di động lên đến 71,38%, tuy nhiên chỉ có 11% người dân là nhận thức được bị tấn công.",
+    "context": "Theo thống kê của Cục An toàn thông tin, Bộ Thông tin và Truyền thông: Thời gian qua đã có hơn 4,77 triệu lượt địa chỉ IP Việt Nam nằm trong các mạng máy tính nhiễm virus (botnet). Đáng lo ngại là có đến 1020 trang web nhiễm virus đang thu thập thông tin cá nhân người dùng Việt Nam. Bên cạnh đó, địa chỉ IP của Việt Nam phát tán thư rác đi các nước lên tới 12.685 địa chỉ. Thống kê của Cục An toàn thông tin cũng chỉ ra rằng: Các thiết bị di động đang là mục tiêu lớn nhất của xu hướng tấn công mới hiện nay nhằm các mục đích như nghe lén thông tin, giả mạo thông tin, tấn công tài chính, đánh cắp dữ liệu, tấn công thiết bị khác. Hãng bảo mật Trend Micro gần đây công bố: Việt Nam đang dẫn đầu Đông Nam Á về tấn công mạng với hơn 86 triệu email có nội dung đe dọa được phát hiện trong nửa đầu năm 2018. Việt Nam nằm trong số 20 nước bị nhiễm mã độc tống tiền nhiều nhất. Qua theo dõi, Cục An toàn thông tin cho biết: Ở Việt Nam, cứ 1 giây xảy ra khoảng 170 cuộc tấn công mạng thì có 3 cuộc tấn công mạng có chủ đích, 4 mã độc được phát tán. Tỷ lệ nhiễm mã độc của máy tính và các thiết bị di động lên đến 71,38%, tuy nhiên chỉ có 11% người dân là nhận thức được bị tấn công.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "66c6002f8c80996347cf78cfc0e9c36b5b45b925"
+            "id": "66c6002f8c80996347cf78cfc0e9c36b5b45b92e5"
         }
     ]
 }

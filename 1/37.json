@@ -1,11 +1,11 @@
 {
-    "context": "Một hộp sữa có tới 3 bộ quản lý về an toàn thực phẩm, hay một chiếc bánh phải cõng hơn chục cái giấy phép các loại. Sự chồng chéo và gánh nặng từ những giấy phép con đang là nỗi ám ảnh cho doanh nghiệp trong quá trình kinh doanh.Đã có xác nhận phù hợp quy định an toàn thực phẩm của Bộ Y tế, tuy nhiên, hộp sữa dinh dưỡng nhập khẩu vẫn phải kiểm tra thêm 2 lần nữa. Đó là kiểm dịch động vật của Bộ Nông nghiệp và Phát triển nông thôn và giấy an toàn thực phẩm của Bộ Công Thương trước khi thông quan.Với các doanh nghiệp sản xuất thực phẩm có sử dụng nguyên phụ liệu nhập khẩu, thủ tục cấp giấy ATTP còn phức tạp hơn. Giả sử chiếc bánh được làm từ 10 nguyên liệu, doanh nghiệp phải xin ít nhất 11 giấy công bố phù hợp ATTP: 10 giấy cho nguyên liệu và 1 giấy cho thành phẩm.Hiện có 243 ngành nghề kinh doanh có điều kiện, mỗi ngành nghề lại bổ sung thêm các tiêu chí, quy định khác nhau. Viện Nghiên cứu quản lý kinh tế Trung ương tính toán, từ giấy phép cha, đẻ ra giấy phép con, cháu và tới nay doanh nghiệp đang phải gánh trên vai hơn 3.400 giấy phép các loại.",
+    "context": "Một hộp sữa có tới 3 bộ quản lý về an toàn thực phẩm, hay một chiếc bánh phải  cõng  hơn chục cái giấy phép các loại. Sự chồng chéo và gánh nặng từ những  giấy phép con  đang là nỗi ám ảnh cho doanh nghiệp trong quá trình kinh doanh. Đã có xác nhận phù hợp quy định an toàn thực phẩm của Bộ Y tế, tuy nhiên, hộp sữa dinh dưỡng nhập khẩu vẫn phải kiểm tra thêm 2 lần nữa. Đó là kiểm dịch động vật của Bộ Nông nghiệp và Phát triển nông thôn và giấy an toàn thực phẩm của Bộ Công Thương trước khi thông quan. Với các doanh nghiệp sản xuất thực phẩm có sử dụng nguyên phụ liệu nhập khẩu, thủ tục cấp giấy ATTP còn phức tạp hơn. Giả sử chiếc bánh được làm từ 10 nguyên liệu, doanh nghiệp phải xin ít nhất 11 giấy công bố phù hợp ATTP: 10 giấy cho nguyên liệu và 1 giấy cho thành phẩm. Hiện có 243 ngành nghề kinh doanh có điều kiện, mỗi ngành nghề lại bổ sung thêm các tiêu chí, quy định khác nhau. Viện Nghiên cứu quản lý kinh tế Trung ương tính toán, từ giấy phép cha, đẻ ra giấy phép con, cháu và tới nay doanh nghiệp đang phải gánh trên vai hơn 3.400 giấy phép các loại.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "ed321104cb642a4a205c24585e61856c52482ab5"
+            "id": "ed321104cb642a4a205c24585e61856c52482ab45"
         }
     ]
 }

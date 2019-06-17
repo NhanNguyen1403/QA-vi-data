@@ -1,11 +1,11 @@
 {
-    "context": "Liên quan đến vụ việc giáo viên yêu cầu học sinh tát bạn vì nói chuyện trong giờ giảng. Ngay sáng nay (6/12), đại diện của Phòng Giáo dục và Đào tạo quận Đống Đa, Trường Tiểu học Quang Trung đã tổ chức buổi họp báo. Tại đây, hiệu trưởng nhà trường - bà Lê Anh Vân - đã gửi lời xin lỗi đến phụ huynh và học sinh.Trong buổi họp báo sáng nay, mẹ của học sinh bị tát cho biết có sự việc con mình bị bạn tát 50 cái do giáo viên yêu cầu.Tuy nhiên, trái ngược với khẳng định của gia đình, theo bản tường trình của giáo viên chủ nhiệm gửi trường, không hề có sự việc cô giáo yêu cầu tát học sinh 50 cái. Đồng thời Hiệu trưởng cũng khẳng định, việc xác minh được là rất khó.Sáng nay, UBND quận Đống Đa đã có quyết định thành lập một đoàn thanh tra để xác minh sự việc một cách đầy đủ. Về thông tin chính thức, xin được thông báo sau khi đoàn thanh tra của Quận làm việc với trường và có kết luận bằng văn bản cụ thể. Trong buổi sáng nay, các em học sinh tại trường vẫn đảm bảo học bình thường. Trước đó, Bộ Giáo dục và Đào tạo đã yêu cầu Sở xác minh và báo cáo lại Bộ qua Cục Nhà giáo và Quản lý giáo dục.",
+    "context": "Liên quan đến vụ việc giáo viên yêu cầu học sinh tát bạn vì nói chuyện trong giờ giảng. Ngay sáng nay (6/12), đại diện của Phòng Giáo dục và Đào tạo quận Đống Đa, Trường Tiểu học Quang Trung đã tổ chức buổi họp báo. Tại đây, hiệu trưởng nhà trường - bà Lê Anh Vân - đã gửi lời xin lỗi đến phụ huynh và học sinh. Trong buổi họp báo sáng nay, mẹ của học sinh bị tát cho biết có sự việc con mình bị bạn tát 50 cái do giáo viên yêu cầu. Tuy nhiên, trái ngược với khẳng định của gia đình, theo bản tường trình của giáo viên chủ nhiệm gửi trường, không hề có sự việc cô giáo yêu cầu tát học sinh 50 cái. Đồng thời Hiệu trưởng cũng khẳng định, việc xác minh được là rất khó. Sáng nay, UBND quận Đống Đa đã có quyết định thành lập một đoàn thanh tra để xác minh sự việc một cách đầy đủ. Về thông tin chính thức, xin được thông báo sau khi đoàn thanh tra của Quận làm việc với trường và có kết luận bằng văn bản cụ thể. Trong buổi sáng nay, các em học sinh tại trường vẫn đảm bảo học bình thường. Trước đó, Bộ Giáo dục và Đào tạo đã yêu cầu Sở xác minh và báo cáo lại Bộ qua Cục Nhà giáo và Quản lý giáo dục.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "eb6cb03502ec407dbf676ae53f7a782e888e9ef5"
+            "id": "eb6cb03502ec407dbf676ae53f7a782e888e9ef45"
         }
     ]
 }

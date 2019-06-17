@@ -1,11 +1,11 @@
 {
-    "context": "Với hầu hết mọi người, mua xe là một khoản đầu tư dài hạn, với kỳ vọng rằng nó sẽ trở thành người đồng hành đáng tin cậy cho những chặng đường dài.Và để người dùng dễ dàng hơn cho việc lựa chọn, trang Consumer Reports đã công bố 10 mẫu xe đáng tin cậy nhất năm 2018. Kết quả của Consumer Reports dựa trên dữ liệu thu thập từ hơn 500.000 xe tập trung vào 17 khu vực có khả năng cao xảy ra lỗi trên ô tô từ  hệ thống âm thanh, nột thất, hệ thống truyền động… Bên cạnh việc kiểm định, Consumer Reports cũng thực hiện thu thập ý kiến người dùng về mức độ hài lòng làm cơ sở cho điểm đánh giá cuối cùng.Dưới đây là danh sách 10 mẫu xe đáng tin cậy nhất (xếp hạng từ cao tới thấp):1. Lexus GX - giá 58.428 USD (giá bán tại Mỹ)2. Toyota Prius C - giá 20.850 USD3. Toyota Prius Prime - giá 29.889 4. Mazda MX-5 Miata - giá 29.905 USD5. Toyota Corolla - giá 20.652 USD6. Lexus NX giá từ 43,284 USD -  51.224 USD7. Toyota Prius - giá 27.323 USD8. Honda Fit - giá 19.025 USD9. Kia Sedona - giá 34.795 USD10. Toyota Highlander - giá 41.169 USD - 50.875 USD",
+    "context": "Với hầu hết mọi người, mua xe là một khoản đầu tư dài hạn, với kỳ vọng rằng nó sẽ trở thành người đồng hành đáng tin cậy cho những chặng đường dài. Và để người dùng dễ dàng hơn cho việc lựa chọn, trang Consumer Reports đã công bố 10 mẫu xe đáng tin cậy nhất năm 2018. Kết quả của Consumer Reports dựa trên dữ liệu thu thập từ hơn 500.000 xe tập trung vào 17 khu vực có khả năng cao xảy ra lỗi trên ô tô từ  hệ thống âm thanh, nột thất, hệ thống truyền động… Bên cạnh việc kiểm định, Consumer Reports cũng thực hiện thu thập ý kiến người dùng về mức độ hài lòng làm cơ sở cho điểm đánh giá cuối cùng. Dưới đây là danh sách 10 mẫu xe đáng tin cậy nhất (xếp hạng từ cao tới thấp): 1. Lexus GX - giá 58.428 USD (giá bán tại Mỹ) 2. Toyota Prius C - giá 20.850 USD 3. Toyota Prius Prime - giá 29.889  4. Mazda MX-5 Miata - giá 29.905 USD 5. Toyota Corolla - giá 20.652 USD 6. Lexus NX giá từ 43,284 USD -  51.224 USD 7. Toyota Prius - giá 27.323 USD 8. Honda Fit - giá 19.025 USD 9. Kia Sedona - giá 34.795 USD 10. Toyota Highlander - giá 41.169 USD - 50.875 USD",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "39be3de022f4dbf030b5e717203611cd5142d645"
+            "id": "39be3de022f4dbf030b5e717203611cd5142d6425"
         }
     ]
 }

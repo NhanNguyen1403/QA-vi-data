@@ -1,11 +1,11 @@
 {
-    "context": "Hiện ngân hàng Morgan Stanley và Goldman Sachs đang chạy đua quyết liệt nhằm giành vị trí tư vấn chính cho thương vụ IPO Uber. Trong hơn 1 năm được bổ nhiệm, CEO mới của Uber là Dara Khosrowshahi đã có nhiều nỗ lực nhằm giành lại niềm tin của nhà đầu tư, tài xế và hành khách, trong bối cảnh người tiêu dùng có thể lựa chọn giữa ngày càng nhiều ứng dụng gọi xe trên điện thoại thông minh.VTV.vn - Hãng xe công nghệ Uber đang nhăm nhe tiến vào thị trường giao hàng thực phẩm bằng thương vụ mua lại Deliveroo.",
+    "context": "Hiện ngân hàng Morgan Stanley và Goldman Sachs đang chạy đua quyết liệt nhằm giành vị trí tư vấn chính cho thương vụ IPO Uber.  Trong hơn 1 năm được bổ nhiệm, CEO mới của Uber là Dara Khosrowshahi đã có nhiều nỗ lực nhằm giành lại niềm tin của nhà đầu tư, tài xế và hành khách, trong bối cảnh người tiêu dùng có thể lựa chọn giữa ngày càng nhiều ứng dụng gọi xe trên điện thoại thông minh. VTV.vn - Hãng xe công nghệ Uber đang nhăm nhe tiến vào thị trường giao hàng thực phẩm bằng thương vụ mua lại Deliveroo.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "71a1f37b5756dc4852bb264959f17ec1e5b100d5"
+            "id": "71a1f37b5756dc4852bb264959f17ec1e5b100dd5"
         }
     ]
 }

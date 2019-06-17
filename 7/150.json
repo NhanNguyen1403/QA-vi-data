@@ -1,11 +1,11 @@
 {
-    "context": "Để giải quyết vấn đề trên, người dùng có thể sử dụng tính năng mới được ra mắt có tên gọi là Secret Conversations (cuộc trò chuyện bí mật) trên Messenger của Facebook, không chỉ mã hóa tất cả các nội dung tin nhắn được gửi trên nó mà còn cho phép bạn thiết lập giới hạn thời gian để sau đó nội dung tin nhắn sẽ tự động được hủy.Về cơ bản, chức năng mã hóa sẽ giúp người dùng thoát khỏi hacker hay bất cứ tổ chức nào, thậm chí ngay cả nhà cung cấp dịch vụ cũng không thể đọc được tin nhắn đó.Để sử dụng, bạn chỉ cần mở ứng dụng Facebook Messenger, chọn người cần gửi tin nhắn bí mật rồi nhấn vào biểu tượng chữ i ở góc trên bên phải, tiếp theo, nhấp vào mục Go to Secret Conversation (đi tới cuộc trò chuyện bí mật) để kích hoạt nó.Các bước để kích hoạt tính năng Secret Conversation.Tương tự, nếu đang sử dụng các thiết bị iOS, bạn hãy bấm vào tên người cần gửi tin nhắn và chọn Secret Conversation (cuộc trò chuyện bí mật).Trong cửa sổ soạn thảo tin nhắn vừa xuất hiện, bạn hãy bấm vào biểu tượng đồng hồ để thiết lập thời gian tự hủy tin nhắn, ví dụ như năm giây, 10 giây, 30 giây, 1 phút… và cao nhất là 1 ngày.Sau đó, soạn nội dung tin nhắn, chọn hình ảnh hoặc video và gửi đi. Khi hết thời gian đã định, tự động các nội dung bạn gửi trước đó sẽ biến mất. Tương tự, khi người nhận đã đọc tin nhắn, mọi thứ sẽ tự động biến mất sau khoảng thời gian tương ứng.Tính năng này cho phép thiết lập thời gian tự hủy tin nhắn.Tính năng này chỉ có mặt trên thiết bị di động, và người dùng sẽ không thể truy cập trong Messenger trên trang web. Khi sử dụng tính năng, nội dung tin nhắn sẽ được mã hóa trên thiết bị sử dụng, ngay cả khi người khác đang đăng nhập tài khoản của bạn bằng thiết bị khác sẽ không thể nhận tin nhắn.Lưu ý: Vì là một tính năng đặc biệt nên khi nhắn tin bạn sẽ không thể sử dụng các tính năng như vị trí, thanh toán, hay sử dụng ứng dụng bên thứ ba, mặc dù vẫn có thể chèn ảnh và các nhãn dán cho người phía bên kia, các nội dung sẽ tự động xóa đi sau khoảng thời gian nhất định, thậm chí một khi cuộc trò chuyện kết thúc.",
+    "context": "Để giải quyết vấn đề trên, người dùng có thể sử dụng tính năng mới được ra mắt có tên gọi là Secret Conversations (cuộc trò chuyện bí mật) trên Messenger của Facebook, không chỉ mã hóa tất cả các nội dung tin nhắn được gửi trên nó mà còn cho phép bạn thiết lập giới hạn thời gian để sau đó nội dung tin nhắn sẽ tự động được hủy. Về cơ bản, chức năng mã hóa sẽ giúp người dùng thoát khỏi hacker hay bất cứ tổ chức nào, thậm chí ngay cả nhà cung cấp dịch vụ cũng không thể đọc được tin nhắn đó. Để sử dụng, bạn chỉ cần mở ứng dụng Facebook Messenger, chọn người cần gửi tin nhắn bí mật rồi nhấn vào biểu tượng chữ  i  ở góc trên bên phải, tiếp theo, nhấp vào mục Go to Secret Conversation (đi tới cuộc trò chuyện bí mật) để kích hoạt nó. Các bước để kích hoạt tính năng Secret Conversation. Tương tự, nếu đang sử dụng các thiết bị iOS, bạn hãy bấm vào tên người cần gửi tin nhắn và chọn Secret Conversation (cuộc trò chuyện bí mật). Trong cửa sổ soạn thảo tin nhắn vừa xuất hiện, bạn hãy bấm vào biểu tượng đồng hồ để thiết lập thời gian tự hủy tin nhắn, ví dụ như năm giây, 10 giây, 30 giây, 1 phút… và cao nhất là 1 ngày. Sau đó, soạn nội dung tin nhắn, chọn hình ảnh hoặc video và gửi đi. Khi hết thời gian đã định, tự động các nội dung bạn gửi trước đó sẽ biến mất. Tương tự, khi người nhận đã đọc tin nhắn, mọi thứ sẽ tự động biến mất sau khoảng thời gian tương ứng. Tính năng này cho phép thiết lập thời gian tự hủy tin nhắn. Tính năng này chỉ có mặt trên thiết bị di động, và người dùng sẽ không thể truy cập trong Messenger trên trang web. Khi sử dụng tính năng, nội dung tin nhắn sẽ được mã hóa trên thiết bị sử dụng, ngay cả khi người khác đang đăng nhập tài khoản của bạn bằng thiết bị khác sẽ không thể nhận tin nhắn. Lưu ý: Vì là một tính năng đặc biệt nên khi nhắn tin bạn sẽ không thể sử dụng các tính năng như vị trí, thanh toán, hay sử dụng ứng dụng bên thứ ba, mặc dù vẫn có thể chèn ảnh và các nhãn dán cho người phía bên kia, các nội dung sẽ tự động xóa đi sau khoảng thời gian nhất định, thậm chí một khi cuộc trò chuyện kết thúc.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "424985914275c5e065bc91bb2603e044fa385ae5"
+            "id": "424985914275c5e065bc91bb2603e044fa385ae45"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "context": "Cụ thể, Công ty cổ phần Vận tải đường sắt Sài Gòn sẽ giảm 7% giá vé ghế ngồi cho nhiều mác tàu trên nhiều tuyến. Giảm 5% giá vé giường nằm cho nhiều mác tàu chạy tất cả các ngày trong tuần.Cũng trong giai đoạn này, Công ty sẽ thực hiện chính sách giảm giá vé từ 8 - 14% cho khách đoàn, khách tập thể.VTV.vn - Năm nay là năm thứ 5 ngành đường sắt triển khai bán vé tàu điện tử. Hành khách đã dần quen và chọn lựa hình thức mua vé tiện lợi này.",
+    "context": "Cụ thể, Công ty cổ phần Vận tải đường sắt Sài Gòn sẽ giảm 7% giá vé ghế ngồi cho nhiều mác tàu trên nhiều tuyến. Giảm 5% giá vé giường nằm cho nhiều mác tàu chạy tất cả các ngày trong tuần. Cũng trong giai đoạn này, Công ty sẽ thực hiện chính sách giảm giá vé từ 8 - 14% cho khách đoàn, khách tập thể. VTV.vn - Năm nay là năm thứ 5 ngành đường sắt triển khai bán vé tàu điện tử. Hành khách đã dần quen và chọn lựa hình thức mua vé tiện lợi này.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "d7eb6ae00ebdd125446931fbdb615bbd269bcf25"
+            "id": "d7eb6ae00ebdd125446931fbdb615bbd269bcf235"
         }
     ]
 }
