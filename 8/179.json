@@ -5,50 +5,50 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": "Sáng nay (29/11)"
                 }
             ],
-            "question": "",
+            "question": "Bộ Công an phối hợp với Công an tỉnh Thanh Hóa đã tổ chức buổi họp báo về vụ án vào ngày nào?",
             "id": "8354d118cc916a95c4fb7b762955af533293dd5b1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 99,
+                    "text": "Cố ý gây thương tích, giữ người trái pháp luật, cho vay nặng lãi trong giao dịch dân sự xảy ra tại Tập đoàn Nam Long"
                 }
             ],
-            "question": "",
+            "question": "Bộ Công an phối hợp với Công an tỉnh Thanh Hóa đã tổ chức buổi họp báo về vụ án gì?",
             "id": "8354d118cc916a95c4fb7b762955af533293dd5b2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 239,
+                    "text": "Tập đoàn Nam Long"
                 }
             ],
-            "question": "",
+            "question": "Vụ án về hoạt động tín dụng đen của công ty nào?",
             "id": "8354d118cc916a95c4fb7b762955af533293dd5b3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 566,
+                    "text": "63 tỉnh, thành"
                 }
             ],
-            "question": "",
+            "question": "Sau 1 năm công ty này đã hoạt động được trên bao nhiêu tỉnh thành?",
             "id": "8354d118cc916a95c4fb7b762955af533293dd5b4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 606,
+                    "text": "hơn 510 tỷ đồng"
                 }
             ],
-            "question": "",
+            "question": "Tổng số tiền lên đến bao nhiêu?",
             "id": "8354d118cc916a95c4fb7b762955af533293dd55"
         }
     ]
