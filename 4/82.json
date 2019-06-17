@@ -1,11 +1,11 @@
 {
-    "context": "Đấu bò tót, lễ hội lâu đời và biểu tượng của Tây Ban Nha rất có thể sẽ không còn nữa khi mới đây, hàng nghìn người đã xuống đường biểu tình tại Thủ đô Madrid nhằm kêu gọi lệnh cấm cho lễ hội này.Nhiều địa phương thậm chí đã cấm người dân tổ chức lễ hội đấu bò tót. Nhiều ý kiến cho rằng, ngoài việc có thể gây thương vong cho con người thì lễ hội này đã thiếu nhân đạo đối với loài bò tót.",
+    "context": "Đấu bò tót, lễ hội lâu đời và biểu tượng của Tây Ban Nha rất có thể sẽ không còn nữa khi mới đây, hàng nghìn người đã xuống đường biểu tình tại Thủ đô Madrid nhằm kêu gọi lệnh cấm cho lễ hội này. Nhiều địa phương thậm chí đã cấm người dân tổ chức lễ hội đấu bò tót. Nhiều ý kiến cho rằng, ngoài việc có thể gây thương vong cho con người thì lễ hội này đã thiếu nhân đạo đối với loài bò tót.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "d94de7be3274654aed099c5586004f95279cedb5"
+            "id": "d94de7be3274654aed099c5586004f95279cedbe5"
         }
     ]
 }

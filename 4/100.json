@@ -1,11 +1,11 @@
 {
-    "context": "Cảnh sát Bỉ cho biết, khoảng 450 người đã bị bắt giữ tại thủ đô Brussels của nước này trong cuộc biểu tình tương tự cuộc biểu tình áo vàng đang diễn ra ở nước láng giềng Pháp. Sau khi cuộc biểu tình biến thành bạo lực, hai xe cảnh sát đã bị phóng hỏa. Những thanh niên tham gia biểu tình đã chặn một đường cao tốc nối Brussels với thị trấn Rekkem, gần biên giới Pháp. Họ cũng dựng một rào chắn gần biên giới Pháp - Bỉ, giáp Adinkerque.VTV.vn - Bộ Nội vụ Pháp cho biết có khoảng 31.000 người đã tham gia các cuộc biểu tình của phe Áo vàng trên toàn nước Pháp trong ngày hôm qua (8/12).",
+    "context": "Cảnh sát Bỉ cho biết, khoảng 450 người đã bị bắt giữ tại thủ đô Brussels của nước này trong cuộc biểu tình tương tự cuộc biểu tình  áo vàng  đang diễn ra ở nước láng giềng Pháp.  Sau khi cuộc biểu tình biến thành bạo lực, hai xe cảnh sát đã bị phóng hỏa. Những thanh niên tham gia biểu tình đã chặn một đường cao tốc nối Brussels với thị trấn Rekkem, gần biên giới Pháp. Họ cũng dựng một rào chắn gần biên giới Pháp - Bỉ, giáp Adinkerque.  VTV.vn - Bộ Nội vụ Pháp cho biết có khoảng 31.000 người đã tham gia các cuộc biểu tình của phe  Áo vàng  trên toàn nước Pháp trong ngày hôm qua (8/12).",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "c1dd52f409f49ff73481490f80da8bb4b0183f25"
+            "id": "c1dd52f409f49ff73481490f80da8bb4b0183f225"
         }
     ]
 }

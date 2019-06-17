@@ -1,11 +1,11 @@
 {
-    "context": "Facebook được cho là đang thử nghiệm một tính năng mới thú vị sẽ giúp người dùng chống lại tình trạng lạm dụng, bắt nạt và quấy rối trên nền tảng này.Quấy rối trực tuyến đã là một vấn đề lớn trên hầu hết các mạng xã hội trong một thời gian dài. Facebook về phần mình đã và đang thực hiện một số hành động để chống lại vấn đề này và tính năng sắp tới có vẻ như là bước đi khá hiệu quả.Theo bài đăng của nhà phát triển Jane Wong trên Twitter, tính năng mới của Facebook sẽ cho phép bạn chọn một từ cụ thể, một nhóm từ hoặc thậm chí là biểu tượng cảm xúc mà bạn không muốn xuất hiện trong dòng thời gian của mình.Wong cũng chia sẻ ảnh chụp màn hình về tính năng đang được phát triển. Theo hình ảnh, khi bạn chặn một số từ nhất định, Facebook sẽ thông báo có người dùng đăng bình luận và bạn bè của họ sẽ vẫn có thể xem chúng.Tính năng lọc nhận xét mới khá giống với tính năng trên Instagram. Instagram đã cho phép người dùng lọc nhận xét, sử dụng từ khóa mặc định và từ khóa tùy chỉnh, trong một thời gian dài. Tương tự, Twitter cũng có một tính năng được gọi Cụm từ bị tắt cho phép người dùng cấm các từ cụ thể từ trên dòng thời gian của họ.Facebook có thể cho phép người dùng chọn các bài đăng mà họ muốn lọc ra hoặc có thể đề xuất một số từ hoặc cụm từ nhất định. Hiện tại chưa rõ tính năng này có hoạt động đối với cả nguồn cấp dữ liệu hay không. Hiện tại, Facebook chưa thông báo về tính năng mới của công ty.",
+    "context": "Facebook được cho là đang thử nghiệm một tính năng mới thú vị sẽ giúp người dùng chống lại tình trạng lạm dụng, bắt nạt và quấy rối trên nền tảng này. Quấy rối trực tuyến đã là một vấn đề lớn trên hầu hết các mạng xã hội trong một thời gian dài. Facebook về phần mình đã và đang thực hiện một số hành động để chống lại vấn đề này và tính năng sắp tới có vẻ như là bước đi khá hiệu quả. Theo bài đăng của nhà phát triển Jane Wong trên Twitter, tính năng mới của Facebook sẽ cho phép bạn chọn một từ cụ thể, một nhóm từ hoặc thậm chí là biểu tượng cảm xúc mà bạn không muốn xuất hiện trong dòng thời gian của mình. Wong cũng chia sẻ ảnh chụp màn hình về tính năng đang được phát triển. Theo hình ảnh, khi bạn chặn một số từ nhất định, Facebook sẽ thông báo có người dùng đăng bình luận và bạn bè của họ sẽ vẫn có thể xem chúng. Tính năng lọc nhận xét mới khá giống với tính năng trên Instagram. Instagram đã cho phép người dùng lọc nhận xét, sử dụng từ khóa mặc định và từ khóa tùy chỉnh, trong một thời gian dài. Tương tự, Twitter cũng có một tính năng được gọi  Cụm từ bị tắt  cho phép người dùng cấm các từ cụ thể từ trên dòng thời gian của họ. Facebook có thể cho phép người dùng chọn các bài đăng mà họ muốn lọc ra hoặc có thể đề xuất một số từ hoặc cụm từ nhất định. Hiện tại chưa rõ tính năng này có hoạt động đối với cả nguồn cấp dữ liệu hay không. Hiện tại, Facebook chưa thông báo về tính năng mới của công ty.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "7a77ec1a5ef53eba7b7813084d793ac123008755"
+            "id": "7a77ec1a5ef53eba7b7813084d793ac1230087555"
         }
     ]
 }

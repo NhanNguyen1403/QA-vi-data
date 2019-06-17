@@ -1,11 +1,11 @@
 {
-    "context": "Khoảng giảm mưa này chỉ là tạm thời vì vào ngày 11/12, không khí lạnh sẽ được tăng cường thêm xuống, khu vực từ Thanh Hóa đến Bình Định sẽ lại có mưa vừa, mưa to, có nơi mưa rất to. Mưa nhiều kết hợp với không khí lạnh sẽ tiếp tục kìm giữ nhiệt độ trong ngày 10/12 ở Thanh Hóa, Vinh, Đồng Hới không quá 22oC, Huế và Đà Nẵng 25oC. Từ Quy Nhơn, Nha Trang đến Phan Thiết nhiệt độ cao hơn, đạt 29 - 31oC.Tại tỉnh Quảng Trị, trời có mưa lớn gây ngập lụt trong đợt này. Trong 3 ngày tới dự báo tỉnh Quảng Trị vẫn nằm trong vùng trọng tâm mưa. Nhiệt độ cả ngày và đêm đều thấp, vào ban đêm chỉ 20 - 21oC, ban ngày không quá 24oC.Thời tiết ở đảo Lý Sơn cũng không lý tưởng. Sóng gió trên biển sẽ không phải là yếu tố gây lo ngại cho du khách di chuyển vài ngày tới, tình trạng mưa nhiều sẽ cản trở cuộc hành trình của du khách. Dự báo, trong 3 ngày tới ở đây trời đều nhiều mây, có mưa cả ngày lẫn đêm. Nhiệt độ ban ngày dao động trong khoảng 27 - 28oC, trời mát.Trong khi đó, ở Tây Nguyên trời ít mưa hơn. Dự báo, ngày 10/12 chỉ có 2 thành phố phía Bắc là Kon Tum và Pleiku có thể có mưa với lượng nhỏ, nhiệt độ cao nhất 26 - 27oC. Tại thành phố Buôn Ma Thuột trời nắng ráo cả ngày, nhiệt độ 28oC.Tại tỉnh Gia Lai, thời tiết trong ngày 10/12 có thể có mưa nắng đan xen. Dự báo trời nắng cả ngày nhưng không nóng, nhiệt độ dao động từ 25 - 27 oC. Từ đêm về sáng trời lạnh, mức nhiệt chỉ từ 17 - 18oC.VTV.vn - Do ảnh hưởng của không khí lạnh kết hợp hội tụ gió trên các tầng cao, ngày và đêm nay (9/12), các tỉnh miền Trung từ Thanh Hóa đến Phú Yên tiếp tục có mưa lớn.",
+    "context": "Khoảng giảm mưa này chỉ là tạm thời vì vào ngày 11/12, không khí lạnh sẽ được tăng cường thêm xuống, khu vực từ Thanh Hóa đến Bình Định sẽ lại có mưa vừa, mưa to, có nơi mưa rất to. Mưa nhiều kết hợp với không khí lạnh sẽ tiếp tục kìm giữ nhiệt độ trong ngày 10/12 ở Thanh Hóa, Vinh, Đồng Hới không quá 22oC, Huế và Đà Nẵng 25oC. Từ Quy Nhơn, Nha Trang đến Phan Thiết nhiệt độ cao hơn, đạt 29 - 31oC. Tại tỉnh Quảng Trị, trời có mưa lớn gây ngập lụt trong đợt này. Trong 3 ngày tới dự báo tỉnh Quảng Trị vẫn nằm trong vùng trọng tâm mưa. Nhiệt độ cả ngày và đêm đều thấp, vào ban đêm chỉ 20 - 21oC, ban ngày không quá 24oC. Thời tiết ở đảo Lý Sơn cũng không lý tưởng. Sóng gió trên biển sẽ không phải là yếu tố gây lo ngại cho du khách di chuyển vài ngày tới, tình trạng mưa nhiều sẽ cản trở cuộc hành trình của du khách. Dự báo, trong 3 ngày tới ở đây trời đều nhiều mây, có mưa cả ngày lẫn đêm. Nhiệt độ ban ngày dao động trong khoảng 27 - 28oC, trời mát. Trong khi đó, ở Tây Nguyên trời ít mưa hơn. Dự báo, ngày 10/12 chỉ có 2 thành phố phía Bắc là Kon Tum và Pleiku có thể có mưa với lượng nhỏ, nhiệt độ cao nhất 26 - 27oC. Tại thành phố Buôn Ma Thuột trời nắng ráo cả ngày, nhiệt độ 28oC. Tại tỉnh Gia Lai, thời tiết trong ngày 10/12 có thể có mưa nắng đan xen. Dự báo trời nắng cả ngày nhưng không nóng, nhiệt độ dao động từ 25 - 27 oC. Từ đêm về sáng trời lạnh, mức nhiệt chỉ từ 17 - 18oC.  VTV.vn - Do ảnh hưởng của không khí lạnh kết hợp hội tụ gió trên các tầng cao, ngày và đêm nay (9/12), các tỉnh miền Trung từ Thanh Hóa đến Phú Yên tiếp tục có mưa lớn.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "4818e9cfd2fb8759cc4be55a7d72e0623ef720d5"
+            "id": "4818e9cfd2fb8759cc4be55a7d72e0623ef720d05"
         }
     ]
 }

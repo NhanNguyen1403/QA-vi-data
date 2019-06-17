@@ -1,11 +1,11 @@
 {
-    "context": "Hiểu được những khó chịu của người dùng thuê bao trả phí dịch vụ sau sự cố ngừng hoạt động, Google đã có chính sách đền bù cho khách hàng của mình. Các thuê bao gồm: YouTube, YouTube TV và YouTube Music sẽ được hãng tặng 1 tuần sử dụng miễn phí dịch vụ để bù đắp cho việc dịch vụ bị ngừng hoạt động trong nửa giờ. Theo các chuyên gia, sự cố YouTube bị sập trên phạm vi toàn cầu vừa qua càng nối dài hơn những rắc rối mà nền tảng chia sẻ video lớn nhất thế giới nói riêng và gã khổng lồ Google nói chung gặp phải trong suốt hơn 1 năm qua.VTV.vn - Trang chia sẻ video lớn nhất thế giới YouTube đã không thể truy cập trên toàn cầu trong sáng nay (17/10).",
+    "context": "Hiểu được những khó chịu của người dùng thuê bao trả phí dịch vụ sau sự cố ngừng hoạt động, Google đã có chính sách đền bù cho khách hàng của mình. Các thuê bao gồm: YouTube, YouTube TV và YouTube Music sẽ được hãng tặng 1 tuần sử dụng miễn phí dịch vụ để bù đắp cho việc dịch vụ bị ngừng hoạt động trong nửa giờ.  Theo các chuyên gia, sự cố YouTube bị sập trên phạm vi toàn cầu vừa qua càng nối dài hơn những rắc rối mà nền tảng chia sẻ video lớn nhất thế giới nói riêng và  gã khổng lồ  Google nói chung gặp phải trong suốt hơn 1 năm qua.  VTV.vn - Trang chia sẻ video lớn nhất thế giới YouTube đã không thể truy cập trên toàn cầu trong sáng nay (17/10).",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "7aa0f4d5a3247b8034cc9949ba8ab1c94fd1f325"
+            "id": "7aa0f4d5a3247b8034cc9949ba8ab1c94fd1f32e5"
         }
     ]
 }

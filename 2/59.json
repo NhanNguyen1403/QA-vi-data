@@ -1,11 +1,11 @@
 {
-    "context": "Những ngày vừa qua, câu chuyện quốc tế nóng nhất có lẽ chính là cuộc biểu tình tại Pháp. Khải Hoàn Môn trở thành mục tiêu của sự giận dữ, đại lộ Champs-Elysées thất thủ, các cửa hàng bị cướp bóc và xe cộ bị đốt trơ khung.Cảnh sát đối phó bằng hơi vay và vòi rồng. Đáng chú ý là lần đầu tiên kể từ năm 2005, xe bọc thép xuất hiện trên đường phố. Cảnh tượng khu vực trung tâm thủ đô Paris như bị kéo về thời chiến.Trong 2 ngày cuối tuần, ước tính đã có hơn 30.000 người đổ xuống đường trên khắp nước Pháp.Kéo dài hơn 1 tháng liên tiếp, phong trào áo vàng đang tạo ra sức ảnh to lớn trong xã hội Pháp. Dạo một vòng qua các trang mạng xã hội, hình ảnh áo vàng tràn ngập mọi nơi. Báo chí Pháp còn châm biếm rằng, những ngày này, người Pháp đi bảo tàng ngắm tranh Mona Lisa thì nàng cũng đã mặc thêm 1 chiếc áo vàng.",
+    "context": "Những ngày vừa qua, câu chuyện quốc tế nóng nhất có lẽ chính là cuộc biểu tình tại Pháp. Khải Hoàn Môn trở thành mục tiêu của sự giận dữ, đại lộ Champs-Elysées thất thủ, các cửa hàng bị cướp bóc và xe cộ bị đốt trơ khung. Cảnh sát đối phó bằng hơi vay và vòi rồng. Đáng chú ý là lần đầu tiên kể từ năm 2005, xe bọc thép xuất hiện trên đường phố. Cảnh tượng khu vực trung tâm thủ đô Paris như bị kéo về thời chiến. Trong 2 ngày cuối tuần, ước tính đã có hơn 30.000 người đổ xuống đường trên khắp nước Pháp. Kéo dài hơn 1 tháng liên tiếp, phong trào áo vàng đang tạo ra sức ảnh to lớn trong xã hội Pháp. Dạo một vòng qua các trang mạng xã hội, hình ảnh áo vàng tràn ngập mọi nơi. Báo chí Pháp còn châm biếm rằng, những ngày này, người Pháp đi bảo tàng ngắm tranh Mona Lisa thì nàng cũng đã mặc thêm 1 chiếc áo vàng.",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "93bf4a8e2ef9ee09baf6f284c64fe4465b939745"
+            "id": "93bf4a8e2ef9ee09baf6f284c64fe4465b93974f5"
         }
     ]
 }

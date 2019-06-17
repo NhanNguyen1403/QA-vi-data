@@ -1,11 +1,11 @@
 {
-    "context": "FlexPai có thể chuyển từ một chiếc máy tính bảng thành thành điện thoại thông minh chỉ bằng cách gập lại như quyển sách. Màn hình kép của điện thoại FlexPai cũng đem tới trải nghiệm thú vị, chụp ảnh kiểu nào cũng giống như đang selfie.Khách hàng có thể đặt hàng FlexPai trước trên mạng. Giá của chiếc điện thoại này là 1.300 USD (khoảng 30 triệu đồng).",
+    "context": "FlexPai có thể chuyển từ một chiếc máy tính bảng thành thành điện thoại thông minh chỉ bằng cách gập lại như quyển sách. Màn hình kép của điện thoại FlexPai cũng đem tới trải nghiệm thú vị, chụp ảnh kiểu nào cũng giống như đang selfie. Khách hàng có thể đặt hàng FlexPai trước trên mạng. Giá của chiếc điện thoại này là 1.300 USD (khoảng 30 triệu đồng).",
     "qas": [
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -15,7 +15,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -25,7 +25,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -35,7 +35,7 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
@@ -45,11 +45,11 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": "a"
+                    "text": ""
                 }
             ],
             "question": "",
-            "id": "113a230217151be5f48342de8745779f93deb335"
+            "id": "113a230217151be5f48342de8745779f93deb3305"
         }
     ]
 }

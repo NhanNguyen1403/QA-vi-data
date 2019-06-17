@@ -1,55 +1,95 @@
 {
-    "context": "Hôm nay (10/12), vé online trận chung kết lượt về AFF Cup 2018 giữa ĐT Việt Nam - ĐT Malaysia sẽ chính thức được mở bán. Tuy nhiên, người hâm mộ phải hết sức lưu ý và cảnh giác để tránh bị lừa đảo.Mới đây, LĐBĐVN cho biết đã phát hiện website có địa chỉ http://vebongonline.com.vn với tên website được đăng ký tại iNET (là Nhà đăng ký chính thức tên miền Quốc gia Việt Nam .VN của VNNIC) có giao diện thiết kế hoàn toàn giống với website bán vé bóng đá online của LĐBĐVN. LĐBĐVN khẳng định đây là website bán vé bóng đá online giả mạo BTC. Hiện tại chưa rõ mục đích của website giả mạo này.Thông tin liên quan về người sở hữu trang web bán vé giả mạo của LĐBĐVNLĐBĐVN cũng khẳng định chỉ hợp tác với duy nhất đơn vị là Công ty Cổ phần GMO-Z.com RUNSYSTEM để bán vé bóng đá online cho các trận đấu tại giải đấu AFF Suzuki Cup 2018 theo 02 địa chỉ:1. https://vebongdaonline.vn2. https://vebongdaonline.com.vnCả 02 website trên đều đã được đăng ký với Cục Thương mại Điện tử và Kinh tế số của Bộ Công thương. Người hâm mộ có thể kiểm tra thông tin đăng ký ở dưới đây.LĐBĐVN và GMO-Z.com RUNSYSTEM sẽ không chịu trách nhiệm với các giao dịch được thực hiện trên các website giả mạo.Trong trường hợp phát hiện những website giả mạo khác với động cơ không tốt, độc giả có thể gửi thông tin cho LĐBĐVN hoặc Báo điện tử VTV News để kịp thời cảnh báo cho người hâm mộ.",
+    "context": "Hôm nay (10/12), vé online trận chung kết lượt về AFF Cup 2018 giữa ĐT Việt Nam - ĐT Malaysia sẽ chính thức được mở bán. Tuy nhiên, người hâm mộ phải hết sức lưu ý và cảnh giác để tránh bị lừa đảo. Mới đây, LĐBĐVN cho biết đã phát hiện website có địa chỉ http://vebongonline.com.vn với tên website được đăng ký tại iNET (là Nhà đăng ký chính thức tên miền Quốc gia Việt Nam  .VN  của VNNIC) có giao diện thiết kế hoàn toàn giống với website bán vé bóng đá online của LĐBĐVN. LĐBĐVN khẳng định đây là website bán vé bóng đá online giả mạo BTC. Hiện tại chưa rõ mục đích của website giả mạo này. Thông tin liên quan về người sở hữu trang web bán vé giả mạo của LĐBĐVN LĐBĐVN cũng khẳng định chỉ hợp tác với duy nhất đơn vị là Công ty Cổ phần GMO-Z.com RUNSYSTEM để bán vé bóng đá online cho các trận đấu tại giải đấu AFF Suzuki Cup 2018 theo 02 địa chỉ: 1. https://vebongdaonline.vn 2. https://vebongdaonline.com.vn Cả 02 website trên đều đã được đăng ký với Cục Thương mại Điện tử và Kinh tế số của Bộ Công thương. Người hâm mộ có thể kiểm tra thông tin đăng ký ở dưới đây. LĐBĐVN và GMO-Z.com RUNSYSTEM sẽ không chịu trách nhiệm với các giao dịch được thực hiện trên các website giả mạo. Trong trường hợp phát hiện những website giả mạo khác với động cơ không tốt, độc giả có thể gửi thông tin cho LĐBĐVN hoặc Báo điện tử VTV News để kịp thời cảnh báo cho người hâm mộ.",
     "qas": [
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 9,
+                    "text": "10/12"
                 }
             ],
-            "question": "",
+            "question": "Hôm này ngày mấy?",
             "id": "672257b16d1882551e79cdf05ca7299f3633d13b1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 17,
+                    "text": "vé online trận chung kết lượt về AFF Cup 2018 giữa ĐT Việt Nam - ĐT Malaysia sẽ chính thức được mở bán"
                 }
             ],
-            "question": "",
+            "question": "Cái gì được mở bán vào ngày 10/12?",
             "id": "672257b16d1882551e79cdf05ca7299f3633d13b2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 321,
+                    "text": "là Nhà đăng ký chính thức tên miền Quốc gia Việt Nam .VN của VNNIC"
                 }
             ],
-            "question": "",
+            "question": "iNET là gì?",
             "id": "672257b16d1882551e79cdf05ca7299f3633d13b3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 497,
+                    "text": "là website bán vé bóng đá online giả mạo BTC"
                 }
             ],
-            "question": "",
+            "question": "Địa chỉ vebongonline.com.vn là website gì?",
             "id": "672257b16d1882551e79cdf05ca7299f3633d13b4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 693,
+                    "text": "hợp tác với duy nhất đơn vị là Công ty Cổ phần GMO-Z.com RUNSYSTEM"
                 }
             ],
-            "question": "",
-            "id": "672257b16d1882551e79cdf05ca7299f3633d135"
+            "question": "Liên đoàn bóng đá Việt Nam hợp tác với ai?",
+            "id": "672257b16d1882551e79cdf05ca7299f3633d13b5"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 760,
+                    "text": "để bán vé bóng đá online cho các trận đấu tại giải đấu AFF Suzuki Cup 2018"
+                }
+            ],
+            "question": "Liên đoàn bóng đá Việt Nam hợp tác với GMO-Z.com để làm gì?",
+            "id": "672257b16d1882551e79cdf05ca7299f3633d13b6"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 840,
+                    "text": "02 địa chỉ:1. https://vebongdaonline.vn2. https://vebongdaonline.com.vn"
+                }
+            ],
+            "question": "website bán vé uy tín?",
+            "id": "672257b16d1882551e79cdf05ca7299f3633d13b7"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 940,
+                    "text": "được đăng ký với Cục Thương mại Điện tử và Kinh tế số của Bộ Công thương"
+                }
+            ],
+            "question": "như thế nào là website uy tín?",
+            "id": "672257b16d1882551e79cdf05ca7299f3633d13b8"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1265,
+                    "text": "độc giả có thể gửi thông tin cho LĐBĐVN hoặc Báo điện tử VTV News"
+                }
+            ],
+            "question": "Khi phát hiện website giả mạo nên làm gì?",
+            "id": "672257b16d1882551e79cdf05ca7299f3633d13b9"
         }
     ]
 }
