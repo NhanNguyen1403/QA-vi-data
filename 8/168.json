@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 82,
+                    "text": "Stephen Hawking"
                 }
             ],
-            "question": "",
+            "question": "Khi nhắc tới những thiên tài, người ta thường nhắc tới ai?",
             "id": "9c377d5c62f3ee11cd598cf82b91fabfe63006d31"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 107,
+                    "text": "bệnh xơ cứng teo cơ một bên - hay Lou Gehrig, căn bệnh phá hủy hệ thống neuron thần kinh khiến cơ thể bị liệt"
                 }
             ],
-            "question": "",
+            "question": "Stephen Hawking bị mắc chứng bệnh gì?",
             "id": "9c377d5c62f3ee11cd598cf82b91fabfe63006d32"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 263,
+                    "text": "chỉ có thể sống thêm được 3 năm nữa"
                 }
             ],
-            "question": "",
+            "question": "Ông được chuẩn đoán là sẽ sống được thêm bao nhiêu năm nữa?",
             "id": "9c377d5c62f3ee11cd598cf82b91fabfe63006d33"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 397,
+                    "text": "sống tới năm 76 tuổi"
                 }
             ],
-            "question": "",
+            "question": "Ông tới được tới bao nhiêu tuổi?",
             "id": "9c377d5c62f3ee11cd598cf82b91fabfe63006d34"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 419,
+                    "text": "Ông đóng góp vô cùng lớn cho sự nghiệp giải mã các bí ẩn của vũ trụ"
                 }
             ],
-            "question": "",
+            "question": "Ông đã đóng góp được gì vào ngành nghiên cứu khoa học vụ trụ?",
             "id": "9c377d5c62f3ee11cd598cf82b91fabfe63006d5"
         }
     ]
