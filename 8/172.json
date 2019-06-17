@@ -1,54 +1,54 @@
 {
-    "context": "Những ngày nắng to, thứ mùi này càng nồng nặc hơn nữa. Chợ nổi Belen nằm ở thành phố Iquitos, Peru, ngay bên cạnh dòng sông Amazon. Đây là trung tâm giao thương của những cộng đồng ít người vùng rừng nhiệt đới Amazon tại khu vực Nam Mỹ.Cuộc sống ở thành phố nổiGần như nằm tách biệt với thế giới bên ngoài, muốn tới đây, du khách chỉ có thể đi máy bay tới thành phố Iquitos hoặc đi thuyền từ thủ đô Lima. Khi bước chân vào chợ, du khách có thể cảm nhận được thứ mùi đặc trưng xộc thẳng lên cánh mũi – đó là mùi của cống rãnh. Vào những ngày nắng to, thứ mùi này còn nồng nặc hơn.Vào mùa khô, mùi nước xộc lên càng nặng mùi và khó chịu hơnTrong mùa mưa, Iquitos là thành phố nổi, còn mùa khô về, thành phố này mang diện mạo hoàn toàn khác. Người ta còn ví nơi này như một thành Venice ở Nam Mỹ, nhưng đây lại là phiên bản nghèo khó và bẩn hơn. Thuyền là phương tiện vận chuyển thuận lợi và tiện dụng nhất. Người dân chở hàng, đi lại bằng thuyền, bán đồ ăn cho khách cũng trên phương tiện này.Khu chợ bày bán đủ mọi loại thịt thú rừngChợ nổi Belen là nơi bán đủ mọi vật dụng. Du khách có thể tìm thấy những món thịt động vật lạ như khỉ, rùa, cá sấu, kỳ đà, vẹt Nam Mỹ, cho tới cả những loài thú rừng quý hiếm cấm mua bán săn bắt, kèm theo đó là những sạp hàng trái cây vùng nhiệt đới, rồi cả quầy hàng bán đồ gia vị cho tới sập quần áo nhiều màu.Người dân bày bán cả những loại thịt thú quý công khaiMột trong những loại quả lạ bày bán khá nhiều ở chợ nổi Belen đó là quả Aguajes. Theo lời giới thiệu từ người bán hàng, loại trái cây này được coi như một loại thuốc kích dục của thiên nhiên dành cho phái nữ, nơi nhiều người dân ở Amazon sử dụng. Tuy nhiên, nếu người đàn ông ăn loại quả này quá nhiều có thể bị đồng tính luyến ái đó, người bán hàng có tên Consuela Ferrura tiết lộ.Quả Aguajes được ví như loại thuốc kích dục của phụ nữ",
+    "context": "Những ngày nắng to, thứ mùi này càng nồng nặc hơn nữa. Chợ nổi Belen nằm ở thành phố Iquitos, Peru, ngay bên cạnh dòng sông Amazon. Đây là trung tâm giao thương của những cộng đồng ít người vùng rừng nhiệt đới Amazon tại khu vực Nam Mỹ.Cuộc sống ở thành phố nổi. Gần như nằm tách biệt với thế giới bên ngoài, muốn tới đây, du khách chỉ có thể đi máy bay tới thành phố Iquitos hoặc đi thuyền từ thủ đô Lima. Khi bước chân vào chợ, du khách có thể cảm nhận được thứ mùi đặc trưng xộc thẳng lên cánh mũi – đó là mùi của cống rãnh. Vào những ngày nắng to, thứ mùi này còn nồng nặc hơn.Vào mùa khô, mùi nước xộc lên càng nặng mùi và khó chịu hơnTrong mùa mưa, Iquitos là thành phố nổi, còn mùa khô về, thành phố này mang diện mạo hoàn toàn khác. Người ta còn ví nơi này như một thành Venice ở Nam Mỹ, nhưng đây lại là phiên bản nghèo khó và bẩn hơn. Thuyền là phương tiện vận chuyển thuận lợi và tiện dụng nhất. Người dân chở hàng, đi lại bằng thuyền, bán đồ ăn cho khách cũng trên phương tiện này.Khu chợ bày bán đủ mọi loại thịt thú rừngChợ nổi Belen là nơi bán đủ mọi vật dụng. Du khách có thể tìm thấy những món thịt động vật lạ như khỉ, rùa, cá sấu, kỳ đà, vẹt Nam Mỹ, cho tới cả những loài thú rừng quý hiếm cấm mua bán săn bắt, kèm theo đó là những sạp hàng trái cây vùng nhiệt đới, rồi cả quầy hàng bán đồ gia vị cho tới sập quần áo nhiều màu.Người dân bày bán cả những loại thịt thú quý công khai. Một trong những loại quả lạ bày bán khá nhiều ở chợ nổi Belen đó là quả Aguajes. Theo lời giới thiệu từ người bán hàng, loại trái cây này được coi như một loại thuốc kích dục của thiên nhiên dành cho phái nữ, nơi nhiều người dân ở Amazon sử dụng. Tuy nhiên, nếu người đàn ông ăn loại quả này quá nhiều có thể bị đồng tính luyến ái đó, người bán hàng có tên Consuela Ferrura tiết lộ.Quả Aguajes được ví như loại thuốc kích dục của phụ nữ",
     "qas": [
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 75,
+                    "text": "thành phố Iquitos, Peru, ngay bên cạnh dòng sông Amazon"
                 }
             ],
-            "question": "",
+            "question": "Chợ nổi Belen nằm ở đâu?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a061"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 221,
+                    "text": "khu vực Nam Mỹ"
                 }
             ],
-            "question": "",
+            "question": "Khu rừng nhiệt đới Amazon nằm ở đâu?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a062"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 309,
+                    "text": "muốn tới đây, du khách chỉ có thể đi máy bay tới thành phố Iquitos hoặc đi thuyền từ thủ đô Lima"
                 }
             ],
-            "question": "",
+            "question": "Muốn tới thành phố Iquitos, du khách phải đi bằng gì?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a063"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 765,
+                    "text": "như một thành Venice ở Nam Mỹ"
                 }
             ],
-            "question": "",
+            "question": "Người ta ví Iquitos giống gì?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a064"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 1474,
+                    "text": "Aguajes"
                 }
             ],
-            "question": "",
+            "question": "Một trong những loại quả lạ được bán ở chợ nổi Belen là quả gì?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a05"
         }
     ]
