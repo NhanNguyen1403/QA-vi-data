@@ -1,54 +1,54 @@
 {
-    "context": "Theo báo cáo của Hiệp hội Chống hàng giả và bảo vệ thương hiệu Việt Nam, tình trạng sản xuất, buôn bán hàng giả, hàng vi phạm sở hữu trí tuệ diễn ra phổ biến với tất cả các loại hàng hóa thiết yếu như: phân bón, sắt thép, tôn lợp, hàng gia dụng, sữa, rượu, bia và dược phẩm.Từ đầu năm 2104 đến nay, các lực lượng chức năng phát hiện, xử lý hơn 30.000 vụ sản xuất, buôn bán hàng giả, hàng vi phạm sở hữu trí tuệ, nhưng trong đó chỉ có 0,1% số vụ bị khởi tố.Đại tá Trần Đức Vĩnh, Phó cục Trưởng Cục Cảnh sát kinh tế, Bộ Công an cho rằng: “Chúng ta thiếu căn cứ pháp lý và chưa được hướng dẫn một cách đầy đủ, kịp thời. Phải có quy định số lượng là bao nhiêu là số lượng lớn, gây ra những thiệt hại gì thì là hậu quả nghiêm trọng. Do đó, công tác xử lý về hình sự là gặp khó khăn”.Hiện có 31 sản phẩm và ngành hàng của doanh nghiệp trong nước bị làm giả và nhái thương hiệu. Vi phạm diễn ra tràn lan không chỉ móc túi người tiêu dùng, gian lận tiền thuế của Nhà nước mà còn đẩy các doanh nghiệp trong nước vào tình cảnh hết sức khó khăn.",
+    "context": "Theo báo cáo của Hiệp hội Chống hàng giả và bảo vệ thương hiệu Việt Nam, tình trạng sản xuất, buôn bán hàng giả, hàng vi phạm sở hữu trí tuệ diễn ra phổ biến với tất cả các loại hàng hóa thiết yếu như: phân bón, sắt thép, tôn lợp, hàng gia dụng, sữa, rượu, bia và dược phẩm.Từ đầu năm 2014 đến nay, các lực lượng chức năng phát hiện, xử lý hơn 30.000 vụ sản xuất, buôn bán hàng giả, hàng vi phạm sở hữu trí tuệ, nhưng trong đó chỉ có 0,1% số vụ bị khởi tố.Đại tá Trần Đức Vĩnh, Phó cục Trưởng Cục Cảnh sát kinh tế, Bộ Công an cho rằng: “Chúng ta thiếu căn cứ pháp lý và chưa được hướng dẫn một cách đầy đủ, kịp thời. Phải có quy định số lượng là bao nhiêu là số lượng lớn, gây ra những thiệt hại gì thì là hậu quả nghiêm trọng. Do đó, công tác xử lý về hình sự là gặp khó khăn”.Hiện có 31 sản phẩm và ngành hàng của doanh nghiệp trong nước bị làm giả và nhái thương hiệu. Vi phạm diễn ra tràn lan không chỉ móc túi người tiêu dùng, gian lận tiền thuế của Nhà nước mà còn đẩy các doanh nghiệp trong nước vào tình cảnh hết sức khó khăn.",
     "qas": [
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 201,
+                    "text": "phân bón, sắt thép, tôn lợp, hàng gia dụng, sữa, rượu, bia và dược phẩm"
                 }
             ],
-            "question": "",
+            "question": "Tình trạng sản xuất, buôn bán hàng giả, hàng vi phạm sở hữu trí tuệ diễn ra phổ biến với mặt hàng nào?",
             "id": "47f2bf7777de26de6c73302c1234a6462aa2e78b1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 339,
+                    "text": "hơn 30.000"
                 }
             ],
-            "question": "",
+            "question": "Từ đầu năm 2014 đến nay, các lực lượng chức năng phát hiện, xử lý bao nhiêu vụ sản xuất, buôn bán hàng giả, hàng vi phạm sở hữu trí tuệ?",
             "id": "47f2bf7777de26de6c73302c1234a6462aa2e78b2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 433,
+                    "text": "0,1%"
                 }
             ],
-            "question": "",
+            "question": "Có bao nhiêu phần trăm số vụ bị khởi tố?",
             "id": "47f2bf7777de26de6c73302c1234a6462aa2e78b3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 782,
+                    "text": "có 31 sản phẩm và ngành hàng"
                 }
             ],
-            "question": "",
+            "question": "Hiện có bao nhiêu sản phẩm và ngành hàng của doanh nghiệp trong nước bị làm giả và nhái thương hiệu?",
             "id": "47f2bf7777de26de6c73302c1234a6462aa2e78b4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 455,
+                    "text": "Đại tá Trần Đức Vĩnh"
                 }
             ],
-            "question": "",
+            "question": "Phó cục Trưởng Cục Cảnh sát kinh tế, Bộ Công an là ai?",
             "id": "47f2bf7777de26de6c73302c1234a6462aa2e785"
         }
     ]
