@@ -1,54 +1,54 @@
 {
-    "context": "Ngành Du lịch có điểm chuẩn là 24,9, cao hơn điểm chuẩn của ngành báo chí. Đại diện bộ môn Du lịch - Trường Đại học Khoa học Xã hội và Nhân văn TP.HCM - cho biết đây là năm thứ hai liên tiếp ngành du lịch có điểm chuẩn đầu vào cao nhất khối ngành khoa học xã hội và nhân văn với khối xét tuyển là khối C.Nếu như năm 2017, khi lần đầu tiên điểm chuẩn ngành du lịch cao vượt trội, nhiều người vẫn cho rằng đó là sự ngẫu nhiên, thì năm nay đã cho thấy sinh viên đang quan tâm đến các ngành nghề có tính thực tiễn cao.Hiện cơ hội nghề nghiệp ngành du lịch của Việt Nam đang rất lớn. Theo dự báo của Tổng cục Du lịch Việt Nam, đến năm 2020, ngành du lịch cả nước cần trên 2 triệu lao động trực tiếp làm việc cho các cơ sở dịch vụ du lịch. Trong khi đó, nguồn nhân lực cho ngành này đang thiếu trầm trọng.VTV.vn - Nhìn chung, điểm chuẩn vào các trường đại học đào tạo ngành Y năm nay giảm mạnh so với kỳ tuyển sinh năm 2017.",
+    "context": "Ngành Du lịch có điểm chuẩn là 24,9, cao hơn điểm chuẩn của ngành báo chí. Đại diện bộ môn Du lịch - Trường Đại học Khoa học Xã hội và Nhân văn TP.HCM - cho biết đây là năm thứ hai liên tiếp ngành du lịch có điểm chuẩn đầu vào cao nhất khối ngành khoa học xã hội và nhân văn với khối xét tuyển là khối C.Nếu như năm 2017, khi lần đầu tiên điểm chuẩn ngành du lịch cao vượt trội, nhiều người vẫn cho rằng đó là sự ngẫu nhiên, thì năm nay đã cho thấy sinh viên đang quan tâm đến các ngành nghề có tính thực tiễn cao.Hiện cơ hội nghề nghiệp ngành du lịch của Việt Nam đang rất lớn. Theo dự báo của Tổng cục Du lịch Việt Nam, đến năm 2020, ngành du lịch cả nước cần trên 2 triệu lao động trực tiếp làm việc cho các cơ sở dịch vụ du lịch. Trong khi đó, nguồn nhân lực cho ngành này đang thiếu trầm trọng.VTV.vn - Nhìn chung, điểm chuẩn vào các trường đại học đào tạo ngành Y năm nay giảm mạnh so với kỳ tuyển sinh năm 2017.",
     "qas": [
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 31,
+                    "text": "24,9"
                 }
             ],
-            "question": "",
+            "question": "Ngành Du lịch có điểm chuẩn là bao nhiêu?",
             "id": "05636b08be1737e41a18793bfba55f0a3d8e42271"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 59,
+                    "text": "ngành báo chí"
                 }
             ],
-            "question": "",
+            "question": "Điểm chuẩn của ngành Du lịch cao hơn điểm chuẩn của nghành nào?",
             "id": "05636b08be1737e41a18793bfba55f0a3d8e42272"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 666,
+                    "text": "trên 2 triệu lao động"
                 }
             ],
-            "question": "",
+            "question": "Ngành du lịch cả nước cần bao nhiêu lao động?",
             "id": "05636b08be1737e41a18793bfba55f0a3d8e42273"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 918,
+                    "text": "năm 2017"
                 }
             ],
-            "question": "",
+            "question": "Điểm chuẩn vào các trường đại học đào tạo ngành Y năm nay giảm mạnh so với kỳ tuyển sinh năm bao nhiêu?",
             "id": "05636b08be1737e41a18793bfba55f0a3d8e42274"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 161,
+                    "text": "đây là năm thứ hai liên tiếp ngành du lịch có điểm chuẩn đầu vào cao nhất"
                 }
             ],
-            "question": "",
+            "question": "Đây là năm thứ mấy liên tiếp ngành du lịch có điểm chuẩn đầu vào cao nhất khối ngành khoa học xã hội và nhân văn với khối xét tuyển là khối C?",
             "id": "05636b08be1737e41a18793bfba55f0a3d8e4225"
         }
     ]
