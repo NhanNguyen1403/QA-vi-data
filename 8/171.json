@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 194,
+                    "text": "tổ chức buổi họp báo"
                 }
             ],
-            "question": "",
+            "question": "Ngay sáng nay (6/12), đại diện của Phòng Giáo dục và Đào tạo quận Đống Đa, Trường Tiểu học Quang Trung đã làm gì?",
             "id": "eb6cb03502ec407dbf676ae53f7a782e888e9ef41"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 250,
+                    "text": "bà Lê Anh Vân"
                 }
             ],
-            "question": "",
+            "question": "Hiệu trưởng nhà trường là ai?",
             "id": "eb6cb03502ec407dbf676ae53f7a782e888e9ef42"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 269,
+                    "text": "gửi lời xin lỗi đến phụ huynh và học sinh"
                 }
             ],
-            "question": "",
+            "question": "Bà Lê Anh Vân đã làm gì?",
             "id": "eb6cb03502ec407dbf676ae53f7a782e888e9ef43"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 539,
+                    "text": "không hề có sự việc cô giáo yêu cầu tát học sinh 50 cái"
                 }
             ],
-            "question": "",
+            "question": "Nội dung bản tường trình mà giáo viên chủ nhiệm gửi nhà trường là gì?",
             "id": "eb6cb03502ec407dbf676ae53f7a782e888e9ef44"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 413,
+                    "text": "giáo viên yêu cầu"
                 }
             ],
-            "question": "",
+            "question": "Học sinh bị bạn tát 50 cái là do ai yêu cầu?",
             "id": "eb6cb03502ec407dbf676ae53f7a782e888e9ef5"
         }
     ]
