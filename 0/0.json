@@ -4,52 +4,142 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 4,
+                    "text": "25 ngày"
                 }
             ],
-            "question": "",
+            "question": "Tranh tài trong bao nhiêu ngày?",
             "id": "db320061e60adf7129036b6c45456734b7275de31"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 31,
+                    "text": "36 môn"
                 }
             ],
-            "question": "",
+            "question": "Đại hội thể thao gồm bao nhiêu môn?",
             "id": "db320061e60adf7129036b6c45456734b7275de32"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 132,
+                    "text": "ngày 9/12"
                 }
             ],
-            "question": "",
+            "question": "Đại hội thể thao kết thúc vào ngày nào?",
             "id": "db320061e60adf7129036b6c45456734b7275de33"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 242,
+                    "text": "63 tỉnh"
                 }
             ],
-            "question": "",
+            "question": "Đại hội thể thao gồm bao nhiêu tỉnh?",
             "id": "db320061e60adf7129036b6c45456734b7275de34"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 427,
+                    "text": "7.000 vận động viên"
                 }
             ],
-            "question": "",
+            "question": "Đại hội thể thao gồm bao nhiêu vận động viên?",
             "id": "db320061e60adf7129036b6c45456734b7275de35"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 448,
+                    "text": "2.500 huấn luyện viên"
+                }
+            ],
+            "question": "Đại hội thể thao gồm bao nhiêu huấn luyện viên?",
+            "id": "db320061e60adf7129036b6c45456734b7275de36"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 471,
+                    "text": "2.200 trọng tài"
+                }
+            ],
+            "question": "Đại hội thể thao gồm bao nhiêu trọng tài?",
+            "id": "db320061e60adf7129036b6c45456734b7275de37"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1086,
+                    "text": "đoàn chủ nhà Hà Nội đã chính thức giành ngôi đầu"
+                }
+            ],
+            "question": "Đội nào dẫn đầu đại hội thể thao?",
+            "id": "db320061e60adf7129036b6c45456734b7275de38"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1089,
+                    "text": "đoàn chủ nhà Hà Nội đã chính thức giành ngôi đầu với 176 HCV"
+                }
+            ],
+            "question": "Đội dẫn đầu đạt được bao nhiêu huy chương vàng tại đại hội thể thao?",
+            "id": "db320061e60adf7129036b6c45456734b7275de39"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1176,
+                    "text": "TP Hồ Chí Minh giành 118 HCV"
+                }
+            ],
+            "question": "Đội TP Hồ Chí Minh đạt được bao nhiêu huy chương vàng?",
+            "id": "db320061e60adf7129036b6c45456734b7275de310"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1228,
+                    "text": "đoàn Quân đội với 59 HCV"
+                }
+            ],
+            "question": "Đội Quân đội đạt được bao nhiêu huy chương vàng?",
+            "id": "db320061e60adf7129036b6c45456734b7275de311"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1321,
+                    "text": "bế mạc tại Cung điền kinh Hà Nội"
+                }
+            ],
+            "question": "Lễ bế mạc diễn ra ở đâu?",
+            "id": "db320061e60adf7129036b6c45456734b7275de312"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1362,
+                    "text": "lúc 20h00"
+                }
+            ],
+            "question": "Lễ bế mạc kết thúc lúc khi nào?",
+            "id": "db320061e60adf7129036b6c45456734b7275de313"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1403,
+                    "text": "kênh VTV6"
+                }
+            ],
+            "question": "Lễ bế mạc đại hội thể thao được trực tiếp trên kênh nào?",
+            "id": "db320061e60adf7129036b6c45456734b7275de314"
         }
     ]
 }
