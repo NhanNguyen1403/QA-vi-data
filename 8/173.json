@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 31,
+                    "text": "Miss Grand International 2018"
                 }
             ],
-            "question": "",
+            "question": "Tên tiếng Anh của Hoa hậu Hòa bình Quốc tế 2018 là gì?",
             "id": "b4354a9f1ba39d4b202161fe24c44c2e4a1def751"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 73,
+                    "text": "tại Myanmar từ ngày 05 - 25/10/2018"
                 }
             ],
-            "question": "",
+            "question": "Cuộc thi Hoa hậu Hòa bình Quốc tế 2018 được diễn ra tại đâu?",
             "id": "b4354a9f1ba39d4b202161fe24c44c2e4a1def752"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 138,
+                    "text": "Hoa hậu Việt Nam 2018 Bùi Phương Nga"
                 }
             ],
-            "question": "",
+            "question": "Hoa hậu nào đại diện cho Việt Nam?",
             "id": "b4354a9f1ba39d4b202161fe24c44c2e4a1def753"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 243,
+                    "text": "sinh năm 1998"
                 }
             ],
-            "question": "",
+            "question": "Á Hậu Bùi Phương Nga sinh năm bao nhiêu?",
             "id": "b4354a9f1ba39d4b202161fe24c44c2e4a1def754"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": "a"
+                    "answer_start": 1129,
+                    "text": "Phú Quốc"
                 }
             ],
-            "question": "",
+            "question": "Năm 2017 cuộc thi này được diễn ra tại đâu?",
             "id": "b4354a9f1ba39d4b202161fe24c44c2e4a1def75"
         }
     ]
