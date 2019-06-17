@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 305,
+                    "text": "điều trị và dự phòng tai biến mạch não ở bệnh nhân tăng huyết áp, tiểu đường"
                 }
             ],
-            "question": "",
+            "question": "Người dân mua thuốc An cung ngưu hoàng hoàn để làm gì?",
             "id": "6454c5ac476ce31787e81fefe8abecdf5626f5721"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 276,
+                    "text": "An cung ngưu hoàng hoàn"
                 }
             ],
-            "question": "",
+            "question": "Người dân mua và sử dụng thuốc gì nhằm điều trị và dự phòng tai biến mạch não ở bệnh nhân tăng huyết áp, tiểu đường?",
             "id": "6454c5ac476ce31787e81fefe8abecdf5626f5722"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 997,
+                    "text": "danh y Ngô Đường, tự Cúc Thông, người đời Thanh (Trung Quốc)"
                 }
             ],
-            "question": "",
+            "question": "Ai là người tạo ra An cung ngưu hoàng hoàn?",
             "id": "6454c5ac476ce31787e81fefe8abecdf5626f5723"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1137,
+                    "text": "ngưu hoàng 1 lạng, uất kim 1 lạng, tê giác 1 lạng, hoàng cầm 1 lạng, hoàng liên 1 lạng, hùng hoàng 1 lạng, sơn chi 1 lạng, chu sa 1 lạng, mai phiến 2 tiền 5 phân, xạ hương 2 tiền 5 phân, trân châu 5 tiền"
                 }
             ],
-            "question": "",
+            "question": "Thành phần của thuốc An cung ngưu hoàng hoàn là gì?",
             "id": "6454c5ac476ce31787e81fefe8abecdf5626f5724"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 3959,
+                    "text": "nên gọi ngay đến cơ sở y tế gần nhất. Không nên tự ý cho bệnh nhân uống thuốc để phòng tránh trường hợp đột quỵ não do xuất huyết não, hoặc nhồi máu não diện rộng khi uống vào sẽ rất nguy hiểm đến tính mạng"
                 }
             ],
-            "question": "",
+            "question": "Những bệnh nhân nghi ngờ đột quỵ não người nhà nên làm gì?",
             "id": "6454c5ac476ce31787e81fefe8abecdf5626f5725"
         }
     ]

@@ -4,51 +4,52 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+
+                    "answer_start": 17,
+                    "text": "Cung đường tội lỗi"
                 }
             ],
-            "question": "",
+            "question": "Bộ phim này tên gì?",
             "id": "5626e09939cd3d9b8e1402e0ef3a6dc249f013ef1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 458,
+                    "text": "bà Tuyết tâm sự với con trai về chuyện quá khứ"
                 }
             ],
-            "question": "",
+            "question": "Ai tâm sự với con trai về chuyện quá khứ?",
             "id": "5626e09939cd3d9b8e1402e0ef3a6dc249f013ef2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 949,
+                    "text": "Quân quyết định trả thù"
                 }
             ],
-            "question": "",
+            "question": "Ai quyết định trả thù?",
             "id": "5626e09939cd3d9b8e1402e0ef3a6dc249f013ef3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1680,
+                    "text": "phim Cung đường tội lỗi phát sóng vào 14h00"
                 }
             ],
-            "question": "",
+            "question": "Phim chiếu lúc mấy giờ?",
             "id": "5626e09939cd3d9b8e1402e0ef3a6dc249f013ef4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1731,
+                    "text": "trên kênh VTV3!"
                 }
             ],
-            "question": "",
+            "question": "Phim chiếu trên kênh nào?",
             "id": "5626e09939cd3d9b8e1402e0ef3a6dc249f013ef5"
         }
     ]

@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 67,
+                    "text": "máy tính sẽ hiển thị cảnh báo"
                 }
             ],
-            "question": "",
+            "question": "Khi rút USB đột ngột khỏi máy tính thay vì ngắt kết nối đúng cách máy tính sẽ hiển thị gì?",
             "id": "725f7876a842312e81f0458aff58ce911bb80f951"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 336,
+                    "text": "chờ đợi thêm 30 giây để ngắt kết nối an toàn cho USB"
                 }
             ],
-            "question": "",
+            "question": "Làm thế nào để bảo vệ và kéo dài tuổi thọ USB?",
             "id": "725f7876a842312e81f0458aff58ce911bb80f952"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 876,
+                    "text": "việc đột ngột rút USB sẽ không gây ra quá nhiều ảnh hưởng"
                 }
             ],
-            "question": "",
+            "question": "Phillip Remarker giải thích như thế nào về việc này?",
             "id": "725f7876a842312e81f0458aff58ce911bb80f953"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1618,
+                    "text": "Việc ngắt kết nối giống như một thông báo với máy tính"
                 }
             ],
-            "question": "",
+            "question": "Việc ngắt kết nối có hàm ý gì?",
             "id": "725f7876a842312e81f0458aff58ce911bb80f954"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 2837,
+                    "text": "hãy thực hiện thao tác ngắt kết nối an toàn"
                 }
             ],
-            "question": "",
+            "question": "Thay vì tiết kiệm 30 giây còn cách nào khác?",
             "id": "725f7876a842312e81f0458aff58ce911bb80f955"
         }
     ]

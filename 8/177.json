@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 37,
+                    "text": "một tính năng mới thú vị sẽ giúp người dùng chống lại tình trạng lạm dụng, bắt nạt và quấy rối trên nền tảng này"
                 }
             ],
-            "question": "",
+            "question": "Facebook đang thử nghiệm gì?",
             "id": "7a77ec1a5ef53eba7b7813084d793ac1230087551"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 470,
+                    "text": "sẽ cho phép bạn chọn một từ cụ thể, một nhóm từ hoặc thậm chí là biểu tượng cảm xúc mà bạn không muốn xuất hiện trong dòng thời gian của mình"
                 }
             ],
-            "question": "",
+            "question": "Tính năng mới của Facebook là gì?",
             "id": "7a77ec1a5ef53eba7b7813084d793ac1230087552"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 443,
+                    "text": "tính năng mới của Facebook"
                 }
             ],
-            "question": "",
+            "question": "Bài đăng của nhà phát triển Jane Wong trên Twitter về vấn đề gì?",
             "id": "7a77ec1a5ef53eba7b7813084d793ac1230087553"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 826,
+                    "text": "Tính năng lọc nhận xét mới khá giống với tính năng trên Instagram"
                 }
             ],
-            "question": "",
+            "question": "Tính năng lọc nhận xét mới có giống với tính năng trên Instagram hay không?",
             "id": "7a77ec1a5ef53eba7b7813084d793ac1230087554"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1365,
+                    "text": "Facebook chưa thông báo về tính năng mới của công ty"
                 }
             ],
-            "question": "",
+            "question": "Facebook đã thông báo tính năng mới này chưa?",
             "id": "7a77ec1a5ef53eba7b7813084d793ac1230087555"
         }
     ]

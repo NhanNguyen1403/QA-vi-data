@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 6,
+                    "text": "phiên họp Chính phủ thường kỳ tháng 5"
                 }
             ],
-            "question": "",
+            "question": "Đây là phiên họp Chính phủ thường kỳ tháng mấy?",
             "id": "d3acc94ac0c0cbb1b11c24f25220206b943cf21b1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 53,
+                    "text": "ngày 3/6"
                 }
             ],
-            "question": "",
+            "question": "Ngày diễn ra phiên họp Chính phủ thường kỳ tháng 5 là ngày mấy?",
             "id": "d3acc94ac0c0cbb1b11c24f25220206b943cf21b2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 68,
+                    "text": "Nguyễn Xuân Phúc"
                 }
             ],
-            "question": "",
+            "question": "Thủ tướng tên là gì?",
             "id": "d3acc94ac0c0cbb1b11c24f25220206b943cf21b3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1198,
+                    "text": "6,7%"
                 }
             ],
-            "question": "",
+            "question": "Tăng trưởng GDP trong nước cần đạt bao nhiêu?",
             "id": "d3acc94ac0c0cbb1b11c24f25220206b943cf21b4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 741,
+                    "text": "đánh giá khó khăn, vướng mắc, từ đó đề xuất các biện pháp tháo gỡ cụ thể"
                 }
             ],
-            "question": "",
+            "question": "Thủ tướng Nguyễn Xuân Phúc đề nghị các thành viên Chính phủ cần tập trung làm gì?",
             "id": "d3acc94ac0c0cbb1b11c24f25220206b943cf21b5"
         }
     ]

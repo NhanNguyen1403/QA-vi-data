@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 34,
+                    "text": "viêm tuyến sữa, là tình trạng viêm nhiễm ở một hay nhiều ống dẫn sữa của vú"
                 }
             ],
-            "question": "",
+            "question": "Bệnh viêm tuyến vú hay còn gọi là gì?",
             "id": "09c2ac63767d2d17c4a71237d330612866dec81c1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 126,
+                    "text": "vi khuẩn ngoài da như liên cầu, tụ cầu xâm nhập vào mô vú qua vết xây xước hoặc do tắc tia sữa không được xử lý đúng cách"
                 }
             ],
-            "question": "",
+            "question": "Bệnh do đâu mà ra?",
             "id": "09c2ac63767d2d17c4a71237d330612866dec81c2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 267,
+                    "text": "phụ nữ mang thai và cho con bú, nhất là phụ nữ sinh con lần đầu do chưa có kinh nghiệm cho con bú đúng cách, chưa biết cách vệ sinh đầu vú dẫn đến việc sữa bị ứ đọng trong vú gây ra viêm"
                 }
             ],
-            "question": "",
+            "question": "Bệnh này thường xảy ra đối với ai?",
             "id": "09c2ac63767d2d17c4a71237d330612866dec81c3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1023,
+                    "text": "bé chưa biết bú, người mẹ phải nặn sữa nhưng chưa đúng cách cũng khiến núm vú bị tổn thương, kèm theo vệ sinh vú kém, sữa ứ đọng, không thông cũng là nguyên nhân dẫn đến viêm tuyến vú sau sinh"
                 }
             ],
-            "question": "",
+            "question": "Nguyên nhân khác dẫn đến tình trạng viêm này là gì?",
             "id": "09c2ac63767d2d17c4a71237d330612866dec81c4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1263,
+                    "text": "người mẹ sẽ thấy vú sưng đau, sữa ra không đều, không thông, sắc da đỏ nhẹ hoặc không đỏ, có hòn cục nhỏ, kèm theo người sốt, sợ lạnh, đau đầu, đau mình mẩy, ngực tức, rêu sữa trắng mỏng hoặc hơi vàng. Đến giai đoạn làm mủ, bầu vú người mẹ sưng to, da đỏ nóng từng đám hoặc cả vú, đau tăng, sốt cao không hạ và mưng mủ cục bộ, người bứt rứt khó chịu, miệng khát muốn uống nước, chất lưỡi đỏ, rêu lưỡi vàng"
                 }
             ],
-            "question": "",
+            "question": "Biểu hiện khi viêm tuyến vú là gì?",
             "id": "09c2ac63767d2d17c4a71237d330612866dec81c5"
         }
     ]

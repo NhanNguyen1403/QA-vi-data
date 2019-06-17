@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 99,
+                    "text": "Tanzania"
                 }
             ],
-            "question": "",
+            "question": "Hồ Natron ở đâu?",
             "id": "fc4fc04ae601cdca6fc40e5e25102d9892e7f88d1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 124,
+                    "text": "da hươu cao cổ"
                 }
             ],
-            "question": "",
+            "question": "Bề mặt của hồ Natron được ví giống gì?",
             "id": "fc4fc04ae601cdca6fc40e5e25102d9892e7f88d2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 198,
+                    "text": "Fingal trên hòn đảo Staffa, Scotland"
                 }
             ],
-            "question": "",
+            "question": "Hang Fingal ở đâu?",
             "id": "fc4fc04ae601cdca6fc40e5e25102d9892e7f88d3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 336,
+                    "text": "màu hồng"
                 }
             ],
-            "question": "",
+            "question": "Hồ Hillier ở Australia có màu gì?",
             "id": "fc4fc04ae601cdca6fc40e5e25102d9892e7f88d4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 808,
+                    "text": "cây Máu Rồng Sa mạc Dead Vlei, Namibia"
                 }
             ],
-            "question": "",
+            "question": "Đảo Socotra ở Yemen nổi tiếng bởi gì?",
             "id": "fc4fc04ae601cdca6fc40e5e25102d9892e7f88d5"
         }
     ]

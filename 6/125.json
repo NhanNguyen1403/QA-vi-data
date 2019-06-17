@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 49,
+                    "text": "các phương tiện giao thông"
                 }
             ],
-            "question": "",
+            "question": "Thời gian qua cái gì gia tăng đột biến?",
             "id": "5ad7d0d53329ea9294bc835edc5e7336ac5946b11"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 106,
+                    "text": "nạn nhân là trẻ em"
                 }
             ],
-            "question": "",
+            "question": "Nạn nhân của các vụ tai nạn giao thông gia tăng gần đây là ai?",
             "id": "5ad7d0d53329ea9294bc835edc5e7336ac5946b12"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 156,
+                    "text": "giảm tai nạn giao thông, đặc biệt ở vùng cao, vùng đồng bào dân tộc thiểu số"
                 }
             ],
-            "question": "",
+            "question": "Vấn đề nào được các cơ quan chức năng quan tâm?",
             "id": "5ad7d0d53329ea9294bc835edc5e7336ac5946b13"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 513,
+                    "text": "Kỹ năng 1 Kỹ năng 2 Kỹ năng 3 Kỹ năng 4 Kỹ năng 5 Kỹ năng 6  Kỹ năng 7"
                 }
             ],
-            "question": "",
+            "question": "Có mấy kỹ năng phòng tránh tai nạn khi tham gia giao thông trên vùng cao?",
             "id": "5ad7d0d53329ea9294bc835edc5e7336ac5946b14"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 285,
+                    "text": "Một số nguyên nhân cơ bản đã được nhận diện"
                 }
             ],
-            "question": "",
+            "question": "Một số nguyên nhân nào đã được nhận diện?",
             "id": "5ad7d0d53329ea9294bc835edc5e7336ac5946b15"
         }
     ]

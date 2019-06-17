@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 230,
+                    "text": "10"
                 }
             ],
-            "question": "",
+            "question": "Trang Consumer Reports đã công bố bao nhiêu mẫu xe đáng tin cậy nhất năm 2018?",
             "id": "39be3de022f4dbf030b5e717203611cd5142d6421"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 545,
+                    "text": "mức độ hài lòng"
                 }
             ],
-            "question": "",
+            "question": "Bên cạnh việc kiểm định, Consumer Reports cũng thực hiện thu thập ý kiến người dùng về điều gì?",
             "id": "39be3de022f4dbf030b5e717203611cd5142d6422"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 50,
+                    "text": "dài hạn"
                 }
             ],
-            "question": "",
+            "question": "Mua xe là một khoản đầu tư thế nào?,",
             "id": "39be3de022f4dbf030b5e717203611cd5142d6423"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 744,
+                    "text": "20.850 USD"
                 }
             ],
-            "question": "",
+            "question": "Toyota Prius C giá bao nhiêu?",
             "id": "39be3de022f4dbf030b5e717203611cd5142d6424"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 817,
+                    "text": "29.905 USD"
                 }
             ],
-            "question": "",
+            "question": "Xe Mazda MX-5 Miata có giá bao nhiêu?",
             "id": "39be3de022f4dbf030b5e717203611cd5142d6425"
         }
     ]

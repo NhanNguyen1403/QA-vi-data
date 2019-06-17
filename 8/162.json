@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 21,
+                    "text": "đang chấp hành án"
                 }
             ],
-            "question": "",
+            "question": "Các đối tượng đang làm gì?",
             "id": "0b638c91a59a2c59c1feb292f41280be98460fc91"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 40,
+                    "text": "đợi xét xử về tội giết người và mua bán trái phép chất ma túy trốn khỏi trại giam"
                 }
             ],
-            "question": "",
+            "question": "Các đối tượng đang đợi gì?",
             "id": "0b638c91a59a2c59c1feb292f41280be98460fc92"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 223,
+                    "text": "2 phạm nhân Nguyễn Văn Hân và Nguyễn Duy Minh"
                 }
             ],
-            "question": "",
+            "question": "Lực lượng trinh sát đã bắt giữ ai?",
             "id": "0b638c91a59a2c59c1feb292f41280be98460fc93"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 272,
+                    "text": "đối tượng khai nhận đã bàn với nhau đào chân tường, vượt rào bỏ trốn"
                 }
             ],
-            "question": "",
+            "question": "Đối tượng khia nhận gì?",
             "id": "0b638c91a59a2c59c1feb292f41280be98460fc94"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 376,
+                    "text": "thuê taxi đi về hướng TP Long Xuyên"
                 }
             ],
-            "question": "",
+            "question": "Cả 3 thuê taxi đi đâu?",
             "id": "0b638c91a59a2c59c1feb292f41280be98460fc95"
         }
     ]

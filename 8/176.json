@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 40,
+                    "text": "2016"
                 }
             ],
-            "question": "",
+            "question": "Sharapova có thể lỡ hẹn với Olympic Rio vào nằm nào?",
             "id": "1e625914ad254e23b0e6f8753d6cf02882819ecc1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 231,
+                    "text": "do bị chấn thương"
                 }
             ],
-            "question": "",
+            "question": "Tại sao Masha không thể thi đấu?",
             "id": "1e625914ad254e23b0e6f8753d6cf02882819ecc2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 304,
+                    "text": "Không có sự phục vụ của Sharapova"
                 }
             ],
-            "question": "",
+            "question": "Tại sao đội tuyển Nga đã thất bại 1-3 trước Hà Lan",
             "id": "1e625914ad254e23b0e6f8753d6cf02882819ecc3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1532,
+                    "text": "Gary Neville sẽ không bị sa thải"
                 }
             ],
-            "question": "",
+            "question": "Gary Neville có bị sa thải hay không?",
             "id": "1e625914ad254e23b0e6f8753d6cf02882819ecc4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1340,
+                    "text": "Giá của Sturridge rơi vào khoảng 30 triệu bảng"
                 }
             ],
-            "question": "",
+            "question": "Giá của Sturridge rơi vào khoảng bao nhiêu?",
             "id": "1e625914ad254e23b0e6f8753d6cf02882819ecc5"
         }
     ]

@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 75,
+                    "text": "thành phố Iquitos, Peru, ngay bên cạnh dòng sông Amazon"
                 }
             ],
-            "question": "",
+            "question": "Chợ nổi Belen nằm ở đâu?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a061"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 221,
+                    "text": "khu vực Nam Mỹ"
                 }
             ],
-            "question": "",
+            "question": "Khu rừng nhiệt đới Amazon nằm ở đâu?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a062"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 309,
+                    "text": "muốn tới đây, du khách chỉ có thể đi máy bay tới thành phố Iquitos hoặc đi thuyền từ thủ đô Lima"
                 }
             ],
-            "question": "",
+            "question": "Muốn tới thành phố Iquitos, du khách phải đi bằng gì?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a063"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 766,
+                    "text": "như một thành Venice ở Nam Mỹ"
                 }
             ],
-            "question": "",
+            "question": "Người ta ví Iquitos giống gì?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a064"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1478,
+                    "text": "Aguajes"
                 }
             ],
-            "question": "",
+            "question": "Một trong những loại quả lạ được bán ở chợ nổi Belen là quả gì?",
             "id": "f4d49db0ad5cc6afe3504e9b146c83e6289d4a065"
         }
     ]

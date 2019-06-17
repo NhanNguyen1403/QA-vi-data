@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 27,
+                    "text": "Xschool"
                 }
             ],
-            "question": "",
+            "question": "Hệ thống đào tạo lập trình tên là gì?",
             "id": "856f5f629f969810cbb003735f28e984422380091"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 135,
+                    "text": "giúp các bạn sinh viên rút ngắn thời gian học tập, có công việc ngay."
                 }
             ],
-            "question": "",
+            "question": "2 mô hình đào tạo trên có những ưu điểm gì?",
             "id": "856f5f629f969810cbb003735f28e984422380092"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 280,
+                    "text": "sinh viên sẽ chỉ học một năm"
                 }
             ],
-            "question": "",
+            "question": "Thời gian học là bao lâu?",
             "id": "856f5f629f969810cbb003735f28e984422380093"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1709,
+                    "text": "Nguyễn Trần Thị Mỹ Nga"
                 }
             ],
-            "question": "",
+            "question": "Giám đốc Học viện TineX tên là gì?",
             "id": "856f5f629f969810cbb003735f28e984422380094"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 57,
+                    "text": "TineX"
                 }
             ],
-            "question": "",
+            "question": "Tên của học viện công nghệ là gì?",
             "id": "856f5f629f969810cbb003735f28e984422380095"
         }
     ]
