@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 56,
+                    "text": "là màn so tài giữa ĐT Pháp và ĐT Argentina"
                 }
             ],
-            "question": "",
+            "question": "Trận đấu nào sẽ mở màn cho vòng 16 đội FIFA World Cup™ 2018?",
             "id": "1e131475b06a0fc57222ddefc78d93aebe95f4f61"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 429,
+                    "text": "Ronaldo"
                 }
             ],
-            "question": "",
+            "question": "Trong đội tuyển của Bồ Đào Nha có ai?",
             "id": "1e131475b06a0fc57222ddefc78d93aebe95f4f62"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start":898,
+                    "text": "Ứng cử viên nặng ký cho chức vô địch ĐT Brazil sẽ gặp đại diện của bóng đá Bắc Trung Mỹ ĐT Mexico"
                 }
             ],
-            "question": "",
+            "question": "ĐT nào sẽ thi đấu với ĐT Mexico?",
             "id": "1e131475b06a0fc57222ddefc78d93aebe95f4f63"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 997,
+                    "text": "ĐT Bỉ (áo đỏ) đánh bại ĐT Anh để giành ngôi đầu bảng G"
                 }
             ],
-            "question": "",
+            "question": "ĐT nào cần phả đánh bại ĐT Anh để giành ngôi đầu bảng?",
             "id": "1e131475b06a0fc57222ddefc78d93aebe95f4f64"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1509,
+                    "text": "30/6 - 21h00: ĐT Pháp - ĐT Argentina"
                 }
             ],
-            "question": "",
+            "question": "Lịch thi đấu của 2 đội tuyển Pháp và Argentina là khi nào?",
             "id": "1e131475b06a0fc57222ddefc78d93aebe95f4f65"
         }
     ]

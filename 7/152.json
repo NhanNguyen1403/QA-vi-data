@@ -5,50 +5,50 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": ""
+                    "text": "Là bệnh nhiễm trùng, điển hình gây tổn thương da và các dây thần kinh ngoại biên (nhất là các chi) nhưng bệnh phong rất khó lây."
                 }
             ],
-            "question": "",
+            "question": "Bệnh nhiễm trùng là gì?",
             "id": "f2a057a49083416d580b15303b23751a45ca242d1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 129,
+                    "text": " Vì đường lây chủ yếu qua da bị trầy xước mà trực khuẩn phong sinh sản chậm, không có vật chủ trung gian truyền bệnh và dễ mất hoạt tính với xà phòng và ánh nắng."
                 }
             ],
-            "question": "",
+            "question": "Đặc điểm của bệnh nhiễm trùng là gì?",
             "id": "f2a057a49083416d580b15303b23751a45ca242d2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 291,
+                    "text": "Vì thế, khi vùng da bị trầy xước tiếp xúc với vùng da bị trầy xước của bệnh nhân phong thì cần rửa tay bằng xà phòng trong vòng 2 phút, trực khuẩn sẽ chết hoặc để ngoài nắng cũng khoảng 2 phút, trực khuẩn sẽ chết."
                 }
             ],
-            "question": "",
+            "question": "Sơ cứu vùng da bị thương của bệnh nhân bị phong như thế nào?",
             "id": "f2a057a49083416d580b15303b23751a45ca242d3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 505,
+                    "text": " Ngoài ra, tắm hàng ngày cũng là cách để ngăn ngừa bệnh phong."
                 }
             ],
-            "question": "",
+            "question": "Cách ngăn ngừa bệnh Phong đơn giản nhất là gì?",
             "id": "f2a057a49083416d580b15303b23751a45ca242d4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 612,
+                    "text": "Người mắc bệnh phong được điều trị miễn phí, tại nhà, theo nguyên tắc phối hợp thuốc (gọi là đa hóa trị liệu). Chỉ đến bệnh viện khi có phản ứng quá phát, điều trị để chống tàn tật do phong."
                 }
             ],
-            "question": "",
+            "question": "Quá trình điều trị bệnh Phong như thế nào?",
             "id": "f2a057a49083416d580b15303b23751a45ca242d5"
         }
     ]

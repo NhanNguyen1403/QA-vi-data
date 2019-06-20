@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 93,
+                    "text": "Secret Conversations (cuộc trò chuyện bí mật) trên Messenger của Facebook, không chỉ mã hóa tất cả các nội dung tin nhắn được gửi trên nó mà còn cho phép bạn thiết lập giới hạn thời gian để sau đó nội dung tin nhắn sẽ tự động được hủy."
                 }
             ],
-            "question": "",
+            "question": "Tác dụng của Secret Conversation trên Messenger là gì?",
             "id": "424985914275c5e065bc91bb2603e044fa385ae41"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 493,
+                    "text": "Để sử dụng, bạn chỉ cần mở ứng dụng Facebook Messenger, chọn người cần gửi tin nhắn bí mật rồi nhấn vào biểu tượng chữ  i  ở góc trên bên phải, tiếp theo, nhấp vào mục Go to Secret Conversation (đi tới cuộc trò chuyện bí mật) để kích hoạt nó. Các bước để kích hoạt tính năng Secret Conversation. Tương tự, nếu đang sử dụng các thiết bị iOS, bạn hãy bấm vào tên người cần gửi tin nhắn và chọn Secret Conversation (cuộc trò chuyện bí mật). "
                 }
             ],
-            "question": "",
+            "question": "Làm sao để sử dụng tính năng Secret Conversation?",
             "id": "424985914275c5e065bc91bb2603e044fa385ae42"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 931,
+                    "text": "Trong cửa sổ soạn thảo tin nhắn vừa xuất hiện, bạn hãy bấm vào biểu tượng đồng hồ để thiết lập thời gian tự hủy tin nhắn, ví dụ như năm giây, 10 giây, 30 giây, 1 phút… và cao nhất là 1 ngày. Sau đó, soạn nội dung tin nhắn, chọn hình ảnh hoặc video và gửi đi. Khi hết thời gian đã định, tự động các nội dung bạn gửi trước đó sẽ biến mất. Tương tự, khi người nhận đã đọc tin nhắn, mọi thứ sẽ tự động biến mất sau khoảng thời gian tương ứng."
                 }
             ],
-            "question": "",
+            "question": "Làm sao để sử dụng tính năng tự hủy tin nhắn?",
             "id": "424985914275c5e065bc91bb2603e044fa385ae43"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1430,
+                    "text": " Tính năng này chỉ có mặt trên thiết bị di động, và người dùng sẽ không thể truy cập trong Messenger trên trang web."
                 }
             ],
-            "question": "",
+            "question": "Tính năng Secret Conversation có thể sử dụng ở đâu?",
             "id": "424985914275c5e065bc91bb2603e044fa385ae44"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1728,
+                    "text": "Lưu ý: Vì là một tính năng đặc biệt nên khi nhắn tin bạn sẽ không thể sử dụng các tính năng như vị trí, thanh toán, hay sử dụng ứng dụng bên thứ ba, mặc dù vẫn có thể chèn ảnh và các nhãn dán cho người phía bên kia, các nội dung sẽ tự động xóa đi sau khoảng thời gian nhất định, thậm chí một khi cuộc trò chuyện kết thúc."
                 }
             ],
-            "question": "",
+            "question": "Cần lưu ý điều gì khi sử dụng tính năng Secret Conversation?",
             "id": "424985914275c5e065bc91bb2603e044fa385ae45"
         }
     ]

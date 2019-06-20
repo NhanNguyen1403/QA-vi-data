@@ -5,50 +5,50 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": ""
+                    "text": "Đây là khẳng định của Đại sứ Anh Gareth Ward trong sự kiện gặp gỡ đại diện các trường đại học Anh quốc và Việt Nam vừa diễn ra tại Hà Nội."
                 }
             ],
-            "question": "",
+            "question": "Đây là khẳng định của Đại sứ Anh Gareth Ward trong sự kiện nào?",
             "id": "0f01701e2203e71ac1a7430ff8d7d7d861f288d31"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 139,
+                    "text": "Đây là dịp để các trường đại học hai nước tăng cường hợp tác."
                 }
             ],
-            "question": "",
+            "question": "Mục tiêu của sự kiện này là gì?",
             "id": "0f01701e2203e71ac1a7430ff8d7d7d861f288d32"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 201,
+                    "text": "Sự kiện có sự tham gia của Công tước xứ York, Hoàng tử Andrew và Bộ trưởng Bộ Giáo dục và Đào tạo Phùng Xuân Nhạ."
                 }
             ],
-            "question": "",
+            "question": "Sự kiện này có sự tham góp mặt của những ai?",
             "id": "0f01701e2203e71ac1a7430ff8d7d7d861f288d33"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 315,
+                    "text": "Các trường đại học từ Vương quốc Anh đang tích cực tìm kiếm cơ hội đầu tư vào thị trường giáo dục Việt Nam, đặc biệt trong bối cảnh hậu Brexit."
                 }
             ],
-            "question": "",
+            "question": "Các trường Đại học từ Vương quốc Anh đang tìm kiếm điều gì?",
             "id": "0f01701e2203e71ac1a7430ff8d7d7d861f288d34"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1166,
+                    "text": "Trong năm 2019, sẽ có nhiều hợp tác cấp độ đại học hơn nữa giữa hai nước ở lĩnh vực nghiên cứu khoa học, cấp độ cao nhất của hợp tác giáo dục. Sẽ có thêm các chương trình hợp tác, cấp bằng Anh quốc nhưng học tại Việt Nam, sẽ có thêm các chương trình đào tạo tiếng Anh cho các giáo viên Việt Nam và chắc chắn chúng ta sẽ thấy nhiều sinh viên Việt Nam sang Anh học tại các trường uy tín, trong những lĩnh vực đặc thù hơn nữa."
                 }
             ],
-            "question": "",
+            "question": "Đại sứ quán Vương quốc Anh cho biết nào năm 2019 sẽ có những điều gì nỗi bật?",
             "id": "0f01701e2203e71ac1a7430ff8d7d7d861f288d35"
         }
     ]

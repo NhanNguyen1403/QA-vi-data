@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 119,
+                    "text": " Lady Gaga"
                 }
             ],
-            "question": "",
+            "question": "Ai đã casting cho bộ phim A star is born?",
             "id": "c97840e1a8ff4eb807fbfd8d41502a16c63bb8231"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 410,
+                    "text": "Cô ấy đã hát bài La Vie en Rose"
                 }
             ],
-            "question": "",
+            "question": "Lady Gaga đã làm gì để Bradley bị thổi bay?",
             "id": "c97840e1a8ff4eb807fbfd8d41502a16c63bb8232"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 653,
+                    "text": "Tôi có thể đến nhà cô ấy và gặp cô ấy ngay được không?"
                 }
             ],
-            "question": "",
+            "question": "Bradley đã nói gì với công ty quản lý của Lady Gaga?",
             "id": "c97840e1a8ff4eb807fbfd8d41502a16c63bb8233"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 712,
+                    "text": "Sau đó tôi đã lái xe đến Malibu và chúng tôi ngồi bên hiên nhà và điều tiếp theo tôi biết là chúng tôi ăn mì ống thịt viên và tôi hỏi: Chúng ta có thể hát cùng nhau một bài được không?."
                 }
             ],
-            "question": "",
+            "question": "Bradley đã làm gì tiếp theo?",
             "id": "c97840e1a8ff4eb807fbfd8d41502a16c63bb8234"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1572,
+                    "text": "Hôm 14/10"
                 }
             ],
-            "question": "",
+            "question": "Ngày nào album soundtrack của phim A Star Is Born đã lần đầu tiên leo lên vị trí số 1 của BXH Billboard 200.?",
             "id": "c97840e1a8ff4eb807fbfd8d41502a16c63bb8235"
         }
     ]

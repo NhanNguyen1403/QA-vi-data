@@ -4,52 +4,82 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 161,
+                    "text": "Phùng Xuân Nhạ"
                 }
             ],
-            "question": "",
+            "question": "Bộ trưởng bộ giáo dục là ai?",
             "id": "ad44b876bd8b271b2d6d48dadcec98aef31e2a8d1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 215,
+                    "text": "Nguyễn Văn Phúc"
                 }
             ],
-            "question": "",
+            "question": "Thứ Trưởng là ai?",
             "id": "ad44b876bd8b271b2d6d48dadcec98aef31e2a8d2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 413,
+                    "text": "Chỉ số thông thạo Anh ngữ"
                 }
             ],
-            "question": "",
+            "question": "Chỉ số nào liên tục tăng qua từng năm tại các buổi tọa đàm?",
             "id": "ad44b876bd8b271b2d6d48dadcec98aef31e2a8d3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 912,
+                    "text": "bà Cao Phương Hà"
                 }
             ],
-            "question": "",
+            "question": "Giám đốc tổ chức giáo dục quốc tế tại Việt Nam là ai?",
             "id": "ad44b876bd8b271b2d6d48dadcec98aef31e2a8d4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1083,
+                    "text": "do EF thực hiện"
                 }
             ],
-            "question": "",
+            "question": "Bảng xếp hạng chỉ số thông thạo Anh ngữ của 88 quốc gia trên thế giới do ai thực hiện?",
             "id": "ad44b876bd8b271b2d6d48dadcec98aef31e2a8d5"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1110,
+                    "text": "Việt Nam đứng ở vị trí thứ 7 ở châu Á"
+                }
+            ],
+            "question": "Chỉ số thông thạo Anh ngữ của Việt Nam đang đứng thứ mấy?",
+            "id": "ad44b876bd8b271b2d6d48dadcec98aef31e2a8d6"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1192,
+                    "text": "2011"
+                }
+            ],
+            "question": "Việt Nam tham gia đánh giá lần đầu vào năm nào?",
+            "id": "ad44b876bd8b271b2d6d48dadcec98aef31e2a8d7"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1192,
+                    "text": "cần gắn việc dạy ngoại ngữ với các môn học khác để tạo hứng thú cho học sinh"
+                }
+            ],
+            "question": "Làm gì để cải tiến việc học ngoại ngữ hiện nay?",
+            "id": "ad44b876bd8b271b2d6d48dadcec98aef31e2a8d8"
         }
     ]
 }

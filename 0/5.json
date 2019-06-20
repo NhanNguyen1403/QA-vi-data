@@ -4,52 +4,82 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 5,
+                    "text": "10/12"
                 }
             ],
-            "question": "",
+            "question": "Vé được bán online đầu tiên vào ngày nào?",
             "id": "59df075d102746e14cbc44064bcec35246680f861"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 372,
+                    "text": "Nhiều người tập trung tại đây đã không tuân thủ các quy định từ ban tổ chức, bất chấp nguy hiểm để trèo tường, vượt rào, chui qua khe song sắt gãy của cảnh cổng… để vào tận bên trong sân trụ sở VFF để đòi mua vé"
                 }
             ],
-            "question": "",
+            "question": "Tại sao khu vực Hà Nội bị mất kiểm soát?",
             "id": "59df075d102746e14cbc44064bcec35246680f862"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 782,
+                    "text": "tối đa 2 vé"
                 }
             ],
-            "question": "",
+            "question": "Mỗi lần xuất trình thẻ thương binh được mua tối đa bao nhiêu vé?",
             "id": "59df075d102746e14cbc44064bcec35246680f863"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1530,
+                    "text": "5000 vé"
                 }
             ],
-            "question": "",
+            "question": "Bao nhiêu vé online đã được bán?",
             "id": "59df075d102746e14cbc44064bcec35246680f864"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1639,
+                    "text": "người hâm mộ sẽ còn 2 cơ hội để  săn  vé"
                 }
             ],
-            "question": "",
+            "question": "Người hâm mộ sẽ có bao nhiêu cơ hội săn vé?",
             "id": "59df075d102746e14cbc44064bcec35246680f865"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1862,
+                    "text": "tại SVĐ Quốc gia Mỹ Đình, Hà Nội"
+                }
+            ],
+            "question": "Trận đấu diễn ra ở đâu?",
+            "id": "59df075d102746e14cbc44064bcec35246680f866"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1829,
+                    "text": "diễn ra vào lúc 19h30 ngày 15/12"
+                }
+            ],
+            "question": "Trận đấu diễn ra vào lúc nào?",
+            "id": "59df075d102746e14cbc44064bcec35246680f867"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1945,
+                    "text": "VTV5 và VTV6"
+                }
+            ],
+            "question": "Trận đấu được tường thuật tại kênh nào?",
+            "id": "59df075d102746e14cbc44064bcec35246680f868"
         }
     ]
 }
