@@ -4,52 +4,72 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 66,
+                    "text": "Bí đao thường được dùng chế biến thành các món canh, rau thông dụng trong bữa ăn hàng ngày"
                 }
             ],
-            "question": "",
+            "question": "Bí đao thường dùng để làm gì?",
             "id": "f4bf12687d377d61cb9029af5c0490a7919ea2131"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 213,
+                    "text": "trong dịp Tết Nguyên Đán"
                 }
             ],
-            "question": "",
+            "question": "Bí đao dùng để làm mức khi nào?",
             "id": "f4bf12687d377d61cb9029af5c0490a7919ea2132"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 370,
+                    "text": "bí đao có vị ngọt, tính lạnh, không độc, có tác dụng lợi tiểu tiện, tiêu phù thũng, thanh nhiệt, tiêu viêm. Vỏ quả bí đao vị ngọt, tính mát, có tác dụng lợi tiểu, tiêu viêm tiêu thũng, giải nhiệt. Hạt bí đao lại có tác dụng kháng sinh, tiêu độc trừ giun"
                 }
             ],
-            "question": "",
+            "question": "Theo y dược cổ truyền Việt Nam bí đao được mô tả như thế nào?",
             "id": "f4bf12687d377d61cb9029af5c0490a7919ea2133"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 639,
+                    "text": "quả và vỏ bí đao thường được dùng để chữa tiểu rắt, tiểu đục, mụn nhọt với liều từ 30 đến 40g quả tươi sắc uống hoặc nấu ăn. Lá tươi giã nát, xào với giấm để đắp là bài thuốc chữa chín mé đầu ngón tay. Hạt bí đao chữa ho, giải độc và trị rắn cắn"
                 }
             ],
-            "question": "",
+            "question": "Trong đông y bí đao thường được dùng để làm gì?",
             "id": "f4bf12687d377d61cb9029af5c0490a7919ea2134"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 915,
+                    "text": "người ta dùng rễ bí đao nấu nước tắm để trị bệnh đậu mùa"
                 }
             ],
-            "question": "",
+            "question": "Ở Campuchia người ta dùng rễ bí đao để làm gì?",
             "id": "f4bf12687d377d61cb9029af5c0490a7919ea2135"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1090,
+                    "text": "Vỏ bí đao sắc đặc uống nhiều lần"
+                }
+            ],
+            "question": "Chữa tiểu không thông do bàng quang nhiệt, tiểu đục do chất nhầy như thế nào?",
+            "id": "f4bf12687d377d61cb9029af5c0490a7919ea2136"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1325,
+                    "text": "Hạt bí đao sao vàng, bồ công anh, kim ngân hoa, ý dĩ (để sống), diếp cá, mỗi vị 40g; rễ lau 20g cùng hạt đào, cát cánh, cam thảo, mỗi vị 10g. Sắc uống hàng ngày"
+                }
+            ],
+            "question": "Chữa ung nhọt ở phổi hoặc ở đại tràng như thế nào?",
+            "id": "f4bf12687d377d61cb9029af5c0490a7919ea2137"
         }
     ]
 }

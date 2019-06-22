@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 31,
+                    "text": "Emmanuel Macron"
                 }
             ],
-            "question": "",
+            "question": "Tổng thống Pháp tên gì?",
             "id": "0bf78f6dbcf70822dcf60b400b498d6f261f4b431"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 47,
+                    "text": "gặp đại diện 5 liên đoàn lao động và 3 tổ chức bảo vệ người lao động cũng như giới chức địa phương"
                 }
             ],
-            "question": "",
+            "question": "Tổng thống Pháp gặp ai?",
             "id": "0bf78f6dbcf70822dcf60b400b498d6f261f4b432"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 196,
+                    "text": "Edouard Philippe"
                 }
             ],
-            "question": "",
+            "question": "Thủ tướng Pháp tên gì?",
             "id": "0bf78f6dbcf70822dcf60b400b498d6f261f4b433"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 373,
+                    "text": "công bố các biện pháp cụ thể và tức thời nhằm giải quyết khủng hoảng"
                 }
             ],
-            "question": "",
+            "question": "Tổng thống Macron có bài phát biểu quốc gia để làm gì?",
             "id": "0bf78f6dbcf70822dcf60b400b498d6f261f4b434"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 484,
+                    "text": "phong trào áo vàng"
                 }
             ],
-            "question": "",
+            "question": "phong trào nào đang tạo ra sức ảnh hưởng lớn đến xã hội Pháp?",
             "id": "0bf78f6dbcf70822dcf60b400b498d6f261f4b435"
         }
     ]

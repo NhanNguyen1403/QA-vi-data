@@ -4,52 +4,62 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 31,
+                    "text": "tập 10 The Face Vietnam 2018 đón chào các diễn viên nhí đồng hành cùng top 8 trong thử thách quyết định"
                 }
             ],
-            "question": "",
+            "question": "teaser hé lộ điều gì?",
             "id": "0a6b635f4da0288eb3fb1f42ca20c4ff88f5450c1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 193,
+                    "text": "Sự ngô nghê, đáng yêu của bé Khôi mập đã mang lại nhiều tiếng cười cho cuộc thi"
                 }
             ],
-            "question": "",
+            "question": "điều gì khiến Khôi Mập nổi bật?",
             "id": "0a6b635f4da0288eb3fb1f42ca20c4ff88f5450c2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 661,
+                    "text": "Chỉ có nước đi chết thôi . Tương tác với trẻ em là điều tưởng như dễ nhưng hóa ra lại là thử thách vô cùng khó"
                 }
             ],
-            "question": "",
+            "question": "Minh Hằng chia sẽ điều gì?",
             "id": "0a6b635f4da0288eb3fb1f42ca20c4ff88f5450c3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 947,
+                    "text": "20h50 hôm nay"
                 }
             ],
-            "question": "",
+            "question": "tập 10 The Face Vietnam 2018 được phát sóng lúc mấy giờ?",
             "id": "0a6b635f4da0288eb3fb1f42ca20c4ff88f5450c4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 953,
+                    "text": "hôm nay (9/12)"
                 }
             ],
-            "question": "",
+            "question": "tập 10 The Face Vietnam 2018 được phát sóng ngày nào?",
             "id": "0a6b635f4da0288eb3fb1f42ca20c4ff88f5450c5"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 928,
+                    "text": "trên kênh VTV9"
+                }
+            ],
+            "question": "tập 10 The Face Vietnam 2018 được phát sóng trên kênh nào?",
+            "id": "0a6b635f4da0288eb3fb1f42ca20c4ff88f5450c6"
         }
     ]
 }

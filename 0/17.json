@@ -5,51 +5,61 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": ""
+                    "text": "So sánh con nhà mình với con nhà người khác"
                 }
             ],
-            "question": "",
+            "question": "Phụ huynh thường làm gì để con hoàn thiện hơn?",
             "id": "1f8b563d834e4dabaa4b3d85054134d40fab4be11"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 138,
+                    "text": "điều này lại vô tình tạo nên áp lực cho trẻ"
                 }
             ],
-            "question": "",
+            "question": "So sánh con nhà mình với con nhà người khác có tác hại như thế nào?",
             "id": "1f8b563d834e4dabaa4b3d85054134d40fab4be12"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 243,
+                    "text": "ngày 9/9"
                 }
             ],
-            "question": "",
+            "question": "gameshow Con nhà người ta vừa lên sóng ngày nào?",
             "id": "1f8b563d834e4dabaa4b3d85054134d40fab4be13"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 301,
+                    "text": "mong muốn mang đến góc nhìn mới cho các bậc phụ huynh, đồng thời giúp các bạn nhỏ có tinh thần thoải mái, sống đúng với lứa tuổi của mình"
                 }
             ],
-            "question": "",
+            "question": "ê-kíp muốn điều gì từ chương trình?",
             "id": "1f8b563d834e4dabaa4b3d85054134d40fab4be14"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 673,
+                    "text": "những màn thể hiện tài lẻ và năng khiếu của các bé, hứa hẹn mang đến không khí sôi nổi cho Con nhà người ta. Bên cạnh phần thể hiện tài năng của các bé, Con nhà người ta là cầu nối giúp các bậc phụ huynh hiểu hơn về suy nghĩ của con mình thông qua phần trò chuyện  Yêu con đúng cách"
                 }
             ],
-            "question": "",
+            "question": "Xuyên suốt chương trình là gì?",
             "id": "1f8b563d834e4dabaa4b3d85054134d40fab4be15"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 995,
+                    "text": "MC Đại Nghĩa và Phí Linh"
+                }
+            ],
+            "question": "ai là MC của chương trình?",
+            "id": "1f8b563d834e4dabaa4b3d85054134d40fab4be16"
         }
     ]
 }

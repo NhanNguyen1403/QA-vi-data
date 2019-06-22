@@ -4,52 +4,112 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 60,
+                    "text": "Huỳnh Anh Tuấn"
                 }
             ],
-            "question": "",
+            "question": "ông Hòa là ai?",
             "id": "930671a215c153007346f88d9f77193258c3ce131"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 87,
+                    "text": "Thân Thúy Hà"
                 }
             ],
-            "question": "",
+            "question": "bà Tuyết là ai?",
             "id": "930671a215c153007346f88d9f77193258c3ce132"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 117,
+                    "text": "Trọng Nhân"
                 }
             ],
-            "question": "",
+            "question": "Phú Thịnh là ai?",
             "id": "930671a215c153007346f88d9f77193258c3ce133"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 143,
+                    "text": "Hải Băng"
                 }
             ],
-            "question": "",
+            "question": "Lan Khanh là ai?",
             "id": "930671a215c153007346f88d9f77193258c3ce134"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 191,
+                    "text": "việc trúng cử ngồi vào chiếc ghế Chủ tịch tập đoàn Hải Minh tạm thời lần này vừa là may mắn cũng vừa là chủ định của ông từ trước"
                 }
             ],
-            "question": "",
+            "question": "ông Hòa cho biết điều gì?",
             "id": "930671a215c153007346f88d9f77193258c3ce135"
-        }
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 322,
+                    "text": "Ông Hòa cho biết chỉ có một đứa con trai là Phú Thịnh"
+                }
+            ],
+            "question": "ai là con của ông Hòa?",
+            "id": "930671a215c153007346f88d9f77193258c3ce136"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 468,
+                    "text": "ông Hải không coi trọng con, chỉ cho Phú Thịnh chức Giám đốc nhân sự cỏn con"
+                }
+            ],
+            "question": "ông Hòa tiêm nhiễm điều gì cho Phú Thịnh?",
+            "id": "930671a215c153007346f88d9f77193258c3ce137"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 958,
+                    "text": "muốn mọi thứ phải chắc chắn nằm trong tay con trước khi xuất hiện được đứa con rơi của ông ta từ trên trời rơi xuống"
+                }
+            ],
+            "question": "ông Hòa muốn gì từ con trai mình?",
+            "id": "930671a215c153007346f88d9f77193258c3ce138"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1332,
+                    "text": "14h00"
+                }
+            ],
+            "question": "Cung đường tội lỗi phát sóng vào lúc mấy giờ?",
+            "id": "930671a215c153007346f88d9f77193258c3ce139"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1338,
+                    "text": "thứ Bảy, chủ nhật hàng tuần"
+                }
+            ],
+            "question": "Cung đường tội lỗi phát sóng vào ngày nào trong tuần?",
+            "id": "930671a215c153007346f88d9f77193258c3ce1310"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1366,
+                    "text": "trên kênh VTV3!"
+                }
+            ],
+            "question": "Cung đường tội lỗi phát sóng trên kênh nào?",
+            "id": "930671a215c153007346f88d9f77193258c3ce1311"
+        }        
     ]
 }

@@ -4,52 +4,102 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 290,
+                    "text": "Phthalates được tìm thấy trong các sản phẩm thơm như nước hoa, chất khử mùi, xà phòng, dầu gội đầu, sơn móng tay và mỹ phẩm trong khi paraben thường được sử dụng làm chất bảo quản trong mỹ phẩm và các sản phẩm chăm sóc cá nhân khác"
                 }
             ],
-            "question": "",
+            "question": "Phthalates được tìm thấy ở đâu?",
             "id": "508fb2a977adf315cf37b9c2e8f82873abd007b91"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 523,
+                    "text": "Phenol chủ yếu được tìm thấy trong xà phòng, kem đánh răng, son môi, keo xịt tóc, dầu gội và kem dưỡng da để tăng độ bền của sản phẩm"
                 }
             ],
-            "question": "",
+            "question": "Phenol được tìm thấy ở đâu?",
             "id": "508fb2a977adf315cf37b9c2e8f82873abd007b92"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 760,
+                    "text": "giảng viên Y tế cộng đồng tại Đại học California, Berkeley, Mỹ, chủ nhiệm nghiên cứu"
                 }
             ],
-            "question": "",
+            "question": "BS. Kim Harley là ai?",
             "id": "508fb2a977adf315cf37b9c2e8f82873abd007b93"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1310,
+                    "text": "phát hiện ra rằng những bé gái có mức parabens cao hơn trong cơ thể lúc 9 tuổi cũng dậy thì sớm hơn"
                 }
             ],
-            "question": "",
+            "question": "BS. Kim Harley đã phát hiện điều gì?",
             "id": "508fb2a977adf315cf37b9c2e8f82873abd007b94"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1423,
+                    "text": "các bé gái đang dậy thì sớm hơn bao giờ hết, với tuổi trung bình giảm từ 11 xuống 10 trong 15 năm qua"
                 }
             ],
-            "question": "",
+            "question": "điều gì đang diễn ra ở Châu Âu?",
             "id": "508fb2a977adf315cf37b9c2e8f82873abd007b95"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1548,
+                    "text": "độ tuổi này là 14,6"
+                }
+            ],
+            "question": "độ tuổi dậy thì ở bé gái năm 1920 là bao nhiêu?",
+            "id": "508fb2a977adf315cf37b9c2e8f82873abd007b96"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1596,
+                    "text": "nó làm tăng nguy cơ của các vấn đề sức khỏe tâm thần và hành vi mạo hiểm ở thanh thiếu niên và làm tăng nguy cơ ung thư vú và buồng trứng"
+                }
+            ],
+            "question": "dậy thì sớm có tác hại như thế nào?",
+            "id": "508fb2a977adf315cf37b9c2e8f82873abd007b97"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1989,
+                    "text": "phthalates, parabens và triclosan"
+                }
+            ],
+            "question": "Những chất nào gây ra rối loạn nội tiết?",
+            "id": "508fb2a977adf315cf37b9c2e8f82873abd007b98"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 2750,
+                    "text": "giảng viên cao cấp về nội tiết, Imperial College London"
+                }
+            ],
+            "question": "Ali Abbara là ai?",
+            "id": "508fb2a977adf315cf37b9c2e8f82873abd007b99"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 3204,
+                    "text": "công bố trên tạp chí Human Reproduction"
+                }
+            ],
+            "question": "nghiên cứu về mối liên hệ giữa các chất gây dậy thì sớm này được công bố ở đâu?",
+            "id": "508fb2a977adf315cf37b9c2e8f82873abd007b910"
         }
     ]
 }

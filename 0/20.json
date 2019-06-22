@@ -4,52 +4,122 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 77,
+                    "text": "NSƯT Mỹ Uyên"
                 }
             ],
-            "question": "",
+            "question": "bà Yến là ai?",
             "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d81"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 128,
+                    "text": "Thân Thúy Hà"
                 }
             ],
-            "question": "",
+            "question": "bà Tuyết là ai?",
             "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d82"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 202,
+                    "text": "Quốc Trường"
                 }
             ],
-            "question": "",
+            "question": "Quân là ai?",
             "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d83"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 287,
+                    "text": "Huỳnh Anh Tuấn"
                 }
             ],
-            "question": "",
+            "question": "ông Hòa là ai?",
             "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d84"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 351,
+                    "text": "Trọng Nhân"
                 }
             ],
-            "question": "",
+            "question": "Phú Thịnh là ai?",
             "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d85"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 545,
+                    "text": "Hải Băng"
+                }
+            ],
+            "question": "Minh Châu là ai?",
+            "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d86"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 931,
+                    "text": "Bella Mai"
+                }
+            ],
+            "question": "Lan Khanh là ai?",
+            "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d87"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 369,
+                    "text": "đã lên kế hoạch trả thù"
+                }
+            ],
+            "question": "Quân làm gì khi biết âm mưu của mẹ con Phú thịnh?",
+            "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d88"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 585,
+                    "text": "vì anh muốn sống yên ổn mà không ai để anh được yên. Quân cho rằng lòng tham đã làm mọi người mờ mắt"
+                }
+            ],
+            "question": "vì sao Quân trả thù?",
+            "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d89"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1180,
+                    "text": "14h00 hôm nay"
+                }
+            ],
+            "question": "tập 39 phim Cung đường tội lỗi phát sóng vào lúc mấy giờ",
+            "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d810"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1186,
+                    "text": "hôm nay (8/12)"
+                }
+            ],
+            "question": "tập 39 phim Cung đường tội lỗi phát sóng vào ngày nào?",
+            "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d811"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1201,
+                    "text": "trên kênh VTV3"
+                }
+            ],
+            "question": "tập 39 phim Cung đường tội lỗi phát sóng trên kênh nào?",
+            "id": "ab5d558a6a4cab5c5fe80f2b130d2b24f3c286d812"
         }
     ]
 }

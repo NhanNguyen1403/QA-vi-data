@@ -4,52 +4,82 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 31,
+                    "text": "Lucas Paqueta đã có mặt ở Milan để trải qua cuộc kiểm tra y tế, trước khi chính thức trở thành người của AC Milan"
                 }
             ],
-            "question": "",
+            "question": "Truyền thông Italia khẳng định điều gì?",
             "id": "0a77603065304757f1bcee274ae37f12c4673dd91"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 146,
+                    "text": "Tiền vệ 21 tuổi"
                 }
             ],
-            "question": "",
+            "question": "Tiền vệ Lucas Paqueta năm nay bao nhiêu tuổi?",
             "id": "0a77603065304757f1bcee274ae37f12c4673dd92"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 262,
+                    "text": "cầu thủ được mệnh danh là  tiểu Kaka"
                 }
             ],
-            "question": "",
+            "question": "Cầu thủ Lucas Paqueta được mệnh danh là gì?",
             "id": "0a77603065304757f1bcee274ae37f12c4673dd93"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 305,
+                    "text": "Rosonerri đã phải chi ra số tiền lên đến 35 triệu Euro"
                 }
             ],
-            "question": "",
+            "question": "Rosonerri phải chi bao nhiêu tiền cho cầu thủ này?",
             "id": "0a77603065304757f1bcee274ae37f12c4673dd94"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 559,
+                    "text": "Lucas Paqueta là ngôi sao sáng giá trong đội hình Flamengo"
                 }
             ],
-            "question": "",
+            "question": "Hiện tại Lucas Paqueta đang thi đấu cho đội tuyển nào?",
             "id": "0a77603065304757f1bcee274ae37f12c4673dd95"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 497,
+                    "text": "là cầu thủ người Brazil"
+                }
+            ],
+            "question": "Lucas Paqueta mang quốc tịch nào?",
+            "id": "0a77603065304757f1bcee274ae37f12c4673dd96"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 868,
+                    "text": "Paqueta đã ghi được 10 bàn"
+                }
+            ],
+            "question": "Lucas Paqueta đã ghi bao nhiêu bàn thắng?",
+            "id": "0a77603065304757f1bcee274ae37f12c4673dd97"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 898,
+                    "text": "4 lần kiến tạo cho các đồng đội"
+                }
+            ],
+            "question": "Lucas Paqueta đã kiến tạo bao nhiêu bàn thắng?",
+            "id": "0a77603065304757f1bcee274ae37f12c4673dd98"
         }
     ]
 }

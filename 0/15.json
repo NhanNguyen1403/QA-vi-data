@@ -4,52 +4,82 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 54,
+                    "text": "NS Hoàng Sơn"
                 }
             ],
-            "question": "",
+            "question": "ông Mạnh là ai?",
             "id": "a6c31fd16142e4a9e6d4d22cb030e98466af59ae1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 142,
+                    "text": "ngôi nhà của ông Mạnh khi xưa là một ngôi biệt thự và có một người phụ nữ đã qua đời trong một căn phòng trên tầng 2"
                 }
             ],
-            "question": "",
+            "question": "ông Mạnh tiết lộ điều gì?",
             "id": "a6c31fd16142e4a9e6d4d22cb030e98466af59ae2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 512,
+                    "text": "tỏ ra vô cùng hào hứng, thích thú với câu chuyện ông Mạnh kể"
                 }
             ],
-            "question": "",
+            "question": "Dương cảm thấy như thế nào với tiết lộ của ông Mạnh?",
             "id": "a6c31fd16142e4a9e6d4d22cb030e98466af59ae3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 913,
+                    "text": "Vậy ai sẽ là người tiếp theo qua đời"
                 }
             ],
-            "question": "",
+            "question": "Dương thản nhiên trêu trọc bố mẹ và hai chị như thế nào?",
             "id": "a6c31fd16142e4a9e6d4d22cb030e98466af59ae4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1138,
+                    "text": "Bây giờ các con không cần chúng ta nữa. Rồi chúng nó sẽ sớm muộn rời xa nơi này thôi"
                 }
             ],
-            "question": "",
+            "question": "Bà Vân than thở với chồng điều gì?",
             "id": "a6c31fd16142e4a9e6d4d22cb030e98466af59ae5"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1447,
+                    "text": "20h00 hôm nay"
+                }
+            ],
+            "question": "tập 21 Mẹ ơi, bố đâu rồi phát sóng lúc mấy giờ?",
+            "id": "a6c31fd16142e4a9e6d4d22cb030e98466af59ae6"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1453,
+                    "text": "hôm nay (10/12)"
+                }
+            ],
+            "question": "tập 21 Mẹ ơi, bố đâu rồi phát sóng ngày nào?",
+            "id": "a6c31fd16142e4a9e6d4d22cb030e98466af59ae7"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1469,
+                    "text": "trên kênh VTV3!"
+                }
+            ],
+            "question": "tập 21 Mẹ ơi, bố đâu rồi phát sóng trên kênh nào?",
+            "id": "a6c31fd16142e4a9e6d4d22cb030e98466af59ae8"
         }
     ]
 }

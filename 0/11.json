@@ -4,52 +4,112 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 114,
+                    "text": "tại SVĐQG Mỹ Đình - Hà Nội"
                 }
             ],
-            "question": "",
+            "question": "Trận chung kết lượt về diễn ra ở đâu?",
             "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e551"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 283,
+                    "text": "sẽ có 4 mệnh giá"
                 }
             ],
-            "question": "",
+            "question": "vé online được bán với mấy mệnh giá?",
             "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e552"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 305,
+                    "text": "200.000 đồng, 350.000 đồng, 500.000 đồng và 600.000 đồng"
                 }
             ],
-            "question": "",
+            "question": "vé online có những mệnh giá nào?",
             "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e553"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 683,
+                    "text": "10h00, 16h00, 22h00 ngày 10/12 và 10h00 ngày 11/12/2018"
                 }
             ],
-            "question": "",
+            "question": "vé online được mở bán vào thời gian nào?",
             "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e554"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 996,
+                    "text": "người hâm mộ có thể thanh toán bằng thẻ ATM nội địa, thẻ credit…"
                 }
             ],
-            "question": "",
+            "question": "thanh toán vé online như thế nào?",
             "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e555"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1061,
+                    "text": "Khán giả có 2 lựa chọn để nhận vé"
+                }
+            ],
+            "question": "Có mấy hình thức nhận vé?",
+            "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e556"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1549,
+                    "text": "Thời gian trả vé là từ 09h đến 16h30 các ngày 13/12 và 14/12/2018"
+                }
+            ],
+            "question": "thời gian trả vé khi nào?",
+            "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e557"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 2165,
+                    "text": "Chi phí chuyển phát nhanh là 29,000 VNĐ/1 đơn hàng"
+                }
+            ],
+            "question": "Chi phí chuyển phát nhanh là bao nhiêu?",
+            "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e558"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 2525,
+                    "text": "Agribank, BIDV, VietinBank, Vietcombank, SCB, IVB, VPBank, Viet Capital Bank, Eximbank, SHB, Maritime Bank, NCB, Nam A Bank, TPBank"
+                }
+            ],
+            "question": "VNPAY-QR hổ trợ những ngân hàng nào?",
+            "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e559"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 2494,
+                    "text": "Áp dụng 14 ứng dụng ngân hàng"
+                }
+            ],
+            "question": "VNPAY-QR hổ trợ bao nhiêu ngân hàng?",
+            "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e5510"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 2699,
+                    "text": "vui lòng kiểm tra lại các thông tin cá nhân và thông tin đơn hàng"
+                }
+            ],
+            "question": "làm gì khi đã giao dịch thành công?",
+            "id": "c428fa676d3fa5e1267a4a1b232116e5d5678e5511"
         }
     ]
 }

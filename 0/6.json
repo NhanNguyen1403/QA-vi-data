@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 50,
+                    "text": "Hà Nội giành ngôi đầu"
                 }
             ],
-            "question": "",
+            "question": "Đoàn Hà Nội đứng thứ mấy?",
             "id": "14fd13711ae458881ba20ff0f2d789d161f2de851"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 76,
+                    "text": "176 HCV"
                 }
             ],
-            "question": "",
+            "question": "Đoàn Hà Nội giành được bao nhiêu HCV?",
             "id": "14fd13711ae458881ba20ff0f2d789d161f2de852"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 90,
+                    "text": "TP Hồ Chí Minh giành 118 HCV"
                 }
             ],
-            "question": "",
+            "question": "Đoàn TP HCM giành được bao nhiêu HCV?",
             "id": "14fd13711ae458881ba20ff0f2d789d161f2de853"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 132,
+                    "text": "thứ ba là đoàn Quân đội"
                 }
             ],
-            "question": "",
+            "question": "Thứ ba toàn đoàn là đội nào?",
             "id": "14fd13711ae458881ba20ff0f2d789d161f2de854"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 160,
+                    "text": "59 HCV"
                 }
             ],
-            "question": "",
+            "question": "Đoàn Quân đội được bao nhiêu HCV?",
             "id": "14fd13711ae458881ba20ff0f2d789d161f2de855"
         }
     ]

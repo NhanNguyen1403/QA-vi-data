@@ -4,52 +4,72 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 127,
+                    "text": "trọng tài Alireza Faghani cùng 2 trợ lý Reza Sokhandan và Mohammadreza Mansouri"
                 }
             ],
-            "question": "",
+            "question": "Ai là trọng tài chính của trận chung kết?",
             "id": "8d446bfb6f7c661c8e2761e55985643f3b4240111"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 400,
+                    "text": "tổ trọng tài này đã tham gia điều hành 4 trận đấu tại World Cup 2018"
                 }
             ],
-            "question": "",
+            "question": "tổ trọng tài đã điều hành bao nhiêu trận đấu World Cup 2018?",
             "id": "8d446bfb6f7c661c8e2761e55985643f3b4240112"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 561,
+                    "text": " cuộc so tài giữa ĐT Bỉ và ĐT Anh trong trận tranh hạng ba"
                 }
             ],
-            "question": "",
+            "question": "hai đội tuyển nào tham gia trận đấu tranh hạng ba?",
             "id": "8d446bfb6f7c661c8e2761e55985643f3b4240113"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1163,
+                    "text": "12 thẻ đỏ"
                 }
             ],
-            "question": "",
+            "question": "ông Alireza Faghani đã rút ra bao nhiêu thẻ đỏ?",
             "id": "8d446bfb6f7c661c8e2761e55985643f3b4240114"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1174,
+                    "text": "260 thẻ vàng"
                 }
             ],
-            "question": "",
+            "question": "ông Alireza Faghani đã rút ra bao nhiêu thẻ vàng?",
             "id": "8d446bfb6f7c661c8e2761e55985643f3b4240115"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1195,
+                    "text": "27 quả phạt đền"
+                }
+            ],
+            "question": "ông Alireza Faghani đã thổi bao nhiêu quả phạt đền?",
+            "id": "8d446bfb6f7c661c8e2761e55985643f3b4240116"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1220,
+                    "text": "115 trận đấu"
+                }
+            ],
+            "question": "ông Alireza Faghani đã điều hành bao nhiêu trận đấu?",
+            "id": "8d446bfb6f7c661c8e2761e55985643f3b4240117"
         }
     ]
 }
