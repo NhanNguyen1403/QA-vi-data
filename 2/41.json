@@ -4,52 +4,92 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 125,
+                    "text": "thời kỳ công nghệ 4.0"
                 }
             ],
-            "question": "",
+            "question": "Trẻ em nghiện công nghệ trong thời kì nào?",
             "id": "4ad5000ee3529049109ba9da008dd92bd17ab0411"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 192,
+                    "text": "cai nghiện công nghệ không hề dễ dàng"
                 }
             ],
-            "question": "",
+            "question": "điều gì khiến phụ huynh đau đầu?",
             "id": "4ad5000ee3529049109ba9da008dd92bd17ab0412"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 575,
+                    "text": "rất có ích với trẻ nhỏ, đồng thời khiến trẻ tự tin, hòa đồng với bạn bè hơn"
                 }
             ],
-            "question": "",
+            "question": "vì sao trẻ cần tham gia các câu lạc bộ thể thao hay nghệ thuật tại trường học?",
             "id": "4ad5000ee3529049109ba9da008dd92bd17ab0413"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 652,
+                    "text": "Leo núi trong nhà"
                 }
             ],
-            "question": "",
+            "question": "môn thể thao nào dùng để rèn luyện thể lực của trẻ tại nhà?",
             "id": "4ad5000ee3529049109ba9da008dd92bd17ab0414"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 735,
+                    "text": "không chỉ là một kỹ năng sống cần thiết với trẻ nhỏ, mà còn là môn thể thao ưa thích của rất nhiều đứa trẻ"
                 }
             ],
-            "question": "",
+            "question": "bơi là môn thể thao như thế nào với giới trẻ?",
             "id": "4ad5000ee3529049109ba9da008dd92bd17ab0415"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 855,
+                    "text": "giúp trẻ tự tin và học được cách quan sát"
+                }
+            ],
+            "question": "lợi ích của việc chơi tennis với giới trẻ?",
+            "id": "4ad5000ee3529049109ba9da008dd92bd17ab0416"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1048,
+                    "text": "muốn con mình dẻo dai và khỏe mạnh"
+                }
+            ],
+            "question": "phụ huynh muốn con mình có được điều gì khi cho con mình tham gia các lớp tập gym và thể dục dụng cụ?",
+            "id": "4ad5000ee3529049109ba9da008dd92bd17ab0417"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1323,
+                    "text": "đòi hỏi phải vận động cường độ cao và sự dũng cảm của trẻ nhỏ"
+                }
+            ],
+            "question": "môn Parkour đòi hỏi gì ở trẻ nhỏ?",
+            "id": "4ad5000ee3529049109ba9da008dd92bd17ab0418"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1518,
+                    "text": "cáu gắt, bồn chồn, sốt ruột và không bình thường khi thiếu công nghệ"
+                }
+            ],
+            "question": "các nguy cơ tiềm ẩn của người nghiện là gì?",
+            "id": "4ad5000ee3529049109ba9da008dd92bd17ab0419"
         }
     ]
 }

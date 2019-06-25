@@ -4,52 +4,72 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 35,
+                    "text": "tại Nha Trang"
                 }
             ],
-            "question": "",
+            "question": "Dương Yến Nhung sinh ra và lớn lên ở đâu?",
             "id": "601cf1f101854063ed09ca5692af6ba73931b8de1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 53,
+                    "text": "tốt nghiệp Học viện Hàng không Việt Nam"
                 }
             ],
-            "question": "",
+            "question": "Dương Yến Nhung tốt nghiệp trường gì?",
             "id": "601cf1f101854063ed09ca5692af6ba73931b8de2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 120,
+                    "text": "tại cuộc thi Hoa khôi nhan sắc 2016"
                 }
             ],
-            "question": "",
+            "question": "Dương Yến Nhung lên ngôi á khôi trong cuộc thi nào?",
             "id": "601cf1f101854063ed09ca5692af6ba73931b8de3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 255,
+                    "text": "để tập trung cho công việc kinh doanh, thiết kế thời trang và các hoạt động thiện nguyện"
                 }
             ],
-            "question": "",
+            "question": "Dương Yến Nhung hạn chế tham gia các hoạt động giải trí để làm gì?",
             "id": "601cf1f101854063ed09ca5692af6ba73931b8de4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 349,
+                    "text": "lớn lên trong tình yêu thương của gia đình, được bố mẹ bao bọc và che chở"
                 }
             ],
-            "question": "",
+            "question": "Dương Yến Nhung lớn lên như thế nào?",
             "id": "601cf1f101854063ed09ca5692af6ba73931b8de5"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 428,
+                    "text": "tự thấy bản thân khá nhút nhát, đi chậm, sống chậm hơn những bạn bè cùng trang lứa"
+                }
+            ],
+            "question": "Dương Yến Nhung cảm thấy bản thân như thế nào?",
+            "id": "601cf1f101854063ed09ca5692af6ba73931b8de6"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 1014,
+                    "text": "là người có gu ăn mặc sẵn nên mỗi lần xuất hiện, Dương Yến Nhung luôn biết cách làm mới bản thân mình và tạo ấn tượng với những người xung quanh"
+                }
+            ],
+            "question": "vì sao Dương Yến Nhung được chú ý hơn người khác?",
+            "id": "601cf1f101854063ed09ca5692af6ba73931b8de7"
         }
     ]
 }

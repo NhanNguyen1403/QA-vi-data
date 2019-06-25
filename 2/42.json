@@ -4,52 +4,62 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 58,
+                    "text": "đã hướng dẫn các bước và lưu ý khi trang điểm theo phong cách năng động"
                 }
             ],
-            "question": "",
+            "question": "chuyên gia Diệp Lâm đã làm gì trong chương trình Đẹp 24/7?",
             "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 139,
+                    "text": "Đánh nền Lần lượt dùng kem lót, kem nền, kem che khuyết điểm và phấn phủ"
                 }
             ],
-            "question": "",
+            "question": "bước 1 của trang điểm theo phong cách năng động là gì?",
             "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 221,
+                    "text": "Đánh mắt Bạn sử dụng tone màu hồng hay cam để đánh mắt"
                 }
             ],
-            "question": "",
+            "question": "bước 2 của trang điểm theo phong cách năng động là gì?",
             "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 286,
+                    "text": "Kẻ eyeline và dùng chổi vuốt nhẹ phần lông mày Dặm nhẹ lại phấn ở vùng cuối đuôi mắt"
                 }
             ],
-            "question": "",
+            "question": "bước 3 của trang điểm theo phong cách năng động là gì?",
             "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 380,
+                    "text": "Đánh phấn má Bước"
                 }
             ],
-            "question": "",
+            "question": "bước 4 của trang điểm theo phong cách năng động là gì?",
             "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed5"
+        },
+        {
+            "answers": [
+                {
+                    "answer_start": 401,
+                    "text": "Tô son"
+                }
+            ],
+            "question": "bước 5 của trang điểm theo phong cách năng động là gì?",
+            "id": "7bd5da151049274a5b2df0b2e95a779ebc4964ed6"
         }
     ]
 }
