@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 24,
+                    "text": "có hơn 400 ngành nghề kinh doanh có điều kiện"
                 }
             ],
-            "question": "",
+            "question": "Trong năm 2014, Việt Nam có hơn bao nhiêu ngành nghề kinh doanh có điều kiện?",
             "id": "2477c64dcd116db56ae96a0ecec945f97832c4481"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 382,
+                    "text": "giấy phép con"
                 }
             ],
-            "question": "",
+            "question": "Chủ trương chung của Chính phủ là muốn xóa bỏ cái gì?",
             "id": "2477c64dcd116db56ae96a0ecec945f97832c4482"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1065,
+                    "text": "Ông Nguyễn Hoài Nam"
                 }
             ],
-            "question": "",
+            "question": "Ai là Phó Tổng Thư ký VASEP?",
             "id": "2477c64dcd116db56ae96a0ecec945f97832c4483"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1387,
+                    "text": "Nghị quyết 19"
                 }
             ],
-            "question": "",
+            "question": "Nghị quyết bao nhiêu của Chính phủ trong 3 năm gần đây đã có tác động, khiến các bộ ngành có liên kết với các hiệp hội, doanh nghiệp?",
             "id": "2477c64dcd116db56ae96a0ecec945f97832c4484"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1671,
+                    "text": "ông Nguyễn Đình Cung"
                 }
             ],
-            "question": "",
+            "question": "Ai là Viện trưởng Viện Nghiên cứu quản lý kinh tế Trung ương?",
             "id": "2477c64dcd116db56ae96a0ecec945f97832c4485"
         }
     ]
