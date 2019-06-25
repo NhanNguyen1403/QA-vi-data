@@ -1,54 +1,54 @@
 {
-    "context": "Đoàn kiểm tra đã yêu cầu đóng cửa 4 cơ sở trên và yêu cầu không được thực hiện phương pháp hỏa trị liệu. Đồng thời, Thanh tra Sở Y tế TP.HCM yêu cầu chính quyền giám sát hoạt động của các địa chỉ này.  Sở Y tế TP.HCM khuyến cáo hiện chưa có cơ sở nào ở TP.HCM được cấp phép sử dụng hỏa trị liệu, do vậy người dân không tự ý đến các cơ sở trái phép thực hiện phương pháp này nhằm tránh bị bỏng và nguy hiểm đến sức khỏe. VTV.vn - Theo Bộ Y tế, phương pháp hỏa trị liệu chưa cấp phép cho các spa và tiềm ẩn nguy cơ kém an toàn nếu các cơ sở spa làm trái phép phương pháp này.",
+    "context": "Đoàn kiểm tra đã yêu cầu đóng cửa 4 cơ sở trên và yêu cầu không được thực hiện phương pháp hỏa trị liệu. Đồng thời, Thanh tra Sở Y tế TP.HCM yêu cầu chính quyền giám sát hoạt động của các địa chỉ này.  Sở Y tế TP.HCM khuyến cáo hiện chưa có cơ sở nào ở TP.HCM được cấp phép sử dụng hỏa trị liệu, do vậy người dân không tự ý đến các cơ sở trái phép thực hiện phương pháp này nhằm tránh bị bỏng và nguy hiểm đến sức khỏe. VTV.vn - Theo Bộ Y tế, phương pháp hỏa trị liệu chưa cấp phép cho các spa và tiềm ẩn nguy cơ kém an toàn nếu các cơ sở spa làm trái phép phương pháp này.",
     "qas": [
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 33,
+                    "text": "4 cơ sở"
                 }
             ],
-            "question": "",
+            "question": "Đoàn kiểm tra đã yêu cầu đóng cửa mấy cơ sở?",
             "id": "e2d38680afd5329599d8d250ad15280f1c9727ca1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 78,
+                    "text": "phương pháp hỏa trị liệu"
                 }
             ],
-            "question": "",
+            "question": "Đoàn kiểm tra đã yêu cầu không được thực hiện phương pháp gì?",
             "id": "e2d38680afd5329599d8d250ad15280f1c9727ca2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 227,
+                    "text": "hiện chưa có cơ sở nào ở TP.HCM được cấp phép sử dụng hỏa trị liệu"
                 }
             ],
-            "question": "",
+            "question": "Sở Y tế TP.HCM khuyến cáo điều gì?",
             "id": "e2d38680afd5329599d8d250ad15280f1c9727ca3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 160,
+                    "text": "giám sát hoạt động của các địa chỉ này"
                 }
             ],
-            "question": "",
+            "question": "Thanh tra Sở Y tế TP.HCM yêu cầu chính quyền làm việc gì?",
             "id": "e2d38680afd5329599d8d250ad15280f1c9727ca4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 433,
+                    "text": "Bộ Y tế"
                 }
             ],
-            "question": "",
+            "question": "Theo bộ nào thì phương pháp hỏa trị liệu chưa cấp phép cho các spa và tiềm ẩn nguy cơ kém an toàn nếu các cơ sở spa làm trái phép phương pháp này?",
             "id": "e2d38680afd5329599d8d250ad15280f1c9727ca5"
         }
     ]
