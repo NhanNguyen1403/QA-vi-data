@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 22,
+                    "text": "Manchester United và Chelsea sẽ đối đầu nhau trong trận chung kết FA Cup"
                 }
             ],
-            "question": "",
+            "question": "23h15 tối nay (19/5) diễn ra sự kiện gì?",
             "id": "ae9f8fa2868b171810a0ff2cfd94632b089a5c161"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 115,
+                    "text": "mà người hâm mộ bóng đá nước Anh nói riêng và thế giới nói chung hứa hẹn sẽ được thưởng thức một bữa tiệc bóng đá thực sự"
                 }
             ],
-            "question": "",
+            "question": "Cuộc đọ sức này đem lại điều gì cho người hâm mộ?",
             "id": "ae9f8fa2868b171810a0ff2cfd94632b089a5c162"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 258,
+                    "text": "Chelsea thất bại trong cuộc bảo vệ ngôi vô địch Ngoại hạng Anh"
                 }
             ],
-            "question": "",
+            "question": " Ở mùa giải năm nay, sự việc gì xảy ra vơi Chelsea? ",
             "id": "ae9f8fa2868b171810a0ff2cfd94632b089a5c163"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 358,
+                    "text": "còn thất bại trong việc giành quyền dự Champions League"
                 }
             ],
-            "question": "",
+            "question": "thầy trò HLV Conte còn có thêm việc gì?",
             "id": "ae9f8fa2868b171810a0ff2cfd94632b089a5c164"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 429,
+                    "text": "MU cũng chỉ cán đích ở vị trí á quân Ngoại hạng Anh và loại sớm ở Champions League"
                 }
             ],
-            "question": "",
+            "question": "đội MU đạt được vị trí gì?",
             "id": "ae9f8fa2868b171810a0ff2cfd94632b089a5c165"
         }
     ]

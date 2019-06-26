@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 10,
+                    "text": "cặp đôi Lady Gaga - Bradley Cooper"
                 }
             ],
-            "question": "",
+            "question": "Cặp đôi nào nhận giải?",
             "id": "4d5ef483cde2b74ea967f6141eabd6ca2137e60c1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 45,
+                    "text": "được xướng tên ở hai hạng mục quan trọng"
                 }
             ],
-            "question": "",
+            "question": "Cặp đôi Lady Gaga - Bradley Cooper được xướng tên ở mấy hạng mục ",
             "id": "4d5ef483cde2b74ea967f6141eabd6ca2137e60c2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 90,
+                    "text": "Nữ diễn viên chính xuất sắc nhất  và  Đạo diễn xuất sắc nhất"
                 }
             ],
-            "question": "",
+            "question": "Cặp đôi Lady Gaga - Bradley Cooper nhận được những giải nào?",
             "id": "4d5ef483cde2b74ea967f6141eabd6ca2137e60c3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 30,
+                    "text": "Bradley Cooper"
                 }
             ],
-            "question": "",
+            "question": "Ai là người được nhắc đến trong cặp đôi với Lady Gaga?",
             "id": "4d5ef483cde2b74ea967f6141eabd6ca2137e60c4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 128,
+                    "text": "Đạo diễn xuất sắc nhất"
                 }
             ],
-            "question": "",
+            "question": "Hai hạng mục quan trọng là nữ diễn viên chính xuất sắc nhất và giải gì?",
             "id": "4d5ef483cde2b74ea967f6141eabd6ca2137e60c5"
         }
     ]

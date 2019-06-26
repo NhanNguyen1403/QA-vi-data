@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 30,
+                    "text": "cảnh giải cứu ngoạn mục trong đêm"
                 }
             ],
-            "question": "",
+            "question": "Đoạn clip tái hiện canrnh gì?",
             "id": "131d215cdf641a6fefca8fc7115a197e21e7d85f1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 54,
+                    "text": "trong đêm"
                 }
             ],
-            "question": "",
+            "question": "cảnh giải cứu ngoạn mục buổi nào?",
             "id": "131d215cdf641a6fefca8fc7115a197e21e7d85f2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 79,
+                    "text": "qua điện thoại"
                 }
             ],
-            "question": "",
+            "question": "cảnh giải cứu ngoạn mục trong đêm được thực hiện qua phương tiện gì?",
             "id": "131d215cdf641a6fefca8fc7115a197e21e7d85f3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 94,
+                    "text": "của một cư dân"
                 }
             ],
-            "question": "",
+            "question": " cảnh giải cứu ngoạn mục trong đêm được thực hiện qua điện thoại của  ai?",
             "id": "131d215cdf641a6fefca8fc7115a197e21e7d85f4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 109,
+                    "text": "tòa nhà này"
                 }
             ],
-            "question": "",
+            "question": "tái hiện cảnh giải cứu ngoạn mục trong đêm được thực hiện qua điện thoại của một cư dân ở đâu?",
             "id": "131d215cdf641a6fefca8fc7115a197e21e7d85f5"
         }
     ]

@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 61,
+                    "text": "là cuộc biểu tình tại Pháp"
                 }
             ],
-            "question": "",
+            "question": "Những ngày vừa qua, câu chuyện quốc tế nóng nhất là chuyện gì?",
             "id": "93bf4a8e2ef9ee09baf6f284c64fe4465b93974f1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 89,
+                    "text": "Khải Hoàn Môn"
                 }
             ],
-            "question": "",
+            "question": "mục tiêu của sự giận dữ ở nơi nào?",
             "id": "93bf4a8e2ef9ee09baf6f284c64fe4465b93974f2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 138,
+                    "text": "đại lộ Champs-Elysées"
                 }
             ],
-            "question": "",
+            "question": "Nơi nào thất thủ?",
             "id": "93bf4a8e2ef9ee09baf6f284c64fe4465b93974f3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 239,
+                    "text": "bằng hơi vay và vòi rồng"
                 }
             ],
-            "question": "",
+            "question": "Cảnh sát đối phó bằng hình thức gì?",
             "id": "93bf4a8e2ef9ee09baf6f284c64fe4465b93974f4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 279,
+                    "text": "lần đầu tiên kể từ năm 2005, xe bọc thép xuất hiện trên đường phố"
                 }
             ],
-            "question": "",
+            "question": "Điều đáng chú ý nhất là gì?",
             "id": "93bf4a8e2ef9ee09baf6f284c64fe4465b93974f5"
         }
     ]
