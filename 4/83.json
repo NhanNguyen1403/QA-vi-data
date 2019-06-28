@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 68,
+                    "text": "theo mọi phương"
                 }
             ],
-            "question": "",
+            "question": "Chất lỏng tạo ra áp suất theo đâu?",
             "id": "1d8899334d333709e0eba315d6a69535fad1477c1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 102,
+                    "text": "áp suất chất lỏng càng tăng"
                 }
             ],
-            "question": "",
+            "question": "Xuống càng sâu thì áp suất chất lỏng như thế nào?",
             "id": "1d8899334d333709e0eba315d6a69535fad1477c2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 238,
+                    "text": "vào trọng lượng riêng của chất lỏng"
                 }
             ],
-            "question": "",
+            "question": "Áp suất chất lỏng phụ thuộc vào gì?",
             "id": "1d8899334d333709e0eba315d6a69535fad1477c3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 375,
+                    "text": "Công thức tính áp suất trong chất lỏng p = d.h p: Áp suất của chất lỏng ở độ sâu h d: Trọng lượng riêng của chất lỏn"
                 }
             ],
-            "question": "",
+            "question": "Công thức tính áp suất của chất lỏng?",
             "id": "1d8899334d333709e0eba315d6a69535fad1477c4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 181,
+                    "text": "theo mọi hướng là như nhau"
                 }
             ],
-            "question": "",
+            "question": "Ở cùng một độ sâu thì áp suất chất lỏng tác dụng nhu thế nào?",
             "id": "1d8899334d333709e0eba315d6a69535fad1477c5"
         }
     ]

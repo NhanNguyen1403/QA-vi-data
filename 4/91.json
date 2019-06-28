@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 33,
+                    "text": "Luka Modric"
                 }
             ],
-            "question": "",
+            "question": "Danh hiệu QBV 2018 được trao cho ai?",
             "id": "5679a84105601caa114f567d0d4a0591d515576b1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 79,
+                    "text": "danh hiệu này chỉ thuộc về 2 cá nhân kiệt xuất C.Ronaldo và Lionel Messi"
                 }
             ],
-            "question": "",
+            "question": "Luka Modric đã đặt dấu chấm hết cho 1 thập kỷ danh hiệu của những ai?",
             "id": "5679a84105601caa114f567d0d4a0591d515576b2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 508,
+                    "text": "Florentino Pere"
                 }
             ],
-            "question": "",
+            "question": "  Ai tranh đua QBV với Lionel Messi suốt bao năm qua chứ không phải Cristiano Ronaldo",
             "id": "5679a84105601caa114f567d0d4a0591d515576b3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 870,
+                    "text": "Juventus"
                 }
             ],
-            "question": "",
+            "question": "C.Ronaldo rời Bernabeu để gia nhập vào đội tuyển nào?",
             "id": "5679a84105601caa114f567d0d4a0591d515576b4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1105,
+                    "text": "lần thứ 3 liên tiếp của đội chủ sân Bernabeu"
                 }
             ],
-            "question": "",
+            "question": "C.Ronaldo là một cá nhân nổi bật góp phần cho chức vô địch Champions League lần thứ mấy?" ,
             "id": "5679a84105601caa114f567d0d4a0591d515576b5"
         }
     ]

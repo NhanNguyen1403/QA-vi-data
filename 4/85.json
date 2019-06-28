@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 3,
+                    "text": "Apple Macbook Pro 13-inch 2018"
                 }
             ],
-            "question": "",
+            "question": "Thanh Touch Bar có trong Apple Macbook nào?",
             "id": "d98cbd697e67717a727d678ddd4b0894570c0d581"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 72,
+                    "text": "Steve Jobs"
                 }
             ],
-            "question": "",
+            "question": "Ai là người khiến khán giả không khỏi ngạc nhiện khi trình làng Macbook?",
             "id": "d98cbd697e67717a727d678ddd4b0894570c0d582"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 215,
+                    "text": "siêu mỏng, siêu nhẹ. Với cân nặng chỉ 1.37kg và số đo gần 14.9mm tại điểm dày nhất"
                 }
             ],
-            "question": "",
+            "question": "Apple đã đặt ra tiêu chuấn gì cho laptop?",
             "id": "d98cbd697e67717a727d678ddd4b0894570c0d583"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 366,
+                    "text": "một dải màn hình hẹp - một bổ sung mới đặt các điều khiển có thể thay đổi phụ thuộc vào chương trình bạn sử dụng, cho phép bạn điều chỉnh cài đặt, thay đổi phông, cài đặt màu sắc và nhiều hơn thế với một cái chạm nhanh bằng ngón tay"
                 }
             ],
-            "question": "",
+            "question": "Touch Bar có tính năng gì?",
             "id": "d98cbd697e67717a727d678ddd4b0894570c0d584"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 783,
+                    "text": "Máy có kích thước 15.6 inch nặng 1.97kg và mỏng khoảng 1.7 cm (phiên bản 4K)"
                 }
             ],
-            "question": "",
+            "question": " Dell XPS 15 2 trong 1 có kích thước và cân nặng bao nhiêu?",
             "id": "d98cbd697e67717a727d678ddd4b0894570c0d585"
         }
     ]

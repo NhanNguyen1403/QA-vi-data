@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 91,
+                    "text": " hơn 4,77 triệu lượt địa chỉ IP Việt Nam nằm trong các mạng máy tính nhiễm virus (botnet)"
                 }
             ],
-            "question": "",
+            "question": "Theo thống kê của Cục An toàn thông tin, Bộ Thông tin và Truyền thông thời gian qua đã có bao nhiêu lượt địa chỉ IP Việt Nam nằm trong các mạng máy tính nhiễm virus?",
             "id": "66c6002f8c80996347cf78cfc0e9c36b5b45b92e1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 197,
+                    "text": "có đến 1020 trang web nhiễm virus đang thu thập thông tin cá nhân người dùng Việt Nam"
                 }
             ],
-            "question": "",
+            "question": "Đáng lo ngại điều gì?",
             "id": "66c6002f8c80996347cf78cfc0e9c36b5b45b92e2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 350,
+                    "text": "lên tới 12.685 địa chỉ"
                 }
             ],
-            "question": "",
+            "question": "địa chỉ IP của Việt Nam phát tán thư rác đi các nước đã lên tới bao nhiêu?",
             "id": "66c6002f8c80996347cf78cfc0e9c36b5b45b92e3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 478,
+                    "text": "xu hướng tấn công mới hiện nay nhằm các mục đích như nghe lén thông tin, giả mạo thông tin, tấn công tài chính, đánh cắp dữ liệu, tấn công thiết bị khác"
                 }
             ],
-            "question": "",
+            "question": "Theo thống kê thiết bị di động đang là mục tiêu của việc gì?",
             "id": "66c6002f8c80996347cf78cfc0e9c36b5b45b92e4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 674,
+                    "text": "Việt Nam đang dẫn đầu Đông Nam Á về tấn công mạng với hơn 86 triệu email có nội dung đe dọa được phát hiện trong nửa đầu năm 2018. Việt Nam nằm trong số 20 nước bị nhiễm mã độc tống tiền nhiều nhất"
                 }
             ],
-            "question": "",
+            "question": "Hãng bảo mật Trend Micro công bố gì?",
             "id": "66c6002f8c80996347cf78cfc0e9c36b5b45b92e5"
         }
     ]

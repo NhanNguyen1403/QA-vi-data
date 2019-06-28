@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 59,
+                    "text": "thuộc Campuchia"
                 }
             ],
-            "question": "",
+            "question": "sông Bình Di, huyện An Phú, tỉnh An Giang bờ bên kia thuộc nước nào?",
             "id": "fc2d48992afca7157d64031df4caa60c7aebc3ca1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 143,
+                    "text": "nay hàng loạt vựa phế liệu đã mọc lên. Giấy carton, sắt… được tập kết về đây bằng đường thủy và đường bộ"
                 }
             ],
-            "question": "",
+            "question": "Hiện nay sự việc gì đang xảy ra ở đây?",
             "id": "fc2d48992afca7157d64031df4caa60c7aebc3ca2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 397,
+                    "text": "ban hành chỉ thị cấm nhập khẩu phế liệu qua đường sắt và đường bộ"
                 }
             ],
-            "question": "",
+            "question": "Theo Cục Hải quan tỉnh An Giang từ Chính phủ đã ban hành gì? ?",
             "id": "fc2d48992afca7157d64031df4caa60c7aebc3ca3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start":1092,
+                    "text": "tăng cường những biện pháp ngăn chặn phế liệu nhập lậu. Một số đối tượng vận chuyển đã bị bắt. Tang vật đã có nhưng việc xử lý gặp nhiều khó khăn, thậm chí một số vụ không xử lý được"
                 }
             ],
-            "question": "",
+            "question": "Từ tháng 10 đến nay ngành chức năng tỉnh An Giang đã xử lý như thế nào? ",
             "id": "fc2d48992afca7157d64031df4caa60c7aebc3ca4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1321,
+                    "text": "158 tổ chức có hành vi nhập khẩu phế liệu nhưng lại không có giấy xác nhận đủ tiêu chuẩn nhập khẩu"
                 }
             ],
-            "question": "",
+            "question": " Cơ quan Hải quan vừa xác định có bao nhiêu tổ chức có hành vi nhập khẩu phế liệu?",
             "id": "fc2d48992afca7157d64031df4caa60c7aebc3ca5"
         }
     ]

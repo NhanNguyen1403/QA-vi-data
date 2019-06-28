@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 33,
+                    "text": "Goldman Sachs"
                 }
             ],
-            "question": "",
+            "question": "Hiện ngân hàng Morgan Stanley và ngân hàng nào đang chạy đua giành vị trí đầu tư thương  vụ IPO Uber?",
             "id": "71a1f37b5756dc4852bb264959f17ec1e5b100dd1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 83,
+                    "text": "vị trí tư vấn chính cho thương vụ IPO Uber"
                 }
             ],
-            "question": "",
+            "question": "ngân hàng Morgan Stanley và Goldman Sachs đang chạy đua quyết liệt để giành vị trí gì?",
             "id": "71a1f37b5756dc4852bb264959f17ec1e5b100dd2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 179,
+                    "text": "Dara Khosrowshahi"
                 }
             ],
-            "question": "",
+            "question": " CEO mới của Uber là ai?",
             "id": "71a1f37b5756dc4852bb264959f17ec1e5b100dd3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 216,
+                    "text": "nhằm giành lại niềm tin của nhà đầu tư, tài xế và hành khách, trong bối cảnh người tiêu dùng có thể lựa chọn giữa ngày càng nhiều ứng dụng gọi xe trên điện thoại thông minh"
                 }
             ],
-            "question": "",
+            "question": " CEO mới của Uber nhiều nỗ lực nhằm điều gì? ",
             "id": "71a1f37b5756dc4852bb264959f17ec1e5b100dd4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 436,
+                    "text": "tiến vào thị trường giao hàng thực phẩm bằng thương vụ mua lại Deliveroo"
                 }
             ],
-            "question": "",
+            "question": "Hãng xe công nghệ Uber đang nhăm nhe điều gì?",
             "id": "71a1f37b5756dc4852bb264959f17ec1e5b100dd5"
         }
     ]

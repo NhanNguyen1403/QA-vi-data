@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 55,
+                    "text": "thành điện thoại thông minh"
                 }
             ],
-            "question": "",
+            "question": "FlexPai có thể chuyển máy tính bẳng thành gì?",
             "id": "113a230217151be5f48342de8745779f93deb3301"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 83,
+                    "text": "chỉ bằng cách gập lại như quyển sách"
                 }
             ],
-            "question": "",
+            "question": "Bằng cách gì?",
             "id": "113a230217151be5f48342de8745779f93deb3302"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 121,
+                    "text": "Màn hình kép"
                 }
             ],
-            "question": "",
+            "question": "Điều gì làm điện thoại FlexPai đem tới trải nghiệm thú vị?",
             "id": "113a230217151be5f48342de8745779f93deb3303"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 277,
+                    "text": "trên mạng"
                 }
             ],
-            "question": "",
+            "question": "Khách hàng có thể đặt hàng FlexPai trước ở đâu?",
             "id": "113a230217151be5f48342de8745779f93deb3304"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 317,
+                    "text": "là 1.300 USD (khoảng 30 triệu đồng)"
                 }
             ],
-            "question": "",
+            "question": "Giá của chiếc điện thoại này bao nhiêu?",
             "id": "113a230217151be5f48342de8745779f93deb3305"
         }
     ]

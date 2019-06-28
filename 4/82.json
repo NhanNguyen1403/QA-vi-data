@@ -5,50 +5,50 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": ""
+                    "text": "Đấu bò tót"
                 }
             ],
-            "question": "",
+            "question": "lễ hội nào lâu đời và biểu tượng của Tây Ban Nha? ",
             "id": "d94de7be3274654aed099c5586004f95279cedbe1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 118,
+                    "text": "xuống đường biểu"
                 }
             ],
-            "question": "",
+            "question": "Mới đây hàng nghìn người đã làm gì ở thủ đô Madrid?",
             "id": "d94de7be3274654aed099c5586004f95279cedbe2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 163,
+                    "text": "kêu gọi lệnh cấm cho lễ hội này"
                 }
             ],
-            "question": "",
+            "question": "Biểu tình nhằm mục đích gì?",
             "id": "d94de7be3274654aed099c5586004f95279cedbe3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 225,
+                    "text": "cấm người dân tổ chức lễ hội đấu bò tót"
                 }
             ],
-            "question": "",
+            "question": "Nhiều địa phương đã làm gì?",
             "id": "d94de7be3274654aed099c5586004f95279cedbe4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 337,
+                    "text": "thì lễ hội này đã thiếu nhân đạo đối với loài bò tót"
                 }
             ],
-            "question": "",
+            "question": "Nhiều ý kiến cho rằng, ngoài việc có thể gây thương vong cho con người và còn điều gì nữa?",
             "id": "d94de7be3274654aed099c5586004f95279cedbe5"
         }
     ]

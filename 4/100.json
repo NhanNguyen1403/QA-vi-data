@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 22,
+                    "text": "khoảng 450 người"
                 }
             ],
-            "question": "",
+            "question": "Cảnh sát Bỉ cho biết bao nhiêu người bị bắt giữ?",
             "id": "c1dd52f409f49ff73481490f80da8bb4b0183f221"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 53,
+                    "text": "tại thủ đô Brussels của nước này"
                 }
             ],
-            "question": "",
+            "question": "Cảnh sát Bỉ cho biết bao nhiêu người bị bắt giữ tại đâu?",
             "id": "c1dd52f409f49ff73481490f80da8bb4b0183f222"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 141,
+                    "text": "đang diễn ra ở nước láng giềng Pháp"
                 }
             ],
-            "question": "",
+            "question": "Cuộc biểu tình áo vàng diễn ra ở đâu?",
             "id": "c1dd52f409f49ff73481490f80da8bb4b0183f223"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 222,
+                    "text" : "hai xe cảnh sát đã bị phóng hỏa"
                 }
             ],
-            "question": "",
+            "question": " Sau khi cuộc biểu tình biến thành bạo lực cảnh sát đã làm gì?",
             "id": "c1dd52f409f49ff73481490f80da8bb4b0183f224"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 291,
+                    "text": "đã chặn một đường cao tốc nối Brussels với thị trấn Rekkem, gần biên giới Pháp"
                 }
             ],
-            "question": "",
+            "question": "Những thanh niên tham gia biểu tình đã làm gì?",
             "id": "c1dd52f409f49ff73481490f80da8bb4b0183f225"
         }
     ]
