@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 22,
+                    "text": "vực sâu ven Quốc lộ 55 đoạn qua thôn Đaguri, xã Đa Mi, huyện Hàm Thuận Bắc, tỉnh Bình Thuận"
                 }
             ],
-            "question": "",
+            "question": "Xác nạn nhân bị vứt ở đâu?",
             "id": "f7c57df6c76897695a0df67c97d09de8fb2bf03a1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 135,
+                    "text": "lực lượng chức năng khám nghiệm hiện trường"
                 }
             ],
-            "question": "",
+            "question": "Người dân theo dõi gì?",
             "id": "f7c57df6c76897695a0df67c97d09de8fb2bf03a2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 225,
+                    "text": "2 nghi can liên quan đến một vụ án mạng"
                 }
             ],
-            "question": "",
+            "question": "Công an thành phố Bảo Lộc bắt được mấy nghi can?",
             "id": "f7c57df6c76897695a0df67c97d09de8fb2bf03a3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 295,
+                    "text": "nhận đánh chết nạn nhân 31 tuổi do ghen tuông vào tối ngày 6/12 tại thành phố Bảo Lộc, sau đó cùng đồng phạm chở xác đi vứt tại Bình Thuận."
                 }
             ],
-            "question": "",
+            "question": "Nghi can khai nhận gì?",
             "id": "f7c57df6c76897695a0df67c97d09de8fb2bf03a4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 646,
+                    "text": "dưới giếng hoang ở giữa cánh đồng vừa bị Công an huyện Krông Pắk, tỉnh Đắk Lắk tạm giữ hình sự."
                 }
             ],
-            "question": "",
+            "question": "Một đối tượng vô cớ giết chết người bạn của mẹ mình và đem giấu xác ở đâu?",
             "id": "f7c57df6c76897695a0df67c97d09de8fb2bf03a5"
         }
     ]

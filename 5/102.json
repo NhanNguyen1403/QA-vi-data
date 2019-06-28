@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 19,
+                    "text": "không ngần ngại chăm sóc, cưu mang và tìm cách học hỏi để giúp đỡ những bệnh nhân đang bị cả xã hội xa lánh ấy."
                 }
             ],
-            "question": "",
+            "question": "Cô Nguyễn Thị Xuân đã làm gì?",
             "id": "441b7288d6e143ba9cb8495dc6b72ba9b402a5551"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 171,
+                    "text": "cô Xuân vẫn nhất quyết bỏ lại mọi thứ để đến trại phong Quả Cảm, Bắc Ninh."
                 }
             ],
-            "question": "",
+            "question": "Mặc sự can ngăn kịch liệt của gia đình cô đã làm gì?",
             "id": "441b7288d6e143ba9cb8495dc6b72ba9b402a5552"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 374,
+                    "text": "được cử đi học lớp y tá ở trại phong Quy Hòa (Bình Định) "
                 }
             ],
-            "question": "",
+            "question": "Sau 2 năm tình nguyện ở lại chăm sóc những bệnh nhân tại trại phong Quả Cảm cô được cử đi đâu? ",
             "id": "441b7288d6e143ba9cb8495dc6b72ba9b402a5553"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 431,
+                    "text": "để có kiến thức chăm sóc tốt hơn cho những bệnh nhân phong"
                 }
             ],
-            "question": "",
+            "question": "cử đi học lớp y tá ở trại phong Quy Hòa để làm gì?",
             "id": "441b7288d6e143ba9cb8495dc6b72ba9b402a5554"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 494,
+                    "text": "hiện là Điều dưỡng viên"
                 }
             ],
-            "question": "",
+            "question": "Cô hiện đang làm gì ở Bệnh viện Phong và Da liễu Bắc Ninh?",
             "id": "441b7288d6e143ba9cb8495dc6b72ba9b402a5555"
         }
     ]
