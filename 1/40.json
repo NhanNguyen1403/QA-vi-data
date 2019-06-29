@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1587,
+                    "text": "một đợt mưa lớn"
                 }
             ],
-            "question": "",
+            "question": "Miền Trung đang trong gì?",
             "id": "b7ae971aaff631fa5810785d7110bbee94cd7d8a1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1333,
+                    "text": "cấp 6"
                 }
             ],
-            "question": "",
+            "question": "Quảng Ngãi gió mạnh lên cấp mấy?",
             "id": "b7ae971aaff631fa5810785d7110bbee94cd7d8a2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1669,
+                    "text": "giảm nhẹ"
                 }
             ],
-            "question": "",
+            "question": "mặc dù cường độ mưa có thể gì?",
             "id": "b7ae971aaff631fa5810785d7110bbee94cd7d8a3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 469,
+                    "text": "nhiệt độ"
                 }
             ],
-            "question": "",
+            "question": "Giữa các vùng sẽ có sự phân hóa lớn về gì?",
             "id": "b7ae971aaff631fa5810785d7110bbee94cd7d8a4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 822,
+                    "text": "sự thay đổi"
                 }
             ],
-            "question": "",
+            "question": "Tại khu vực Tây Nguyên, thời tiết ít có gì?",
             "id": "b7ae971aaff631fa5810785d7110bbee94cd7d8a5"
         }
     ]

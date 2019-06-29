@@ -1,54 +1,54 @@
 {
-    "context": "Đội VP9 của Hà Nội đoạt giải thưởng này. Vậy camera giám sát ứng dụng công nghệ trí tuệ nhân tạo có những điểm gì đặc biệt, khác với camera giám sát thông thường? Theo tình huống thử nghiệm do các kỹ sư tin học của nhóm VP9 thực hiện, một kẻ gian đi vào cửa hàng có gắn camera giám sát tích hợp nhận dạng khuôn mặt. Trước đó, hình ảnh kẻ gian đã được lưu trữ vào camera giám sát. Khi kẻ gian đi vào bất kể cửa hàng nào có gắn camera nhận dạng khuôn mặt, hình ảnh kẻ gian sẽ được báo ngay cho người quản lý cửa hàng. Nếu người quản lý đang đi ngoài đường, camera giám sát có thể gửi thông báo đến điện thoại di động. Với những ngày mua sắm cao điểm như Black Friday diễn ra cách đây ít ngày, có những cửa hàng, số lượng khách mua lên đến hàng nghìn lượt người. Camera giám sát ứng dụng trí tuệ nhân tạo còn có tác dụng tính được lưu lượng khách hàng cao hay thấp tại mỗi thời điểm cụ thể trong ngày, từ đó giúp người quản lý bố trí được lượng nhân viên phù hợp, tránh tình trạng để khách xếp hàng thanh toán, hay không chăm sóc khách hàng chu đáo. Hiện đã có khoảng 30.000 camera do VP9 triển khai tại 4.000 điểm trên toàn quốc. Bắt đầu nghiên cứu công nghệ camera giám sát tích hợp nhận dạng khuôn mặt được 3 năm nay, một trong những khó khăn mà các kỹ sư phải xử lý là tình trạng ngược sáng ở camera. Thông thường, nếu camera lắp ở độ cao khoảng dưới 10m, với độ cao gấp 3 lần, lắp ở các biển quảng cáo, các kỹ sư sẽ phải tính đến việc xử lý độ rung lắc do gió gây nên. Tại Cuộc thi khởi nghiệp sáng tạo quốc gia (Techfest 2018) mới đây, Ban giám khảo đã đánh giá cao khả năng ứng dụng thực tế của giải pháp camera giám sát tích hợp trí tuệ nhân tạo. Giải nhì tại cuộc thi là động lực để nhóm ngày càng hoàn thiện sản phẩm hơn nữa trong thời gian tới. Với giá thành bằng 1/3 so với nhập ngoại và chất lượng tương đương, sản phẩm camera giám sát ứng dụng trí tuệ nhân tạo được Ban giám khảo đánh giá cao về ý nghĩa kinh tế xã hội. Trong thời gian tới, có tiềm năng ứng dụng mở rộng sang cả nhà thông minh, giao thông thông minh, đặc biệt trong lĩnh vực an ninh quốc phòng. VTV.vn - Cuộc thi dành cho cộng đồng an ninh mạng/hacker mũ trắng toàn cầu được tổ chức nhằm đưa ra những giải pháp bảo mật thông tin cho người dùng các thiết bị kết nối Internet.",
+    "context": "Đội VP9 của Hà Nội đoạt giải thưởng này. Vậy camera giám sát ứng dụng công nghệ trí tuệ nhân tạo có những điểm gì đặc biệt, khác với camera giám sát thông thường? Theo tình huống thử nghiệm do các kỹ sư tin học của nhóm VP9 thực hiện, một kẻ gian đi vào cửa hàng có gắn camera giám sát tích hợp nhận dạng khuôn mặt. Trước đó, hình ảnh kẻ gian đã được lưu trữ vào camera giám sát.",
     "qas": [
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 8,
+                    "text": "của Hà Nội"
                 }
             ],
-            "question": "",
+            "question": "Đội VP9 của ai đoạt giải thưởng này?",
             "id": "a076596ddbce56424ca524e6cf7838b70f760a3f1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 19,
+                    "text": "đoạt giải thưởng"
                 }
             ],
-            "question": "",
+            "question": "Đội VP9 của Hà Nội đoạt gì?",
             "id": "a076596ddbce56424ca524e6cf7838b70f760a3f2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 61,
+                    "text": "ứng dụng công nghệ"
                 }
             ],
-            "question": "",
+            "question": "Vậy camera giám sát ứng dụng gì?",
             "id": "a076596ddbce56424ca524e6cf7838b70f760a3f3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 70,
+                    "text": "công nghệ trí tuệ nhân tạo"
                 }
             ],
-            "question": "",
+            "question": "Vậy camera giám sát ứng dụng công nghệ gì?",
             "id": "a076596ddbce56424ca524e6cf7838b70f760a3f4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 343,
+                    "text": "đã được lưu trữ"
                 }
             ],
-            "question": "",
+            "question": "Trước đó, hình ảnh kẻ gian đã được gì?",
             "id": "a076596ddbce56424ca524e6cf7838b70f760a3f5"
         }
     ]

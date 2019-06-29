@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 15,
+                    "text": "năm 2015"
                 }
             ],
-            "question": "",
+            "question": "So với cùng kỳ năm nào?",
             "id": "cb63c6c8f594714403ca797392496341d8003a111"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 47,
+                    "text": "gần 10%"
                 }
             ],
-            "question": "",
+            "question": "So với cùng kỳ năm 2015, xuất khẩu tôm đã tăng bao nhiêu?",
             "id": "cb63c6c8f594714403ca797392496341d8003a112"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 461,
+                    "text": "gần 7%"
                 }
             ],
-            "question": "",
+            "question": "kim ngạch xuất khẩu chung của cả nước mới chỉ tăng bao nhiêu",
             "id": "cb63c6c8f594714403ca797392496341d8003a113"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 51,
+                    "text": "10%"
                 }
             ],
-            "question": "",
+            "question": "So với cùng kỳ năm 2015, xuất khẩu tôm đã tăng bao nhiêu?",
             "id": "cb63c6c8f594714403ca797392496341d8003a114"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1138,
+                    "text": "các FTA"
                 }
             ],
-            "question": "",
+            "question": "Cùng với đó, nhiều cam kết có lợi cho Việt Nam từ đâu?",
             "id": "cb63c6c8f594714403ca797392496341d8003a115"
         }
     ]

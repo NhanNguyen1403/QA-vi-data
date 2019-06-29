@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 15,
+                    "text": "sáng tạo"
                 }
             ],
-            "question": "",
+            "question": "Trong mục tiêu gì?",
             "id": "0b786253dc5d8a1769176b75bf418d2cb83723d61"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 105,
+                    "text": "MDIS"
                 }
             ],
-            "question": "",
+            "question": "Trong mục tiêu sáng tạo hơn nữa trong việc mở rộng chương trình giảng dạy dựa trên kỹ năng toàn diện của ai?",
             "id": "0b786253dc5d8a1769176b75bf418d2cb83723d62"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 111,
+                    "text": "ngày 10/10"
                 }
             ],
-            "question": "",
+            "question": "Trong mục tiêu sáng tạo hơn nữa trong việc mở rộng chương trình giảng dạy dựa trên kỹ năng toàn diện của MDIS, ngày mấy?",
             "id": "0b786253dc5d8a1769176b75bf418d2cb83723d63"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 157,
+                    "text": "Quốc tế Quản lý và Thiết kế trang sức"
                 }
             ],
-            "question": "",
+            "question": "thông qua việc hợp tác với Trường nào?",
             "id": "0b786253dc5d8a1769176b75bf418d2cb83723d64"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 261,
+                    "text": "thiết kế trang sức"
                 }
             ],
-            "question": "",
+            "question": "Học Viện Phát triển Quản lý Singapore (MDIS) đã bổ sung gì?",
             "id": "0b786253dc5d8a1769176b75bf418d2cb83723d65"
         }
     ]

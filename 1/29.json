@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 49,
+                    "text": "chia nhóm"
                 }
             ],
-            "question": "",
+            "question": "các trường đại học đã làm gì",
             "id": "bd9f7f486df4da23b870a5d56bccaf9cf127277a1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 144,
+                    "text": "Bộ GD&ĐT"
                 }
             ],
-            "question": "",
+            "question": "mỗi ngày đều gửi dữ liệu về đâu?",
             "id": "bd9f7f486df4da23b870a5d56bccaf9cf127277a2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 153,
+                    "text": "để chạy lọc ảo chung cho cả nước"
                 }
             ],
-            "question": "",
+            "question": "gửi dữ liệu về Bộ GD&ĐT để làm gì?",
             "id": "bd9f7f486df4da23b870a5d56bccaf9cf127277a3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 69,
+                    "text": "chạy phần mềm lọc ảo"
                 }
             ],
-            "question": "",
+            "question": "các trường đại học đã chia nhóm tiến hành làm gì?",
             "id": "bd9f7f486df4da23b870a5d56bccaf9cf127277a4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 93,
+                    "text": "xác định điểm chuẩn"
                 }
             ],
-            "question": "",
+            "question": "các trường đại học đã chia nhóm tiến hành chạy phần mềm lọc ảo để làm gì",
             "id": "bd9f7f486df4da23b870a5d56bccaf9cf127277a5"
         }
     ]

@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 25,
+                    "text": "con bò"
                 }
             ],
-            "question": "",
+            "question": "Tháng 11/2013, hàng loạt con gì?",
             "id": "4c5318eee8d16ee83a752a82580d8943f173d1421"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 32,
+                    "text": "được đầu tư"
                 }
             ],
-            "question": "",
+            "question": "hàng loạt con bò được gì?",
             "id": "4c5318eee8d16ee83a752a82580d8943f173d1422"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 44,
+                    "text": "theo chương trình 30a"
                 }
             ],
-            "question": "",
+            "question": "Tháng 11/2013, hàng loạt con bò được đầu tư theo gì?",
             "id": "4c5318eee8d16ee83a752a82580d8943f173d1423"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 68,
+                    "text": "Mường La"
                 }
             ],
-            "question": "",
+            "question": "hàng loạt con bò được đầu tư theo chương trình 30a ở đâu?",
             "id": "4c5318eee8d16ee83a752a82580d8943f173d1424"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 85,
+                    "text": "vì bị đau mắt"
                 }
             ],
-            "question": "",
+            "question": "hàng loạt con bò được đầu tư theo chương trình 30a ở Mường La bị chết vì sao?",
             "id": "4c5318eee8d16ee83a752a82580d8943f173d1425"
         }
     ]

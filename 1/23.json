@@ -1,54 +1,54 @@
 {
-    "context": " 100 % ở lại West Ham  là những gì mà Payet khẳng định khi biết rằng có một số CLB đang để mắt tới anh. Cầu thủ bất ngờ vụt sáng tại EURO 2016 này thậm chí còn được cho rằng đã lọt vào mắt xanh của Real Madrid. Mặc dù vậy, hợp đồng của Payet với West Ham có thời hạn tới năm 2021 và anh không có ý định rời đi.  Tôi đã nghe về những thông tin cho rằng tôi đang được chú ý nhưng tôi không bận tâm lắm. Tôi yêu West Ham. Chúng tôi đã có mùa giải tuyệt vời và tôi rất nóng lòng được chơi ở SVĐ Olympic. Tôi 100% sẽ ở lại West Ham. Tôi có thể nói điều này với người hâm mộ Hammers. Payet đã ghi được 9 bàn thắng và 12 đường kiến tạo tại Premier League mùa giải trước, trước khi tỏa sáng tại EURO 2016, góp phần giúp ĐT Pháp vào chung kết giải đấu.",
+    "context": "100% ở lại West Ham là những gì mà Payet khẳng định khi biết rằng có một số CLB đang để mắt tới anh. Cầu thủ bất ngờ vụt sáng tại EURO 2016 này thậm chí còn được cho rằng đã lọt vào mắt xanh của Real Madrid. Mặc dù vậy, hợp đồng của Payet với West Ham có thời hạn tới năm 2021 và anh không có ý định rời đi. Tôi đã nghe về những thông tin cho rằng tôi đang được chú ý nhưng tôi không bận tâm lắm. Tôi yêu West Ham. Chúng tôi đã có mùa giải tuyệt vời và tôi rất nóng lòng được chơi ở SVĐ Olympic. Tôi 100% sẽ ở lại West Ham. Tôi có thể nói điều này với người hâm mộ Hammers. Payet đã ghi được 9 bàn thắng và 12 đường kiến tạo tại Premier League mùa giải trước, trước khi tỏa sáng tại EURO 2016, góp phần giúp ĐT Pháp vào chung kết giải đấu.",
     "qas": [
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 130,
+                    "text": "EURO 2016"
                 }
             ],
-            "question": "",
+            "question": "Cầu thủ bất ngờ vụt sáng tại đâu?",
             "id": "2d8d44b8cd84ec150515f60cc80f62e4755bf8531"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 195,
+                    "text": "Real Madrid"
                 }
             ],
-            "question": "",
+            "question": "Đã lọt vào mắt xanh của ai?",
             "id": "2d8d44b8cd84ec150515f60cc80f62e4755bf8532"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 272,
+                    "text": "2021"
                 }
             ],
-            "question": "",
+            "question": "Mặc dù vậy, hợp đồng của Payet với West Ham có thời hạn tới năm nào?",
             "id": "2d8d44b8cd84ec150515f60cc80f62e4755bf8533"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 483,
+                    "text": "SVĐ Olympic"
                 }
             ],
-            "question": "",
+            "question": "tôi rất nóng lòng được chơi ở đâu?",
             "id": "2d8d44b8cd84ec150515f60cc80f62e4755bf8534"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 592,
+                    "text": "9"
                 }
             ],
-            "question": "",
+            "question": "Payet đã ghi được mấy bàn thắng?",
             "id": "2d8d44b8cd84ec150515f60cc80f62e4755bf8535"
         }
     ]

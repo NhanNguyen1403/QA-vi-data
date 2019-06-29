@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 19,
+                    "text": "3 bộ quản lý"
                 }
             ],
-            "question": "",
+            "question": "Một hộp sữa có gì?",
             "id": "ed321104cb642a4a205c24585e61856c52482ab41"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 32,
+                    "text": "về an toàn thực phẩm"
                 }
             ],
-            "question": "",
+            "question": "Một hộp sữa có tới 3 bộ quản lý về gì?",
             "id": "ed321104cb642a4a205c24585e61856c52482ab42"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 135,
+                    "text": "gánh nặng"
                 }
             ],
-            "question": "",
+            "question": "Sự chồng chéo và gì?",
             "id": "ed321104cb642a4a205c24585e61856c52482ab43"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 288,
+                    "text": "Bộ Y tế"
                 }
             ],
-            "question": "",
+            "question": "Đã có xác nhận phù hợp quy định an toàn thực phẩm của ai?",
             "id": "ed321104cb642a4a205c24585e61856c52482ab44"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 788,
+                    "text": "243"
                 }
             ],
-            "question": "",
+            "question": "Hiện có mấy ngành nghề kinh doanh?",
             "id": "ed321104cb642a4a205c24585e61856c52482ab45"
         }
     ]
