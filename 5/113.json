@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 15,
+                    "text": "từ Tỉnh đoàn Nghệ An"
                 }
             ],
-            "question": "",
+            "question": "thông tin xuất phát từ đâu?",
             "id": "cd44c183de576df9dcb230515ffa3827366029421"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 100,
+                    "text": "đã ký văn bản đồng ý về việc xin chủ trương tổ chức xem trận thi đấu chung kết bóng đá AFF Suzuki Cup 2018"
                 }
             ],
-            "question": "",
+            "question": "ông Lê Minh Thông đã làm gì?",
             "id": "cd44c183de576df9dcb230515ffa3827366029422"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 235,
+                    "text": "màn hình 70m² tại Quảng tường Hồ Chí Minh"
                 }
             ],
-            "question": "",
+            "question": "BTC bố trí điều gì?",
             "id": "cd44c183de576df9dcb230515ffa3827366029423"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 359,
+                    "text": "sẽ thu hút hơn 10.000 cổ động viên đến cổ vũ, tạo nên không khí sôi động dõi theo ĐT Việt Nam thi đấu"
                 }
             ],
-            "question": "",
+            "question": "Dự kiến sự kiện này sẽ mang lại điều gì?",
             "id": "cd44c183de576df9dcb230515ffa3827366029424"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 641,
+                    "text": "Sân vận động Quốc gia Mỹ Đình"
                 }
             ],
-            "question": "",
+            "question": "Trận chung kết lượt về diễn ra ở đâu?",
             "id": "cd44c183de576df9dcb230515ffa3827366029425"
         }
     ]

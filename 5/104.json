@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 114,
+                    "text": "Sở Giáo dục và Đào tạo Hà Nội phối hợp với công ty Vinamilk"
                 }
             ],
-            "question": "",
+            "question": "Chương trình sửa học đường do ai tổ chức?",
             "id": "bd5b565f90ae612fb68a6060e6831053e3a35d351"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 368,
+                    "text": "cam kết sẽ không có sữa cận date trong chương trình Sữa học đường"
                 }
             ],
-            "question": "",
+            "question": "đại diện chương trình cam kết điều gì?",
             "id": "bd5b565f90ae612fb68a6060e6831053e3a35d352"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 656,
+                    "text": "được thực hiện cho 1.747 trường học"
                 }
             ],
-            "question": "",
+            "question": "Chương trình này được thực hiện ở bao nhiêu trường?",
             "id": "bd5b565f90ae612fb68a6060e6831053e3a35d353"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 718,
+                    "text": "gần 10.000 đại biểu tham gia"
                 }
             ],
-            "question": "",
+            "question": "Có bao nhiêu đại biểu tham gia?",
             "id": "bd5b565f90ae612fb68a6060e6831053e3a35d354"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 842,
+                    "text": "mức hỗ trợ 23%"
                 }
             ],
-            "question": "",
+            "question": "Vinamilk trúng thầu với phí hổ trợ bao nhiêu?",
             "id": "bd5b565f90ae612fb68a6060e6831053e3a35d355"
         }
     ]

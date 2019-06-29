@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 19,
+                    "text": "Một hệ thống bán lẻ trong nước đã tăng thêm một sản phẩm mới trong dải sản phẩm của Samsung với tên gọi là Galaxy A8s"
                 }
             ],
-            "question": "",
+            "question": "Samsung Galaxy A8s là gì?",
             "id": "72c441dc891d57e1224e2a66da8673f652163fe01"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 294,
+                    "text": "sẽ ra mắt sản phẩm mới sở hữu màn hình Infinity-O với một lỗ đục nhỏ trong màn hình vào ngày 10/12 tới đây"
                 }
             ],
-            "question": "",
+            "question": "Samsung đã xác nhận điều gì?",
             "id": "72c441dc891d57e1224e2a66da8673f652163fe02"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 430,
+                    "text": "cho thấy, màn hình có một góc trái bị đục lỗ, nơi chứa camera"
                 }
             ],
-            "question": "",
+            "question": "Poster có điều gì?",
             "id": "72c441dc891d57e1224e2a66da8673f652163fe03"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 521,
+                    "text": "thêm dòng chữ Real Galaxy khá lớn để nhấn mạnh thiết kế đột phá của công nghệ này"
                 }
             ],
-            "question": "",
+            "question": "Samsung nhấn mạnh thiết kế như thế nào?",
             "id": "72c441dc891d57e1224e2a66da8673f652163fe04"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 648,
+                    "text": "sẽ trang bị con chip Snapdragon 710, 6GB RAM, dung lượng 128GB và hệ thống 3 camera ở mặt sau"
                 }
             ],
-            "question": "",
+            "question": "thông số của Galaxy A8s thế nào?",
             "id": "72c441dc891d57e1224e2a66da8673f652163fe05"
         }
     ]

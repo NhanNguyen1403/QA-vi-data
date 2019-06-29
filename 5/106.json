@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 43,
+                    "text": "đã vi phạm Điều 21 và 22 của Luật Quyền lợi người tiêu dùng khi khuyến khích người dùng đăng ký tài khoản nhưng không thông báo đầy đủ cho họ ngay từ thời điểm đăng ký rằng những thông tin cá nhân của họ sẽ được thu thập để phục vụ mục đích thương mại"
                 }
             ],
-            "question": "",
+            "question": "Facebook đã vi phạm điều gì?",
             "id": "8cf8d194a1845513a7903a33118000f17355896f1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 561,
+                    "text": "Facebook"
                 }
             ],
-            "question": "",
+            "question": "tâm điểm chú ý do một loạt vụ bê bối liên quan tới dữ liệu cá nhân người dùng là ai?",
             "id": "8cf8d194a1845513a7903a33118000f17355896f2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 787,
+                    "text": "bị phạt 10 triệu Euro"
                 }
             ],
-            "question": "",
+            "question": "Facebook bị phạt bao nhiêu?",
             "id": "8cf8d194a1845513a7903a33118000f17355896f3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 988,
+                    "text": "Facebook đã để công ty truyền thông Cambridge Analytica tiếp cận trái phép dữ liệu của 50 triệu người dùng Mỹ trong chiến dịch bầu cử Tổng thống năm 2016"
                 }
             ],
-            "question": "",
+            "question": "Facebook đã vi phạm như thế nào?",
             "id": "8cf8d194a1845513a7903a33118000f17355896f4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1449,
+                    "text": "kiếm tiền bằng cách thu thập dữ liệu của người dùng và bán chúng lại cho các nhà phát triển ứng dụng, quảng cáo"
                 }
             ],
-            "question": "",
+            "question": "Facebook kiếm tiền như thế nào?",
             "id": "8cf8d194a1845513a7903a33118000f17355896f5"
         }
     ]
