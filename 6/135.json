@@ -14,7 +14,7 @@
         {
             "answers": [
                 {
-                    "answer_start": 460,
+                    "answer_start": 461,
                     "text": "Bà Nguyễn Thúy Anh"
                 }
             ],
@@ -24,7 +24,7 @@
         {
             "answers": [
                 {
-                    "answer_start": 539,
+                    "answer_start": 540,
                     "text": "Bà Nguyễn Thị Kim Tiến"
                 }
             ],
@@ -38,13 +38,13 @@
                     "text": "Y tế cơ sở"
                 }
             ],
-            "question": "Cái gì giúp người dân tiếp cận dịch vụ khám, chữa bệnh ngay tại địa phương?",
+            "question": "đâu là nơi giúp người dân tiếp cận dịch vụ khám, chữa bệnh ngay tại địa phương?",
             "id": "9832d9fc73a7bdf06dbad487c0d0d68bb248b9d84"
         },
         {
             "answers": [
                 {
-                    "answer_start": 223,
+                    "answer_start": 224,
                     "text": "cơ sở vật chất, trang thiết bị nghèo nàn, chưa đáp ứng được nhu cầu và sự tin tưởng của người dân"
                 }
             ],
