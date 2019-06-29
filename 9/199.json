@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 25,
+                    "text": "châu Âu"
                 }
             ],
-            "question": "",
+            "question": "Trong những năm gần đây, ai đang phải chật vật?",
             "id": "995c97893c92923677c1981a74937594d5e675a91"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 61,
+                    "text": "qua giai đoạn kinh tế tăng trưởng yếu kém"
                 }
             ],
-            "question": "",
+            "question": "Trong những năm gần đây, châu Âu đang phải chật vật vượt qua gì?",
             "id": "995c97893c92923677c1981a74937594d5e675a92"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 256,
+                    "text": "phục hồi"
                 }
             ],
-            "question": "",
+            "question": "Năm nay, tuy kinh tế bắt đầu có dấu hiệu gì?",
             "id": "995c97893c92923677c1981a74937594d5e675a93"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 305,
+                    "text": "lễ Giáng sinh"
                 }
             ],
-            "question": "",
+            "question": "tâm lý tiêu dùng chuẩn bị cho dịp gì?",
             "id": "995c97893c92923677c1981a74937594d5e675a94"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 416,
+                    "text": "mùa giảm giá lớn"
                 }
             ],
-            "question": "",
+            "question": "Dịp Giáng sinh và cuối năm là gì?",
             "id": "995c97893c92923677c1981a74937594d5e675a95"
         }
     ]

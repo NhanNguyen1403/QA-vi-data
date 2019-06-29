@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 14,
+                    "text": "Kaikoura"
                 }
             ],
-            "question": "",
+            "question": "Trận động đất gì?",
             "id": "bf8b66a688f708ede82c59e27a2ab1e59bb937e61"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 49,
+                    "text": "bất thường"
                 }
             ],
-            "question": "",
+            "question": "Trận động đất Kaikoura này cũng được đánh giá là gì?",
             "id": "bf8b66a688f708ede82c59e27a2ab1e59bb937e62"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 71,
+                    "text": "đồng thời 25 đường đứt gãy"
                 }
             ],
-            "question": "",
+            "question": "rận động đất Kaikoura này cũng được đánh giá là bất thường khi gây ra gì?",
             "id": "bf8b66a688f708ede82c59e27a2ab1e59bb937e63"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 81,
+                    "text": "25 đường"
                 }
             ],
-            "question": "",
+            "question": "gây ra đồng thời mấy đường đứt gãy?",
             "id": "bf8b66a688f708ede82c59e27a2ab1e59bb937e64"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 137,
+                    "text": "tháng 11/2016"
                 }
             ],
-            "question": "",
+            "question": "Trận động đất mạnh 7,8 độ richter hồi tháng mấy?",
             "id": "bf8b66a688f708ede82c59e27a2ab1e59bb937e65"
         }
     ]

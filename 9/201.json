@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 24,
+                    "text": "năm 1975"
                 }
             ],
-            "question": "",
+            "question": "Diễn viên Thanh Tú sinh năm nào?",
             "id": "a891005f6db1fbf286bf970c9dfc1921621dbfda1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 51,
+                    "text": "truyền hình"
                 }
             ],
-            "question": "",
+            "question": "Diễn viên Thanh Tú sinh năm 1975, là một diễn viên gì?",
             "id": "a891005f6db1fbf286bf970c9dfc1921621dbfda2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 85,
+                    "text": "khu vực phía Bắc"
                 }
             ],
-            "question": "",
+            "question": "Diễn viên Thanh Tú sinh năm 1975, là một diễn viên truyền hình, sân khấu nổi tiếng ở khu vực nào?",
             "id": "a891005f6db1fbf286bf970c9dfc1921621dbfda3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 140,
+                    "text": "lẳng lơ"
                 }
             ],
-            "question": "",
+            "question": "ô rất thành công với những vai diễn nào?",
             "id": "a891005f6db1fbf286bf970c9dfc1921621dbfda4"
         },
         {
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": ""
+                    "text": "Chạy trốn thanh xuân"
                 }
             ],
-            "question": "",
+            "question": "Sau khi cái gì phát sóng?",
             "id": "a891005f6db1fbf286bf970c9dfc1921621dbfda5"
         }
     ]

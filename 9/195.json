@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 20,
+                    "text": "Phương Anh"
                 }
             ],
-            "question": "",
+            "question": "Ngay từ lần đầu gặp ai?",
             "id": "74ff05cdb010d9e21002a4cf6d5c3ec588a364bb1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 119,
+                    "text": "Kim"
                 }
             ],
-            "question": "",
+            "question": "Khi biết Phương Anh là bạn của ai?",
             "id": "74ff05cdb010d9e21002a4cf6d5c3ec588a364bb2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 165,
+                    "text": "tiếp cận"
                 }
             ],
-            "question": "",
+            "question": "Dũng càng tìm cách để có thể gi?",
             "id": "74ff05cdb010d9e21002a4cf6d5c3ec588a364bb3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 227,
+                    "text": "Sĩ"
                 }
             ],
-            "question": "",
+            "question": "Ngay cả khi biết Phương Anh và ai?",
             "id": "74ff05cdb010d9e21002a4cf6d5c3ec588a364bb4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 969,
+                    "text": "bạn trai của em"
                 }
             ],
-            "question": "",
+            "question": "Anh có cái gì không bằng gì?",
             "id": "74ff05cdb010d9e21002a4cf6d5c3ec588a364bb5"
         }
     ]

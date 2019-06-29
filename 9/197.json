@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 43,
+                    "text": "sóng lớn đánh"
                 }
             ],
-            "question": "",
+            "question": "Hàng chục cây dừa nằm sâu trong bờ biển bị gì?",
             "id": "0d689f0565e449d7c0b467cb72ccea260750bf691"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 103,
+                    "text": "nằm cạnh cống xả"
                 }
             ],
-            "question": "",
+            "question": "Khu vực 2 nhà hàng, quán bar nằm ở đâu?",
             "id": "0d689f0565e449d7c0b467cb72ccea260750bf692"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 208,
+                    "text": "bậc tam cấp"
                 }
             ],
-            "question": "",
+            "question": "Nhiều đồ đạc, bàn ghế, phần mái cùng hệ thống gì?",
             "id": "0d689f0565e449d7c0b467cb72ccea260750bf693"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 549,
+                    "text": "như hiện nay"
                 }
             ],
-            "question": "",
+            "question": "Tuy nhiên, với thời tiết như gì?",
             "id": "0d689f0565e449d7c0b467cb72ccea260750bf694"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 591,
+                    "text": "gặp nhiều khó khăn"
                 }
             ],
-            "question": "",
+            "question": "việc khắc phục hoàn toàn sẽ gì?",
             "id": "0d689f0565e449d7c0b467cb72ccea260750bf695"
         }
     ]

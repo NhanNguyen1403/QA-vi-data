@@ -1,54 +1,54 @@
 {
-    "context": "Hiểu được những khó chịu của người dùng thuê bao trả phí dịch vụ sau sự cố ngừng hoạt động, Google đã có chính sách đền bù cho khách hàng của mình. Các thuê bao gồm: YouTube, YouTube TV và YouTube Music sẽ được hãng tặng 1 tuần sử dụng miễn phí dịch vụ để bù đắp cho việc dịch vụ bị ngừng hoạt động trong nửa giờ.  Theo các chuyên gia, sự cố YouTube bị sập trên phạm vi toàn cầu vừa qua càng nối dài hơn những rắc rối mà nền tảng chia sẻ video lớn nhất thế giới nói riêng và  gã khổng lồ  Google nói chung gặp phải trong suốt hơn 1 năm qua.  VTV.vn - Trang chia sẻ video lớn nhất thế giới YouTube đã không thể truy cập trên toàn cầu trong sáng nay (17/10).",
+    "context": "người dùng thuê bao trả phí dịch vụ sau sự cố ngừng hoạt động, Google đã có chính sách đền bù cho khách hàng của mình. Các thuê bao gồm: YouTube, YouTube TV và YouTube Music sẽ được hãng tặng 1 tuần sử dụng miễn phí dịch vụ để bù đắp cho việc dịch vụ bị ngừng hoạt động trong nửa giờ. Theo các chuyên gia, sự cố YouTube bị sập trên phạm vi toàn cầu vừa qua càng nối dài hơn những rắc rối mà những rắc rối mà video lớn nhất thế giới nói riêng và gã khổng lồ Google nói chung gặp phải trong suốt hơn 1 năm qua.  VTV.vn - Trang chia sẻ video lớn nhất thế giới YouTube đã không thể truy cập trên toàn cầu trong sáng nay (17/10).",
     "qas": [
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 29,
+                    "text": "người dùng thuê bao"
                 }
             ],
-            "question": "",
+            "question": "Hiểu được những khó chịu của ai?",
             "id": "7aa0f4d5a3247b8034cc9949ba8ab1c94fd1f32e1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 76,
+                    "text": "chính sách đền bù"
                 }
             ],
-            "question": "",
+            "question": "Google đã có chính sách gì?",
             "id": "7aa0f4d5a3247b8034cc9949ba8ab1c94fd1f32e2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 192,
+                    "text": "1 tuần"
                 }
             ],
-            "question": "",
+            "question": "sẽ được hãng tặng mấy tuần sử dụng miễn phí?",
             "id": "7aa0f4d5a3247b8034cc9949ba8ab1c94fd1f32e3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 558,
+                    "text": "YouTube"
                 }
             ],
-            "question": "",
+            "question": "Trang chia sẻ video lớn nhất thế giới là gì?",
             "id": "7aa0f4d5a3247b8034cc9949ba8ab1c94fd1f32e4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 408,
+                    "text": "video lớn nhất thế giới"
                 }
             ],
-            "question": "",
+            "question": "những rắc rối mà gì?",
             "id": "7aa0f4d5a3247b8034cc9949ba8ab1c94fd1f32e5"
         }
     ]

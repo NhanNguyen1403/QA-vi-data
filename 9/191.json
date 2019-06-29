@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 60,
+                    "text": "năm 2019"
                 }
             ],
-            "question": "",
+            "question": "Ngày 8/12, Quốc hội Hàn Quốc đã thông qua dự thảo ngân sách năm nào?",
             "id": "210eabc5820bedcffc19e9869cfbed235baaf98b1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 84,
+                    "text": "418"
                 }
             ],
-            "question": "",
+            "question": "thông qua dự thảo ngân sách năm 2019 với quy mô hơn mấy tỷ USD?",
             "id": "210eabc5820bedcffc19e9869cfbed235baaf98b2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 150,
+                    "text": "40"
                 }
             ],
-            "question": "",
+            "question": "ngân sách dành cho quốc phòng là khoảng hơn mấy tỷ USD",
             "id": "210eabc5820bedcffc19e9869cfbed235baaf98b3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 266,
+                    "text": "10 năm"
                 }
             ],
-            "question": "",
+            "question": "Đây là mức tăng ngân sách quốc phòng cao nhất trong mấy năm?",
             "id": "210eabc5820bedcffc19e9869cfbed235baaf98b4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 425,
+                    "text": "sự ủng hộ mạnh mẽ"
                 }
             ],
-            "question": "",
+            "question": "Điều này cho thấy gì?",
             "id": "210eabc5820bedcffc19e9869cfbed235baaf98b5"
         }
     ]

@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 17,
+                    "text": "Arsenal"
                 }
             ],
-            "question": "",
+            "question": "Sau trận hòa với ai?",
             "id": "edc29141f1a5d7ed8a55895af40dfdb1209692011"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 74,
+                    "text": "4 trận"
                 }
             ],
-            "question": "",
+            "question": "Manchester United đã không biết mùi chiến thắng mấy trận liên tiếp",
             "id": "edc29141f1a5d7ed8a55895af40dfdb1209692012"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 93,
+                    "text": "Ngoại hạng Anh"
                 }
             ],
-            "question": "",
+            "question": "Manchester United đã không biết mùi chiến thắng 4 trận liên tiếp ở đâu?",
             "id": "edc29141f1a5d7ed8a55895af40dfdb1209692013"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 144,
+                    "text": "sân nhà Old Trafford"
                 }
             ],
-            "question": "",
+            "question": "Tiếp đón đội cuối bảng Fulham trên sân gì?",
             "id": "edc29141f1a5d7ed8a55895af40dfdb1209692014"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 234,
+                    "text": "3 điểm"
                 }
             ],
-            "question": "",
+            "question": "cơ hội không thể tốt hơn để thầy trò HLV Jose Mourinho giành trọn mấy điểm?",
             "id": "edc29141f1a5d7ed8a55895af40dfdb1209692015"
         }
     ]
