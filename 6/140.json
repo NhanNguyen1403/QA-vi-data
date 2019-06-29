@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 208,
+                    "text": "xã Thủy Vân"
                 }
             ],
-            "question": "",
+            "question": "Làng hoa truyền thống Xuân Hòa ở xã nào?",
             "id": "4f0eec4a562bc3c85b0ab484b00d2527bad96b261"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 511,
+                    "text": "Hoa Tết"
                 }
             ],
-            "question": "",
+            "question": "vụ hoa nào cung cấp nhiều nhất cho thị trường?",
             "id": "4f0eec4a562bc3c85b0ab484b00d2527bad96b262"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 12,
+                    "text": "địa hình trũng thấp"
                 }
             ],
-            "question": "",
+            "question": "đặc điểm địa hình của Thừa Thiên-Huế là gì?",
             "id": "4f0eec4a562bc3c85b0ab484b00d2527bad96b263"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1725,
+                    "text": "đầu tháng 9 âm lịch"
                 }
             ],
-            "question": "",
+            "question": "Hoa vụ Tết được xuống giống từ tháng mấy âm lịch?",
             "id": "4f0eec4a562bc3c85b0ab484b00d2527bad96b264"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1512,
+                    "text": "từ 90 đến 120 ngày"
                 }
             ],
-            "question": "",
+            "question": "Mỗi vụ hoa từ lúc gieo trồng cho đến khi thu hoạch thường kéo dài bao nhiêu ngày?",
             "id": "4f0eec4a562bc3c85b0ab484b00d2527bad96b265"
         }
     ]
