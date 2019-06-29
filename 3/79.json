@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 13,
+                    "text": "phía bắc Amsterdam"
                 }
             ],
-            "question": "",
+            "question": "Ngôi nhà nằm ở đâu?",
             "id": "7e08174ff3a77c63c49893b90c9821b54fc49d151"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 138,
+                    "text": "nội thất"
                 }
             ],
-            "question": "",
+            "question": "Cách thiết kế gì?",
             "id": "7e08174ff3a77c63c49893b90c9821b54fc49d152"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 162,
+                    "text": "tối ưu hóa"
                 }
             ],
-            "question": "",
+            "question": "Cách thiết kế nội thất bên trong giúp gì?",
             "id": "7e08174ff3a77c63c49893b90c9821b54fc49d153"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 408,
+                    "text": "tiết kiệm không gian"
                 }
             ],
-            "question": "",
+            "question": "Những kệ sách hay tủ nằm gọn trong tường giúp gì?",
             "id": "7e08174ff3a77c63c49893b90c9821b54fc49d154"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 493,
+                    "text": "phù hợp"
                 }
             ],
-            "question": "",
+            "question": "Màu sắc tường nhà luôn phải gì?",
             "id": "7e08174ff3a77c63c49893b90c9821b54fc49d155"
         }
     ]

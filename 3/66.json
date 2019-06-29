@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 21,
+                    "text": "chính thức"
                 }
             ],
-            "question": "",
+            "question": "Tiếp tục chuyến thăm gì?",
             "id": "b522c18321ead6323f7dcb6490bd57cb1ec74ec61"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 71,
+                    "text": "Nguyễn Thị Kim Ngân"
                 }
             ],
-            "question": "",
+            "question": "Chủ tịch Quốc hội nào cùng Chủ tịch Quốc hội Hàn Quốc?",
             "id": "b522c18321ead6323f7dcb6490bd57cb1ec74ec62"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 258,
+                    "text": "62 tỷ USD"
                 }
             ],
-            "question": "",
+            "question": "Phát biểu tại diễn đàn, Chủ tịch Quốc hội khẳng định với hơn máy tỷ USD?",
             "id": "b522c18321ead6323f7dcb6490bd57cb1ec74ec63"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 332,
+                    "text": "quan trọng"
                 }
             ],
-            "question": "",
+            "question": "doanh nghiệp Hàn Quốc đang giữ vai trò gì?",
             "id": "b522c18321ead6323f7dcb6490bd57cb1ec74ec64"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 452,
+                    "text": "100 tỷ USD"
                 }
             ],
-            "question": "",
+            "question": "Với mục tiêu nâng kim ngạch thương mại song phương lên mấy tỷ USD?",
             "id": "b522c18321ead6323f7dcb6490bd57cb1ec74ec65"
         }
     ]

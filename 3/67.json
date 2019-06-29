@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 22,
+                    "text": "Trụ sở Trung ương Đảng"
                 }
             ],
-            "question": "",
+            "question": "Chiều nay (7/12), tại đâu?",
             "id": "b7f8dc8bc100d8723c55b4f2d1347486c8834b391"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 56,
+                    "text": "đại biểu cấp cao Chính phủ Hoàng gia Campuchia"
                 }
             ],
-            "question": "",
+            "question": "tiếp Đoàn đại biểu gì?",
             "id": "b7f8dc8bc100d8723c55b4f2d1347486c8834b392"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 106,
+                    "text": "Samdech Techo Hun Sen"
                 }
             ],
-            "question": "",
+            "question": "tiếp Đoàn đại biểu cấp cao Chính phủ Hoàng gia Campuchia do ai?",
             "id": "b7f8dc8bc100d8723c55b4f2d1347486c8834b393"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 243,
+                    "text": "sự kiện quan trọng"
                 }
             ],
-            "question": "",
+            "question": "Chủ tịch nước Nguyễn Phú Trọng coi đây là gì?",
             "id": "b7f8dc8bc100d8723c55b4f2d1347486c8834b394"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 403,
+                    "text": "Tổng Bí thư Nguyễn Phú Trọng"
                 }
             ],
-            "question": "",
+            "question": "Thủ tướng Samdech Techo Hun Sen chúc mừng ai?",
             "id": "b7f8dc8bc100d8723c55b4f2d1347486c8834b395"
         }
     ]

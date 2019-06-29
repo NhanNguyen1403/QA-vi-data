@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 26,
+                    "text": "phát triển"
                 }
             ],
-            "question": "",
+            "question": "Kinh tế tư nhân ngày càng gì?",
             "id": "aa579b725d5001c786ba07ccd1f36c7306e182e11"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 51,
+                    "text": "vai trò"
                 }
             ],
-            "question": "",
+            "question": "Kinh tế tư nhân ngày càng phát triển và khẳng định gì?",
             "id": "aa579b725d5001c786ba07ccd1f36c7306e182e12"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 85,
+                    "text": "2017"
                 }
             ],
-            "question": "",
+            "question": "Chỉ riêng năm nào?",
             "id": "aa579b725d5001c786ba07ccd1f36c7306e182e13"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 100,
+                    "text": "100.000"
                 }
             ],
-            "question": "",
+            "question": "Chỉ riêng năm 2017 đã có hơn mấy doanh nghiệp?",
             "id": "aa579b725d5001c786ba07ccd1f36c7306e182e14"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 199,
+                    "text": "600.000"
                 }
             ],
-            "question": "",
+            "question": "đưa số doanh nghiệp tư nhân cả nước lên mấy doanh nghiệp?",
             "id": "aa579b725d5001c786ba07ccd1f36c7306e182e15"
         }
     ]

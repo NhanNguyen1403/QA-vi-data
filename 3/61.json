@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 9,
+                    "text": "100 năm"
                 }
             ],
-            "question": "",
+            "question": "Cách nay mấy năm?",
             "id": "41d3fc73db190affc62d243b7430967621261cfe1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 32,
+                    "text": "Cách mạng"
                 }
             ],
-            "question": "",
+            "question": "Cách nay 100 năm, thắng lợi của gì?",
             "id": "41d3fc73db190affc62d243b7430967621261cfe2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 61,
+                    "text": "mặt trời"
                 }
             ],
-            "question": "",
+            "question": "Cách mạng tháng Mười Nga như gì?",
             "id": "41d3fc73db190affc62d243b7430967621261cfe3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 79,
+                    "text": "gieo niềm hy vọng"
                 }
             ],
-            "question": "",
+            "question": "Cách mạng tháng Mười Nga như mặt trời chói lọi gieo gì",
             "id": "41d3fc73db190affc62d243b7430967621261cfe4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 101,
+                    "text": "Nguyễn Ái Quốc"
                 }
             ],
-            "question": "",
+            "question": "gieo niềm hy vọng cho ai?",
             "id": "41d3fc73db190affc62d243b7430967621261cfe5"
         }
     ]

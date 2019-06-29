@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 30,
+                    "text": "4 tháng"
                 }
             ],
-            "question": "",
+            "question": "Cuộc bỏ phiếu này diễn ra gần mấy tháng?",
             "id": "e0102f51953a98bd85ce2a6e8123a6db23f14cf91"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 46,
+                    "text": "Mỹ"
                 }
             ],
-            "question": "",
+            "question": "Cuộc bỏ phiếu này diễn ra gần 4 tháng sau khi ai quyết định rút khỏi Hội đồng Nhân quyền?",
             "id": "e0102f51953a98bd85ce2a6e8123a6db23f14cf92"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 69,
+                    "text": "Hội đồng Nhân quyền"
                 }
             ],
-            "question": "",
+            "question": "Cuộc bỏ phiếu này diễn ra gần 4 tháng sau khi ai quyết định rút khỏi đâu?",
             "id": "e0102f51953a98bd85ce2a6e8123a6db23f14cf93"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 140,
+                    "text": "193"
                 }
             ],
-            "question": "",
+            "question": "Mấy quốc gia thành viên Liên Hợp Quốc?",
             "id": "e0102f51953a98bd85ce2a6e8123a6db23f14cf94"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 778,
+                    "text": "năm 2006"
                 }
             ],
-            "question": "",
+            "question": "Hội đồng Nhân quyền được Liên Hợp Quốc thành lập năm nào?",
             "id": "e0102f51953a98bd85ce2a6e8123a6db23f14cf95"
         }
     ]

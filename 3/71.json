@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 30,
+                    "text": "bạo động"
                 }
             ],
-            "question": "",
+            "question": "Trước những cuộc biểu tình và gì?",
             "id": "4ee3c95063e699d3bf346c0a729c9f752808e35b1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 43,
+                    "text": "Pháp"
                 }
             ],
-            "question": "",
+            "question": "Trước những cuộc biểu tình và bạo động tại đâu?",
             "id": "4ee3c95063e699d3bf346c0a729c9f752808e35b2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 52,
+                    "text": "chấn động"
                 }
             ],
-            "question": "",
+            "question": "Trước những cuộc biểu tình và bạo động tại Pháp gây gì?",
             "id": "4ee3c95063e699d3bf346c0a729c9f752808e35b3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 229,
+                    "text": "Twitter"
                 }
             ],
-            "question": "",
+            "question": "Ông Trump đăng tải trên đâu?",
             "id": "4ee3c95063e699d3bf346c0a729c9f752808e35b4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 303,
+                    "text": "Paris"
                 }
             ],
-            "question": "",
+            "question": "Hiệp định khí hậu Paris chẳng có hiệu quả đối với đâu?",
             "id": "4ee3c95063e699d3bf346c0a729c9f752808e35b5"
         }
     ]

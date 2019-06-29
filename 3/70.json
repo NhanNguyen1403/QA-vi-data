@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 24,
+                    "text": "là tạm thời"
                 }
             ],
-            "question": "",
+            "question": "Khoảng giảm mưa này chỉ là gì?",
             "id": "4818e9cfd2fb8759cc4be55a7d72e0623ef720d01"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 43,
+                    "text": "ngày 11/12"
                 }
             ],
-            "question": "",
+            "question": "Khoảng giảm mưa này chỉ là tạm thời vì vào ngày nào?",
             "id": "4818e9cfd2fb8759cc4be55a7d72e0623ef720d02"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 126,
+                    "text": "Bình Định"
                 }
             ],
-            "question": "",
+            "question": "khu vực từ Thanh Hóa đến đâu?",
             "id": "4818e9cfd2fb8759cc4be55a7d72e0623ef720d03"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 441,
+                    "text": "ngập lụt"
                 }
             ],
-            "question": "",
+            "question": "Tại tỉnh Quảng Trị, trời có mưa lớn gây gì?",
             "id": "4818e9cfd2fb8759cc4be55a7d72e0623ef720d04"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1463,
+                    "text": "các tầng cao"
                 }
             ],
-            "question": "",
+            "question": "Do ảnh hưởng của không khí lạnh kết hợp hội tụ gió trên đâu?",
             "id": "4818e9cfd2fb8759cc4be55a7d72e0623ef720d05"
         }
     ]

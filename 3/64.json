@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 31,
+                    "text": "Làng Cam"
                 }
             ],
-            "question": "",
+            "question": "Người đang có ý tưởng xây dựng gì?",
             "id": "74a45acb2282dbc235cf58e7477537b41105f23e1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 82,
+                    "text": "hiện thực"
                 }
             ],
-            "question": "",
+            "question": "đang thúc đẩy để ý tưởng này trở thành gì?",
             "id": "74a45acb2282dbc235cf58e7477537b41105f23e2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 60,
+                    "text": "ý tưởng"
                 }
             ],
-            "question": "",
+            "question": "xây dựng Làng Cam và đang thúc đẩy để gì?",
             "id": "74a45acb2282dbc235cf58e7477537b41105f23e3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 220,
+                    "text": "Nguyễn Thị Ngọc Phượng"
                 }
             ],
-            "question": "",
+            "question": "Sau đây là những chia sẻ của ai?",
             "id": "74a45acb2282dbc235cf58e7477537b41105f23e4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 282,
+                    "text": "chất độc da cam"
                 }
             ],
-            "question": "",
+            "question": "một nạn nhân của gì?",
             "id": "74a45acb2282dbc235cf58e7477537b41105f23e5"
         }
     ]

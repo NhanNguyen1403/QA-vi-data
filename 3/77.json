@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 11,
+                    "text": "thứ 12"
                 }
             ],
-            "question": "",
+            "question": "Tại kỳ họp thứ mấy?",
             "id": "6ba256efb213b9d3bf1a4e12b2a04532b304ac121"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 63,
+                    "text": "quy định mức hỗ trợ"
                 }
             ],
-            "question": "",
+            "question": "Tại kỳ họp thứ 12 HĐND TP.HCM khóa IX đã thông qua tờ trình về gì?",
             "id": "6ba256efb213b9d3bf1a4e12b2a04532b304ac122"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 191,
+                    "text": "cần hỗ trợ"
                 }
             ],
-            "question": "",
+            "question": "Theo đó, đối với nhóm trẻ cần gì?",
             "id": "6ba256efb213b9d3bf1a4e12b2a04532b304ac123"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 250,
+                    "text": "34,7 triệu"
                 }
             ],
-            "question": "",
+            "question": "mức hỗ trợ tối đa là bao nhiêu?",
             "id": "6ba256efb213b9d3bf1a4e12b2a04532b304ac124"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 407,
+                    "text": "315"
                 }
             ],
-            "question": "",
+            "question": "dự kiến sẽ lắp mấy camera",
             "id": "6ba256efb213b9d3bf1a4e12b2a04532b304ac125"
         }
     ]

@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 31,
+                    "text": "hiệu quả kinh tế"
                 }
             ],
-            "question": "",
+            "question": "Không chỉ là loài cây mang lại gì?",
             "id": "103b34985276ba67537acfa070d2c836f3331f921"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 66,
+                    "text": "một trong những loài cây thích nghi"
                 }
             ],
-            "question": "",
+            "question": "Không chỉ là loài cây mang lại hiệu quả kinh tế mà cây dừa còn là gì?",
             "id": "103b34985276ba67537acfa070d2c836f3331f922"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 106,
+                    "text": "điều kiện biến đổi khí hậu"
                 }
             ],
-            "question": "",
+            "question": "cây dừa còn là một trong những loài cây thích nghi với gì?",
             "id": "103b34985276ba67537acfa070d2c836f3331f923"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 156,
+                    "text": "khả năng chịu mặn"
                 }
             ],
-            "question": "",
+            "question": "Bởi vì cây dừa vừa có gì?",
             "id": "103b34985276ba67537acfa070d2c836f3331f924"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 517,
+                    "text": "có giá trị khai thác"
                 }
             ],
-            "question": "",
+            "question": "Dừa là một trong những loài cây gì?",
             "id": "103b34985276ba67537acfa070d2c836f3331f925"
         }
     ]

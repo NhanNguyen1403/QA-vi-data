@@ -4,11 +4,11 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 17,
+                    "text": "khuyến khích"
                 }
             ],
-            "question": "",
+            "question": "Sự kiện này nhằm gì?",
             "id": "58807782b856635c74d7d68a5b03960c9d5798571"
         },
         {
@@ -24,31 +24,31 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 113,
+                    "text": "những địa điểm nổi tiếng"
                 }
             ],
-            "question": "",
+            "question": "Nhà vua Thái Lan, 66 tuổi, cùng hai con gái đã đạp xe quanh gì?",
             "id": "58807782b856635c74d7d68a5b03960c9d5798573"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 140,
+                    "text": "Bangkok"
                 }
             ],
-            "question": "",
+            "question": "Nhà vua Thái Lan, 66 tuổi, cùng hai con gái đã đạp xe quanh những địa điểm nổi tiếng ở đâu?",
             "id": "58807782b856635c74d7d68a5b03960c9d5798574"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 172,
+                    "text": "39km"
                 }
             ],
-            "question": "",
+            "question": "Quãng đường đua xe dài bao nhiêu?",
             "id": "58807782b856635c74d7d68a5b03960c9d5798575"
         }
     ]

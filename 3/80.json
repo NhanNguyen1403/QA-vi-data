@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 25,
+                    "text": "tàn từ lâu"
                 }
             ],
-            "question": "",
+            "question": "ứ ngỡ mùa cúc họa mi đã gì?",
             "id": "30d4eaf197fdcff2babc9eaa63f8a8fe266360931"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 68,
+                    "text": "một vườn hoa"
                 }
             ],
-            "question": "",
+            "question": "giữa lòng Hà Nội vẫn còn gì?",
             "id": "30d4eaf197fdcff2babc9eaa63f8a8fe266360932"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 77,
+                    "text": "hoa cúc"
                 }
             ],
-            "question": "",
+            "question": "giữa lòng Hà Nội vẫn còn một vườn hoa gì?",
             "id": "30d4eaf197fdcff2babc9eaa63f8a8fe266360933"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 151,
+                    "text": "các bạn trẻ"
                 }
             ],
-            "question": "",
+            "question": "thu hút sự quan tâm không nhỏ của ai?",
             "id": "30d4eaf197fdcff2babc9eaa63f8a8fe266360934"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 206,
+                    "text": "giữa tháng 12"
                 }
             ],
-            "question": "",
+            "question": "Dù mùa cúc họa mi đã kết thúc từ lúc nào?",
             "id": "30d4eaf197fdcff2babc9eaa63f8a8fe266360935"
         }
     ]
