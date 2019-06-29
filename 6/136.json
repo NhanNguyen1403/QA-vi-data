@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 22,
+                    "text": "Đỗ Mạnh Thế"
                 }
             ],
-            "question": "",
+            "question": "Nghi can tên là gì?",
             "id": "b6a896723b391c5ba1d87d5a02e8d3e08247329a1"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 43,
+                    "text": "thôn 8, xã Krông Búk, huyện Krông Pắk"
                 }
             ],
-            "question": "",
+            "question": "Địa chỉ thường trú của nghi can?",
             "id": "b6a896723b391c5ba1d87d5a02e8d3e08247329a2"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 202,
+                    "text": "2/5/2018"
                 }
             ],
-            "question": "",
+            "question": "Ngày xảy ra vụ án là ngày mấy?",
             "id": "b6a896723b391c5ba1d87d5a02e8d3e08247329a3"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 71,
+                    "text": "Krông Pắk"
                 }
             ],
-            "question": "",
+            "question": "Vụ án xảy ra ở huyện nào?",
             "id": "b6a896723b391c5ba1d87d5a02e8d3e08247329a4"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 346,
+                    "text": "bà Thuận"
                 }
             ],
-            "question": "",
+            "question": "Nạn nhân tên là gì?",
             "id": "b6a896723b391c5ba1d87d5a02e8d3e08247329a5"
         }
     ]
