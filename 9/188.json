@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 201,
+                    "text": "người mua xe có thể tìm kiếm đẩy đủ mọi thông tin mình cần trên internet"
                 }
             ],
-            "question": "",
+            "question": "Tại sao người mua ô tô cần tận dụng Internet?",
             "id": "25045d20f6e3617aa4dfd735c41842b3f90842131"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 360,
+                    "text": "nên tìm hiểu kỹ về giá (giá gốc, giá giảm), khuyến mãi, bảo hành bảo trì"
                 }
             ],
-            "question": "",
+            "question": "cần tìm hiểu kỹ lưỡng yếu tố nào trong phần thông tin xe?",
             "id": "25045d20f6e3617aa4dfd735c41842b3f90842132"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 602,
+                    "text": "có làm ăn đàng hoàng hay không, cơ sở vật chất ra sao, đội ngũ nhân viên chăm sóc khách hàng như thế nào"
                 }
             ],
-            "question": "",
+            "question": "những điều cần lưu ý khi chọn đại lý mua xe là gì?",
             "id": "25045d20f6e3617aa4dfd735c41842b3f90842133"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 844,
+                    "text": "công nghệ mới nhất, tính năng cao cấp nhất"
                 }
             ],
-            "question": "",
+            "question": "tại sao người trẻ thường bị xe thể thao cám dỗ?",
             "id": "25045d20f6e3617aa4dfd735c41842b3f90842134"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1274,
+                    "text": "bạn cần phải có một người lớn tuổi hơn, kinh nghiệm hơn để hỗ trợ bạn, người đó có thể là một thành viên trong gia đình"
                 }
             ],
-            "question": "",
+            "question": "điều gì quan trọng vần phải chuẩn bị khi đám phá giá cả xe là gì?",
             "id": "25045d20f6e3617aa4dfd735c41842b3f90842135"
         }
     ]

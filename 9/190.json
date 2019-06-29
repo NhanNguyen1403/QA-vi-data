@@ -4,51 +4,51 @@
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 42,
+                    "text": "xảy ra trên đường cao tốc nối giữa thủ đô Harare và thị trấn miền Đông Rusape"
                 }
             ],
-            "question": "",
+            "question": "Vụ tai nạn xảy ra ở đâu?",
             "id": "415176cf6c3c576c3ce9689a20770a4be696af361"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 126,
+                    "text": "giới chức Zimbabwe"
                 }
             ],
-            "question": "",
+            "question": "ai đang tiến hành điều tra nguyên nhân vụ tai nạn?",
             "id": "415176cf6c3c576c3ce9689a20770a4be696af362"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 77,
+                    "text": "thủ đô Harare"
                 }
             ],
-            "question": "",
+            "question": "Thủ đô Zimbabwe là gì?",
             "id": "415176cf6c3c576c3ce9689a20770a4be696af363"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 136,
+                    "text": "Zimbabwe"
                 }
             ],
-            "question": "",
+            "question": "Rusape thuộc nước nào?",
             "id": "415176cf6c3c576c3ce9689a20770a4be696af364"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 126,
+                    "text": "giới chức Zimbabwe"
                 }
             ],
-            "question": "",
+            "question": "Thông tin vụ tai nạn được công bố bởi ai?",
             "id": "415176cf6c3c576c3ce9689a20770a4be696af365"
         }
     ]
