@@ -5,50 +5,50 @@
             "answers": [
                 {
                     "answer_start": 0,
-                    "text": ""
+                    "text": "HIV/AIDS"
                 }
             ],
-            "question": "",
+            "question": "Căn bệnh nào từng là một căn bệnh thế kỷ?",
             "id": "b6311f08b15e8e72bf52cc351166212d3de34d771"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 135,
+                    "text": "Việt Nam"
                 }
             ],
-            "question": "",
+            "question": "Nước nào đã rất thành công trong việc kiểm soát số người nhiễm H?",
             "id": "b6311f08b15e8e72bf52cc351166212d3de34d772"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 717,
+                    "text": "từ ngày 1/1/2017"
                 }
             ],
-            "question": "",
+            "question": "Từ ngày bao nhiêu thuốc ARV điều trị cho người nhiễm H sẽ không còn được cấp phát miễn phí?",
             "id": "b6311f08b15e8e72bf52cc351166212d3de34d773"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1143,
+                    "text": "từ 2.000 - 3.000 trường hợp"
                 }
             ],
-            "question": "",
+            "question": "Có bao nhiêu trường hợp tử vong do HIV/AIDS mỗi năm?",
             "id": "b6311f08b15e8e72bf52cc351166212d3de34d774"
         },
         {
             "answers": [
                 {
-                    "answer_start": 0,
-                    "text": ""
+                    "answer_start": 1293,
+                    "text": "Giáo sư, Tiến sĩ Nguyễn Hoàng Long"
                 }
             ],
-            "question": "",
+            "question": "Ai là Cục trưởng Cục Phòng chống HIV/AIDS?",
             "id": "b6311f08b15e8e72bf52cc351166212d3de34d775"
         }
     ]
